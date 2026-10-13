@@ -57,7 +57,8 @@ def to_task(o, grade, prefix, content_version):
         "type": o["type"],
         "prompt": o["prompt"].strip(),
     }
-    if o.get("emoji"):
+    # Emoji soru metninde zaten geçiyorsa başlıkta tekrar gösterme (sayma sorularında fazladan nesne gibi görünür)
+    if o.get("emoji") and o["emoji"] not in o["prompt"]:
         t["promptEmoji"] = o["emoji"]
     typ = o["type"]
     if typ == "multiple_choice":

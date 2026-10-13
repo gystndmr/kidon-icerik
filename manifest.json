@@ -1,6 +1,6 @@
 {
   "schema": "kidon.manifest",
-  "version": 2,
+  "version": 3,
   "packs": [
     {
       "id": "2026-w42",
@@ -10,6 +10,9 @@
       "bytes": 113402
     }
   ],
-  "retired": [],
+  "retired": [
+    "u-4-eec4e1e5e5",
+    "u-oo-aa9c7c4d4b"
+  ],
   "updatedAt": "2026-10-12T22:49:58Z"
 }
