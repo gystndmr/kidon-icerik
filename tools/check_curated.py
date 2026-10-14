@@ -8,8 +8,22 @@ from collections import Counter
 SUBJECTS = {"matematik", "turkce", "tarih", "bulmaca", "puzzle", "akil_oyunu", "bilim", "ingilizce"}
 TYPES = {"multiple_choice", "matching", "ordering", "number_input"}
 ALLOWED = {"subject", "skill", "difficulty", "type", "prompt", "emoji", "explanation", "hint",
-           "options", "answer", "pairs", "items", "unit", "ages"}
-AGES = {"3-4", "5-6", "7-8", "9-10", "11-12"}
+           "options", "answer", "pairs", "items", "unit", "ages", "meb"}
+AGES = {"3-4", "5-6", "7-8", "9-10", "11-12", "13-14"}
+MEB_SUBJECTS = {"matematik", "turkce", "hayat_bilgisi", "fen", "sosyal", "inkilap", "ingilizce", "okul_oncesi"}
+
+
+def check_meb(m):
+    """MEB bağlantısı: {"s": ders, "u": ünite no, "o": kazanım kodu (isteğe bağlı)}"""
+    if not isinstance(m, dict) or set(m) - {"s", "u", "o"}:
+        return "meb nesnesi {s,u,o} olmalı"
+    if m.get("s") not in MEB_SUBJECTS:
+        return "meb.s geçersiz"
+    if not (isinstance(m.get("u"), int) and 1 <= m["u"] <= 20):
+        return "meb.u 1-20 tam sayı olmalı"
+    if "o" in m and m["o"] is not None and not (isinstance(m["o"], str) and re.fullmatch(r"[A-Za-zÇĞİÖŞÜçğıöşü0-9.\-]{2,24}", m["o"])):
+        return "meb.o kazanım kodu geçersiz"
+    return None
 
 
 def norm(s):
@@ -49,6 +63,10 @@ def check_item(o):
         e.append("hint geçersiz")
     if "emoji" in o and not nonempty(o["emoji"], 16):
         e.append("emoji geçersiz")
+    if "meb" in o:
+        err = check_meb(o["meb"])
+        if err:
+            e.append(err)
     if "ages" in o and not (isinstance(o["ages"], list) and o["ages"] and all(a in AGES for a in o["ages"])):
         e.append("ages geçersiz")
     if t == "multiple_choice":

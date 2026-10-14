@@ -15,8 +15,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from check_curated import check_item  # noqa: E402
 
-GRADES = ["okul_oncesi", "1", "2", "3", "4", "5", "6"]
-GRADE_CODE = {"okul_oncesi": "oo", "1": "1", "2": "2", "3": "3", "4": "4", "5": "5", "6": "6"}
+GRADES = ["okul_oncesi", "1", "2", "3", "4", "5", "6", "7", "8"]
+GRADE_CODE = {"okul_oncesi": "oo", "1": "1", "2": "2", "3": "3", "4": "4", "5": "5", "6": "6", "7": "7", "8": "8"}
+# 7-8. sınıf görevleri yalnızca bu sürümden sonraki uygulamalara gider (eski uygulamalar bu sınıfları tanımaz)
+NEW_GRADES = {"7", "8"}
 # Sınıf → varsayılan yaş grupları (sınıfı yaşından farklı ilerleyen çocuklar için komşu gruplar dahil)
 DEFAULT_AGES = {
     "okul_oncesi": ["5-6"],
@@ -26,6 +28,8 @@ DEFAULT_AGES = {
     "4": ["9-10", "11-12"],
     "5": ["9-10", "11-12"],
     "6": ["11-12"],
+    "7": ["11-12", "13-14"],
+    "8": ["13-14"],
 }
 LETTERS = "abcdefgh"
 
@@ -38,6 +42,42 @@ def canonical(o):
 def task_id(prefix, grade, o):
     h = hashlib.sha1(canonical(o).encode("utf-8")).hexdigest()[:10]
     return f"{prefix}-{GRADE_CODE[grade]}-{h}"
+
+
+def load_mapping(root):
+    """content/meb/esleme/<sinif>.json → {(sinif, ders, beceri): {"s","u","o"} | None}"""
+    out = {}
+    d = Path(root) / "content" / "meb" / "esleme"
+    if not d.exists():
+        return out
+    for f in sorted(d.glob("*.json")):
+        grade = f.stem
+        for key, v in json.loads(f.read_text(encoding="utf-8")).items():
+            subject, skill = key.split("/", 1)
+            out[(grade, subject, skill)] = v
+    return out
+
+
+SCHOOL_SUBJECTS = {"matematik", "turkce", "bilim", "tarih"}
+
+
+def apply_meb(task, mapping):
+    """Görevde açık meb yoksa sınıf/ders/beceri eşlemesinden ekler. Kimlik değişmez (canonical meb içermez).
+    Eşlemede bilinçli olarak null verilmiş okul dersi becerisi (ör. TYMM'de üst sınıfa taşınan konu)
+    "offProgram": true ile işaretlenir; uygulama bunları en sona bırakır."""
+    if "meb" in task or not mapping:
+        return task
+    for g in task["grades"]:
+        key = (g, task["subject"], task["skill"])
+        if key not in mapping:
+            continue
+        m = mapping[key]
+        if m:
+            task["meb"] = {k: v for k, v in m.items() if v is not None}
+        elif task["subject"] in SCHOOL_SUBJECTS:
+            task["offProgram"] = True
+        break
+    return task
 
 
 def to_task(o, grade, prefix, content_version):
@@ -91,6 +131,8 @@ def to_task(o, grade, prefix, content_version):
     t["explanation"] = o["explanation"].strip()
     if o.get("hint"):
         t["hint"] = o["hint"].strip()
+    if o.get("meb"):
+        t["meb"] = {k: v for k, v in o["meb"].items() if v is not None}
     t["active"] = True
     return t
 
@@ -111,10 +153,8 @@ def tasks_from_dir(directory, prefix, content_version, seen):
     """directory/<sinif>.jsonl dosyalarından görevler. `seen`: id kümesi (tekrarları atlar)."""
     tasks = []
     for g in GRADES:
-        p = Path(directory) / f"{g}.jsonl"
-        if not p.exists():
-            continue
-        for o in read_jsonl(p):
+        files = [Path(directory) / f"{g}.jsonl"] + sorted(Path(directory).glob(f"{g}-*.jsonl"))
+        for o in (x for p in files if p.exists() for x in read_jsonl(p)):
             t = to_task(o, g, prefix, content_version)
             if t["id"] in seen:
                 continue

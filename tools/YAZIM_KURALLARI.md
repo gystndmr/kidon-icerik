@@ -15,6 +15,13 @@ Her satır bir görevdir (tek satır JSON, UTF-8). Dosya: `content/src/curated/<
 | explanation | evet | Cevap sonrası gösterilen, 1–2 cümlelik, cesaretlendirici, öğretici açıklama |
 | hint | hayır | Cevabı vermeyen ipucu |
 
+## MEB bağlantısı (zorunlu: matematik, türkçe, bilim, tarih, ingilizce)
+`"meb": {"s": "<ders>", "u": <ünite no>, "o": "<kazanım kodu>"}` — `tools/mufredat.json` içindeki o sınıfın ünitesi ve öğrenme çıktısı.
+- `s`: `matematik`, `turkce`, `hayat_bilgisi` (1–3), `fen` (3–8), `sosyal` (4–7), `inkilap` (8), `ingilizce` (2–8), `okul_oncesi` (u = alan no).
+- `o` emin değilseniz yazılmaz. O sınıfın programında olmayan konu YAZILMAZ.
+- Yeni görevler, o haftalarda okulda işlenen ünitelere (mufredat.json → `weeks`) öncelik verecek şekilde seçilir.
+- 7. ve 8. sınıf (LGS) desteklenir: 4 seçenekli, tek doğru cevaplı, LGS hazırlık tarzı sorular.
+
 ## Türler
 - **multiple_choice**: `"options": [3 veya 4 metin]`, `"answer": doğru seçeneğin 0'dan başlayan sırası`. Seçenekler benzersiz, makul çeldiriciler; "hepsi / hiçbiri" yok. Sıra önemli değil (betik karıştırır).
 - **matching**: `"pairs": [["sol","sağ"], …]` 3–4 çift; sol değerler de sağ değerler de benzersiz.

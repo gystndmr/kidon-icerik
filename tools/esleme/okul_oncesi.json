@@ -1,0 +1,269 @@
+{
+ "akil_oyunu/ait_olmayan": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "akil_oyunu/gruplama": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "akil_oyunu/hangisi_farkli": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "akil_oyunu/hayvan_sesleri": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "akil_oyunu/iliskilendirme": null,
+ "akil_oyunu/neden_sonuc": {
+  "s": "okul_oncesi",
+  "u": 6,
+  "o": "FAB.12.c"
+ },
+ "bilim/bes_duyu": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/bitkiler": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/gece_gunduz": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.9.b"
+ },
+ "bilim/hava_durumu": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/hayvan_beslenme": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/hayvan_yasam_yeri": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/hayvan_yavrulari": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/mevsimler": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/meyve_sebze": {
+  "s": "okul_oncesi",
+  "u": 6,
+  "o": "FAB.12.b"
+ },
+ "bilim/saglikli_yasam": {
+  "s": "okul_oncesi",
+  "u": 8
+ },
+ "bilim/su": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "bilim/vucudumuz": {
+  "s": "okul_oncesi",
+  "u": 8
+ },
+ "bulmaca/agir_hafif": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "bulmaca/bilmece": {
+  "s": "okul_oncesi",
+  "u": 1,
+  "o": "TADB.3"
+ },
+ "bulmaca/buyuk_kucuk": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "bulmaca/farkli_olan": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "bulmaca/hizli_yavas": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "bulmaca/karsilastirma": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "bulmaca/renkler": {
+  "s": "okul_oncesi",
+  "u": 9
+ },
+ "bulmaca/sekiller": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.9.a"
+ },
+ "bulmaca/uzun_kisa": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "ingilizce/animals": null,
+ "ingilizce/body": null,
+ "ingilizce/colors": null,
+ "ingilizce/family": null,
+ "ingilizce/fruits": null,
+ "ingilizce/numbers": null,
+ "ingilizce/vocab_animals": null,
+ "ingilizce/vocab_colors": null,
+ "ingilizce/vocab_fruits": null,
+ "ingilizce/vocab_numbers": null,
+ "matematik/az_cok": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "matematik/karsilastirma": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "matematik/konum": {
+  "s": "okul_oncesi",
+  "u": 5
+ },
+ "matematik/sayi_sirasi": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.1.d"
+ },
+ "matematik/sayma": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.1"
+ },
+ "matematik/sekiller": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.9.a"
+ },
+ "matematik/toplama_5": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.5"
+ },
+ "matematik/uzun_kisa": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "puzzle/eksik_parca": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "puzzle/emoji_oruntu": {
+  "s": "okul_oncesi",
+  "u": 5
+ },
+ "puzzle/gunluk_rutin": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.9.b"
+ },
+ "puzzle/kucukten_buyuge": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.4.d"
+ },
+ "puzzle/olay_sirasi": {
+  "s": "okul_oncesi",
+  "u": 6
+ },
+ "puzzle/oruntu": {
+  "s": "okul_oncesi",
+  "u": 5
+ },
+ "puzzle/siralama": {
+  "s": "okul_oncesi",
+  "u": 5,
+  "o": "MAB.1.e"
+ },
+ "tarih/aile": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/ataturk": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/milli_bayramlar": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/nezaket": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/okul_kurallari": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/paylasmak": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/sembollerimiz": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "tarih/trafik": {
+  "s": "okul_oncesi",
+  "u": 7
+ },
+ "turkce/harf_kelime": {
+  "s": "okul_oncesi",
+  "u": 4,
+  "o": "TAEOB.3"
+ },
+ "turkce/harf_tanima": {
+  "s": "okul_oncesi",
+  "u": 4,
+  "o": "TAEOB.3"
+ },
+ "turkce/ilk_ses": {
+  "s": "okul_oncesi",
+  "u": 4,
+  "o": "TAEOB.2"
+ },
+ "turkce/kafiye": {
+  "s": "okul_oncesi",
+  "u": 4,
+  "o": "TAEOB.2"
+ },
+ "turkce/kelime_resim": {
+  "s": "okul_oncesi",
+  "u": 2,
+  "o": "TAOB.2"
+ },
+ "turkce/kelime_tanima": {
+  "s": "okul_oncesi",
+  "u": 4,
+  "o": "TAEOB.1"
+ },
+ "turkce/son_ses": {
+  "s": "okul_oncesi",
+  "u": 4,
+  "o": "TAEOB.2"
+ }
+}
