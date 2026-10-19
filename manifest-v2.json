@@ -1,6 +1,6 @@
 {
   "schema": "kidon.manifest",
-  "version": 5,
+  "version": 6,
   "packs": [
     {
       "id": "2026-w42",
@@ -8,12 +8,26 @@
       "version": 5,
       "sha256": "d7e24048738b65570f7b7c46be68dc59c3bdff9f74ebab66356e3a486e307452",
       "bytes": 115981
+    },
+    {
+      "id": "2026-w43",
+      "url": "packs/2026-w43.json",
+      "version": 6,
+      "sha256": "4c97d31d63c98dd5859138d5402a71557cb85d7f9107c5bc70b3ce986b5368c0",
+      "bytes": 122767
+    },
+    {
+      "id": "2026-w43-78",
+      "url": "packs/2026-w43-78.json",
+      "version": 6,
+      "sha256": "359043844ae44e821d0d1e370e789e6267c16e47303c14a84d1c28d840ac8221",
+      "bytes": 44292
     }
   ],
   "retired": [
     "u-4-eec4e1e5e5",
     "u-oo-aa9c7c4d4b"
   ],
-  "updatedAt": "2026-10-14T02:16:59Z",
+  "updatedAt": "2026-10-19T03:14:52Z",
   "note": "KidOn 1.1+ (7-8. sınıf paketleri dahil)"
 }
