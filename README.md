@@ -7,7 +7,7 @@ yeni paketleri indirir, sha256 ve şema doğrulamasından geçirir ve uygulamaya
 - `manifest-v2.json`: uygulama 1.1+ (okul öncesi–8. sınıf; 7-8. sınıf paketleri `-78` ekiyle ayrıdır).
 - Görevler MEB müfredatına bağlıdır (`meb` alanı: ders, ünite, kazanım). Müfredat: `tools/mufredat.json`; eski becerilerin ünite eşlemesi: `tools/esleme/`.
 
-- Burada **yalnızca soru içeriği** bulunur. Çocuk verisi, kullanım bilgisi veya kişisel veri bu depoya hiçbir zaman yazılmaz; uygulama buraya hiçbir şey göndermez.
+- Burada **yalnızca soru içeriği** ve soruların isimsiz kalite sayıları (`veri/`) bulunur. Çocuk verisi veya kişisel veri bu depoya hiçbir zaman yazılmaz.
 - Depo **herkese açık** olmalıdır (uygulama kimlik doğrulaması olmadan okur).
 
 ## Yeni paket ekleme
@@ -21,3 +21,9 @@ Görevin kimliğini (`u-3-…`) `manifest.json` → `retired` listesine ekleyip 
 Bir paketi tamamen geri çekmek için `packs` listesinden çıkarın (uygulama önbellekten siler).
 
 Haftalık otomatik paketler `sources/<yıl>-w<hafta>/` adıyla eklenir.
+
+## Kendini geliştiren içerik
+1. Uygulama (1.1+) ebeveyn izin verdiyse günde bir kez **isimsiz** soru istatistiği gönderir: görev kimliği, sınıf, içerik sürümü, ilk denemede kaç kez gösterildi / doğru yapıldı, sonradan doğru, en sık 3 yanlış cevap. Ayrıca çocuk "🚩 Bu soruda hata var" ile soru bildirebilir (görev kimliği + sebep). Ad, profil, cihaz, zaman bilgisi gönderilmez. Sunucu: `sunucu/istatistik.sql`.
+2. Her pazar gecesi `.github/workflows/istatistik.yml` toplamları `veri/soru_istatistik.json`'a çeker ve `python3 tools/kalite.py analiz` ile `veri/kalite_raporu.md` + `veri/adaylar.json` üretir.
+3. Pazartesi haftalık görev: bildirilen ve cevap anahtarı şüpheli soruları okur, gerçekten hatalı olanları `python3 tools/kalite.py uygula --geri-cek id1,id2` ile geri çeker (gerekirse düzeltilmiş hâlini yeni pakete yazar), `--zorluk-otomatik` ile zorluk düzeltmelerini `manifest-v2.json` → `adjust`'a yazar ve yeni soruları çocukların zorlandığı ünitelere ağırlık vererek üretir.
+4. `tools/gomulu/tasks.json.gz`: uygulamaya gömülü görevlerin kopyası (analiz için). Uygulamanın gömülü içeriği değişince güncellenmeli.

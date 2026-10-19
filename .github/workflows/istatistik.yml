@@ -1,0 +1,32 @@
+# Kendini geliştiren içerik: her pazar gecesi isimsiz soru istatistiklerini sunucudan çeker,
+# kalite raporunu üretir ve depoya yazar. Pazartesi sabahki haftalık görev bu dosyaları kullanır.
+# Gelen veri yalnızca sayılardır (görev kimliği, sınıf, doğru/yanlış sayıları, hata bildirimi sayıları).
+name: Soru istatistikleri
+on:
+  schedule:
+    - cron: '7 22 * * 0'   # pazar 22:07 UTC (pazartesi 01:07 TSİ)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: istatistik
+jobs:
+  cek:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: İstatistikleri çek
+        env:
+          URL: https://bdxfwjntqsdzuqyxkwoo.supabase.co/rest/v1/rpc/question_quality
+          KEY: sb_publishable_YHYqisqRXYUm5LftOvEEkg_sU8RpFtN
+        run: |
+          mkdir -p veri
+          curl -sSf --retry 3 -X POST "$URL" -H "apikey: $KEY" -H "Content-Type: application/json" -d '{}' -o /tmp/q.json
+          python3 -c "import json;d=json.load(open('/tmp/q.json'));assert 'stats' in d and 'reports' in d;json.dump(d,open('veri/soru_istatistik.json','w'),ensure_ascii=False,indent=0,sort_keys=True)"
+      - name: Kalite raporu
+        run: python3 tools/kalite.py analiz
+      - name: Kaydet
+        run: |
+          git config user.name "kidon-istatistik"
+          git config user.email "actions@users.noreply.github.com"
+          git add veri
+          git diff --cached --quiet || (git commit -m "Soru istatistikleri $(date -u +%F)" && git push)
