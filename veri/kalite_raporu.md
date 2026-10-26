@@ -1,6 +1,6 @@
 # KidOn soru kalite raporu
 
-İstatistik: 2026-10-19T23:57:59.962904+00:00 · 0 görev, 0 ilk deneme (ilk denemede doğru -), 0 hata bildirimi.
+İstatistik: 2026-10-26T00:08:00.771208+00:00 · 0 görev, 0 ilk deneme (ilk denemede doğru -), 0 hata bildirimi.
 
 ## İncelenecek (çocuk/ebeveyn bildirdi)
 
