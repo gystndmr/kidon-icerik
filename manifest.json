@@ -1,6 +1,6 @@
 {
   "schema": "kidon.manifest",
-  "version": 6,
+  "version": 7,
   "packs": [
     {
       "id": "2026-w42",
@@ -15,11 +15,18 @@
       "version": 6,
       "sha256": "4c97d31d63c98dd5859138d5402a71557cb85d7f9107c5bc70b3ce986b5368c0",
       "bytes": 122767
+    },
+    {
+      "id": "2026-w44",
+      "url": "packs/2026-w44.json",
+      "version": 7,
+      "sha256": "1e486b13739c6d84a9341957ec934abbfe8b663d4b6837a352edc0b90af25a7c",
+      "bytes": 126930
     }
   ],
   "retired": [
     "u-4-eec4e1e5e5",
     "u-oo-aa9c7c4d4b"
   ],
-  "updatedAt": "2026-10-19T03:14:52Z"
+  "updatedAt": "2026-10-26T03:12:54Z"
 }
