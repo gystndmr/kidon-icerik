@@ -2,12 +2,15 @@
 1	1 + 2 kaç eder?
 1	1 + 7 kaç eder?
 1	1 + 9 kaç eder?
+1	1 deste 10 tanedir. 1 deste ve 3 tane kalem toplam kaç kalem eder?
 1	1 onluk 6 birlik kaç eder?
 1	1 onluk ve 6 birlikten oluşan sayı kaçtır?
 1	1 onluk ve 9 birlik hangi sayıyı oluşturur?
 1	10 + 3 kaç eder?
 1	10 + 5 kaç eder?
+1	10 boncuğun 4'ü kırmızı, geri kalanı sarı. kaç sarı boncuk var?
 1	10 kasım'da bayraklarımız neden yarıya indirilir?
+1	10 kasım'da kimi saygı ve özlemle anarız?
 1	10 kasım'da okullarda atatürk'ü anmak için saat kaçta saygı duruşunda bulunulur?
 1	10 tl ile 10 tl toplam kaç tl eder?
 1	10 − 4 = ?
@@ -69,6 +72,7 @@
 1	15 − 11 = ?
 1	15 − 3 kaç eder?
 1	15 − 7 kaç eder?
+1	15'ten geriye doğru sayıyoruz: 15, 14, 13, … sırada hangi sayı var?
 1	16 + 1 = ?
 1	16 + 4 kaç eder?
 1	16 ile 18 arasında hangi sayı vardır?
@@ -263,11 +267,13 @@
 1	annemizin erkek kardeşine ne deriz?
 1	arabada yolculuk yaparken ne yapmalıyız?
 1	arabada yolculuk yaparken çocuklar nerede ve nasıl oturmalıdır?
+1	arabayla yolculuk yaparken küçük çocuklar nerede oturmalıdır?
 1	aracı yaptığı işle eşleştir.
 1	arkadaşımızın eşyasını kullanmak istersek ne yapmalıyız?
 1	arkadaşın atatürk'le ilgili bir şiir okuyor. sen ne yaparsın?
 1	arkadaşın konuşurken bir bilgiyi yanlış söyledi. ne yaparsın?
 1	arkadaşın okuduğu masalı anlatıyor. sen ne yaparsın?
+1	arkadaşın sarılmak istemediğini söyledi. ne yapmalısın?
 1	arkadaşın yüzü sana dönük duruyor. onun sağ eli senin hangi tarafında kalır?
 1	arkadaşın şarkı söylerken yanlış söyledi. ne dersin?
 1	arkadaşın “lütfen eşyalarıma dokunma” dedi. ne yaparsın?
@@ -360,6 +366,7 @@
 1	biri sana izin almadan dokunmaya çalışırsa ne yapmalısın?
 1	biri sana “teşekkür ederim” dedi. sen ne dersin?
 1	biri sana “what is your name?” diye sorarsa ne cevap verirsin?
+1	birinci kutuda 6 top, ikinci kutuda 9 top var. hangi kutuda daha az top var?
 1	birinin sana dokunması seni rahatsız etti. ne yaparsın?
 1	biriyle konuşurken ona nasıl bakarız?
 1	birlikte kullanılan eşyaları eşleştir.
@@ -407,6 +414,7 @@
 1	can montunu giymeden soğukta dışarı çıktı. ne olabilir?
 1	can'ın 13 bilyesi, ali'nin 17 bilyesi var. hangisi doğrudur?
 1	can'ın 9 bilyesi vardı. 3 bilyesini kaybetti. kaç bilyesi kaldı?
+1	can, ece'den uzun. ece de ali'den uzun. en kısa kim?
 1	canlıların ortak özelliği hangisidir?
 1	cumhuriyet bayramı'nı hangi gün kutlarız?
 1	cumhuriyetimiz 29 ekim 1923'te ilan edildi. cumhuriyet bayramı'nı her yıl hangi ayda kutlarız?
@@ -425,6 +433,7 @@
 1	deney yaparken neye dikkat ederiz?
 1	deprem sırasında yapmamız gerekenleri doğru sıraya koy.
 1	ders başladığında ne yaparız?
+1	dinle: bahçemizde bir elma ağacı var. sonbaharda elmaları hep birlikte topladık. elmaları ne zaman topladık?
 1	dinle: emir'in kedisi ağaca tırmandı ama inemedi. emir hemen babasından yardım istedi. emir kimden yardım istedi?
 1	dinle: “zeynep pazar günü babaannesine gitti. ona kendi yaptığı bir kart verdi. babaannesi kartı görünce çok sevindi.” babaanne neden sevindi?
 1	dişimiz ağrıdığında hangi meslekten birine gideriz?
@@ -435,6 +444,7 @@
 1	duyu organını göreviyle eşleştir.
 1	dört kenarı birbirine eşit olan şekil hangisidir?
 1	dışarıdan eve gelince ellerimizi neden sabunla yıkarız?
+1	dışarıdan eve gelince önce ne yapmalıyız?
 1	ebru sanatında boyalar neyin üstüne serpilir?
 1	ece'nin evi okula 8 adım, can'ın evi 12 adım uzakta. kimin evi okula daha uzak?
 1	ece, 20 lira ile 8 liralık bir çıkartma aldı. kaç lira para üstü almalı?
@@ -460,6 +470,8 @@
 1	evde bir büyüğün aniden fenalaştı. ne yapmalısın?
 1	evde hangisi senin sorumluluğundur?
 1	evde hangisine dokunmak tehlikelidir?
+1	evde yangın çıktığını gördün. bir büyüğünle birlikte hangi numarayı aramalısın?
+1	evde yerde bir ilaç kutusu buldun. ne yaparsın?
 1	evdeki işler nasıl yapılmalıdır?
 1	evimize misafir geldi. ne yaparız?
 1	eş şekiller nasıldır?
@@ -500,6 +512,7 @@
 1	hangi kelime “dal” kelimesiyle uyaklıdır (sonu benzer)?
 1	hangi kelime “ka” hecesiyle başlar?
 1	hangi kelime “ki” hecesiyle başlar?
+1	hangi kelime “k” sesiyle başlar?
 1	hangi kelime “m” sesiyle başlar?
 1	hangi kelime “s” sesiyle başlar?
 1	hangi kelime “t” sesiyle biter?
@@ -511,6 +524,7 @@
 1	hangi kelimenin ilk sesi “ü”dür?
 1	hangi kelimenin içinde “at” kelimesi saklıdır?
 1	hangi kelimenin son sesi, “ana” kelimesinin son sesiyle aynıdır?
+1	hangi sayı 14'ten daha azdır?
 1	hangi sayı diğerlerinden farklı? 11, 5, 14, 7 (sayıların tek ya da çift olmalarına bak.)
 1	hangi sayı diğerlerinden farklı? 12, 14, 8, 19 (sayıların tek ya da çift olmalarına bak.)
 1	hangi sayı diğerlerinden farklı? 14, 18, 3, 12 (sayıların tek ya da çift olmalarına bak.)
@@ -578,6 +592,7 @@
 1	hayvanı bize verdiği ürünle eşleştir.
 1	hayvanı i̇ngilizcesiyle eşleştir.
 1	hayvanı yaşadığı yerle eşleştir.
+1	heceleri sıraya diz ve “kelebek” kelimesini oluştur.
 1	heceleri sıraya koyarak “cumhuriyet” kelimesini oluştur.
 1	heceleri sıraya koyarak “görevlerim” kelimesini oluştur.
 1	heceleri sıraya koyarak “kaplumbağa” kelimesini oluştur.
@@ -595,6 +610,7 @@
 1	i̇ki elimizde toplam kaç parmak var? 🖐️🖐️
 1	i̇ki eş üçgenin köşe sayıları için ne söyleriz?
 1	i̇kişer ikişer sayıyoruz: 2, 4, 6, 8… sıradaki sayı kaç?
+1	i̇kişer ileri sayıyoruz: 4, 6, 8, … , 12. boşluğa hangi sayı gelir?
 1	i̇ngilizce ifadeyi türkçesiyle eşleştir.
 1	i̇ngilizce kelimeleri türkçe anlamlarıyla eşleştir.
 1	i̇nsanın büyümesini oluş sırasına göre diz.
@@ -610,6 +626,7 @@
 1	kardan adam yapma adımlarını sıraya diz.
 1	kardeşimizin odasına girmeden önce ne yaparız?
 1	kare bir kâğıdı ortadan bir kez katlayıp iki parçaya ayırdık. parçalar hangi şekildedir?
+1	kartlardaki 8, 19, 12 ve 15 sayılarını büyükten küçüğe doğru diz.
 1	karşıdan karşıya geçerken nereyi kullanmalıyız?
 1	karşıdan karşıya nereden geçmeliyiz?
 1	kaç tane 1 tl, 5 tl eder?
@@ -622,6 +639,7 @@
 1	kelimeleri sıraya koyarak bir soru cümlesi kur.
 1	kelimeyi hece sayısıyla eşleştir.
 1	kelimeyi resimle eşleştir.
+1	kemiklerimizin güçlü olması için hangisini tüketmeliyiz?
 1	kitap okuyan birinin yanında nasıl davranırız?
 1	kişi adı ve soyadı nasıl yazılır?
 1	kişiyi, atatürk'le olan akrabalığıyla eşleştir.
@@ -629,6 +647,7 @@
 1	koşuda ece birinci, can ikinci, ali üçüncü oldu. i̇kinci kim oldu?
 1	kumbarada 1 tane 10 tl ve 1 tane 5 tl var. kumbarada toplam kaç tl var?
 1	kuyrukta 6 çocuk var. zeynep baştan dördüncü sırada. zeynep'in arkasında kaç çocuk var?
+1	kuyrukta duran defne baştan 3. sırada. defne'nin önünde kaç çocuk var?
 1	kuzu koyunun yavrusudur. civciv neyin yavrusudur?
 1	kuş havada uçar, balık nerede yüzer?
 1	kütüphane görevlisinden kitap isterken ne dersin?
@@ -658,8 +677,10 @@
 1	nil, 20 lira ile 10 liralık bir çıkartma aldı. kaç lira para üstü almalı?
 1	nil, 20 lira ile 15 liralık bir kalem aldı. kaç lira para üstü almalı?
 1	nokta (.) nereye konur?
+1	oku: ela ile annesi pazara gitti. pazardan elma ve armut aldılar. ela ile annesi pazardan ne aldı?
 1	oku: ela ile dedesi anıtkabir'e gitti. ela, atatürk için bir mektup yazdı. mektubu dedesine okudu. ela ile dedesi nereye gitti?
 1	oku: kaan'ın kedisi pamuk süt içer. pamuk, yün yumağıyla oynamayı sever. akşam olunca kaan'ın yanında uyur. pamuk akşam nerede uyur?
+1	oku: mert bahçede bir serçe gördü. serçeye su ve yem koydu. mert serçeye ne koydu?
 1	oku: “ali ile dedesi anıtkabir'i gezdi. dedesi, atatürk'ün burada yattığını anlattı. ali çiçeklerini bıraktı ve saygıyla bekledi.” ali ile dedesi nereyi gezdi?
 1	oku: “ali yağmurda dışarı çıktı. şemsiyesini unutmuştu. eve döndüğünde saçları ıslaktı.” ali'nin saçları neden ıslandı?
 1	oku: “atatürk çocukları çok severdi. 23 nisan'ı çocuklara bayram olarak armağan etti.” atatürk 23 nisan'ı kime armağan etti?
@@ -704,6 +725,7 @@
 1	oku: “zeynep'in kırmızı bir uçurtması var. rüzgârlı bir günde uçurtmasını parkta uçurdu.” zeynep uçurtmasını nerede uçurdu?
 1	okuduğun kitabı anlatırken sözün kesildi. ne dersin?
 1	okul eşyalarımızı nasıl kullanırız?
+1	okul gününü olayların oluş sırasına göre diz.
 1	okul müdürü ne iş yapar?
 1	okula geliş yolları: yürüyerek 9, servisle 6, arabayla 3. en az hangisi seçilmiş?
 1	okula geliş yolları: yürüyerek 9, servisle 6, arabayla 3. en çok hangisi seçilmiş?
@@ -751,6 +773,7 @@
 1	sayıları küçükten büyüğe sırala.
 1	sayıyı i̇ngilizcesiyle eşleştir.
 1	sağlıklı büyümek için gece nasıl uyumalıyız?
+1	sağlıklı büyümek için hangisi gereklidir?
 1	sağlıklı büyümek için hangisini yapmalıyız?
 1	sesi çıkaran hayvanla eşleştir.
 1	sevilen oyunlar: saklambaç 7, ip atlama 5, top 8. en az hangisi sevilmiş?
@@ -762,6 +785,7 @@
 1	soldan sağa 🐶🐱🐰🐸 sıralanmış. 🐸'nin hemen solunda hangisi var?
 1	soru soran bir cümlenin sonuna hangi işaret konur?
 1	suyu boşa harcamamak için ne yapmalıyız?
+1	sıcak bir yaz gününde dışarıda oynarken ne yapmalıyız?
 1	sınıf başkanı görevleri anlatıyor. sen ne yaparsın?
 1	sınıf eşyasını i̇ngilizcesiyle eşleştir.
 1	sınıf kapısının boyu yaklaşık kaç karıştır?
@@ -777,6 +801,7 @@
 1	sınıfın kapısı hangi şekle benzer?
 1	sınıfın uzunluğunu ölçmek için hangisi daha uygundur?
 1	sıranın uzunluğunu ölçmek için hangisini kullanabiliriz?
+1	sırtta taşınırım, içimde defterler ve kitaplar olur. ben neyim?
 1	tabakta 12 kurabiye vardı. çocuklar 5 tanesini yedi. tabakta kaç kurabiye kaldı?
 1	tablet ya da bilgisayarı nasıl kullanmalıyız?
 1	tanımadığın biri kapıyı çalarsa ne yapmalısın?
@@ -788,6 +813,7 @@
 1	teneffüste oyun oynadığımız yer neresidir?
 1	teneffüste yemek için hangisi daha sağlıklıdır?
 1	teneffüste yemek için hangisi sağlıklı bir atıştırmalıktır?
+1	teneffüste yemek için hangisi sağlıklı bir seçimdir?
 1	terazinin bir kefesinde elma, diğerinde kiraz var. elmanın olduğu kefe aşağı indi. hangisi daha ağır?
 1	terazinin iki kefesi aynı hizada duruyor. bu ne demektir?
 1	tohum ekme adımlarını oluş sırasına göre diz.
@@ -884,6 +910,7 @@
 1	öğrencilerin seçtiği meyveler: elma 8, muz 4, portakal 6. toplam kaç öğrenci sayılmış?
 1	öğrencilerin seçtiği meyveler: elma 8, muz 4, portakal 6. “elma” sayısı “muz” sayısından kaç fazladır?
 1	öğretmenimizin adını henüz bilmiyoruz. ne yaparız?
+1	öğretmenler günü'nü her yıl hangi tarihte kutlarız?
 1	ülkemizde günlerin en uzun olduğu mevsim hangisidir?
 1	ülkemizin adı nedir?
 1	üçgenin kaç kenarı vardır?
@@ -907,6 +934,7 @@
 1	“ayak” i̇ngilizcede hangisidir?
 1	“ayşe okula gitti.” cümlesinde kaç kelime vardır?
 1	“açık” kelimesinin zıt anlamlısı hangisi?
+1	“açık” kelimesinin zıt anlamlısı hangisidir?
 1	“baba” i̇ngilizcede hangisi?
 1	“bahçede çiçekler açtı” cümlesinin sonuna hangi işaret gelir?
 1	“balloon” ne demek?
@@ -924,6 +952,7 @@
 1	“blue” ne demek?
 1	“book” ne demektir?
 1	“bugün hava güneşli” cümlesinin sonuna hangi işaret gelir?
+1	“bugün hava güneşli” cümlesinin sonuna hangi işaret konur?
 1	“bugün okula erken geldim.” bu cümlede hangi harf büyük yazılmalıdır?
 1	“burun” i̇ngilizcede hangisi?
 1	“böcekler kaç ayaklıdır” cümlesinin sonuna hangi işaret gelir?
@@ -1129,6 +1158,7 @@
 1	🐻 i̇ngilizcede hangisi?
 1	👂 i̇ngilizcede hangisi?
 1	🔵 i̇ngilizcede hangisi?
+1	🔺🟦🟦🔺🟦🟦🔺 … sıradaki şekil hangisi?
 1	🥔 i̇ngilizcede hangisi?
 1	🥕 i̇ngilizcede hangisi?
 1	🦁 i̇ngilizcede hangisi?
@@ -1202,6 +1232,7 @@
 2	26 − 19 = ?
 2	27 − 23 = ?
 2	28 + 22 kaç eder?
+2	3 lira kaç kuruş eder?
 2	3 tabakta 4'er kurabiye var. toplam kaç kurabiye?
 2	3 × 1 kaç eder?
 2	3 × 10 = ?
@@ -1333,6 +1364,7 @@
 2	99 − 88 kaç eder?
 2	ablasını gösteren elif'e “who is she?” dendi. elif ne der?
 2	acil bir durumda 112'yi aradın. görevliye neler söylemelisin?
+2	acil bir durumda 112'yi aradığında ilk önce neyi anlatmalısın?
 2	ada 26 yumurta topladı. bunların 5 tanesini irmak'a verdi. ada'nın elinde kaç yumurta kaldı?
 2	ada'nın 80 lirası vardı. 21 liralık bir simit aldı. kaç lirası kaldı?
 2	ada, 100 lira ile 41 liralık bir defter ve 38 liralık bir dondurma aldı. kaç lira para üstü almalı?
@@ -1461,6 +1493,7 @@
 2	bir kutuda 10 kurabiye var. yarısı dolu ikinci bir kutu da var. toplam kurabiye sayısı yaklaşık kaçtır?
 2	bir kutuda 5 kalem var. öğretmen 6 kutu aldı. toplam kaç kalem oldu?
 2	bir kâğıdı ikiye katlayıp katlama yerinden yarım kalp kestik. kâğıdı açınca ne görürüz?
+2	bir kümeste 3 tavuk var. tavukların toplam kaç ayağı vardır?
 2	bir küpün üstüne bir koni koyarsak hangisine benzeyen bir yapı oluşur?
 2	bir manavda 21 mandalina vardı. bunların 19 tanesi satıldı. manavda kaç mandalina kaldı?
 2	bir manavda 39 elma vardı. bunların 6 tanesi satıldı. manavda kaç elma kaldı?
@@ -1474,7 +1507,9 @@
 2	bir otobüste 45 yolcu vardı. durakta 14 yolcu daha bindi. otobüste kaç yolcu oldu?
 2	bir otobüste 48 yolcu vardı. durakta 19 yolcu indi. otobüste kaç yolcu kaldı?
 2	bir oyunda ekrana “ödül kazandın! şifreni yaz.” yazısı çıktı. ne yapmalısın?
+2	bir pastayı 4 eş parçaya böldük. her bir parçaya ne denir?
 2	bir pizza 4 eş parçaya bölündü. bir parçaya ne denir?
+2	bir saatte akrep 3'ü, yelkovan 12'yi gösteriyor. saat kaçtır?
 2	bir sayıdan 25 çıkarınca 38 kalıyor. bu sayı kaçtır?
 2	bir sürahi 6 bardak su alıyor. 2 sürahi kaç bardak su alır?
 2	bir sırada 10 öğrenci var. sınıfta buna benzer 4 sıra var. sınıftaki öğrenci sayısı yaklaşık kaçtır?
@@ -1515,6 +1550,7 @@
 2	bu sayıları küçükten büyüğe doğru diz.
 2	bugün cuma. i̇ki gün sonra hangi gün olacak?
 2	bugün pazartesi. 2 gün sonra hangi gün olur?
+2	bugün salı. 2 gün sonra hangi gün olur?
 2	bugün salı. üç gün sonra hangi gün olur?
 2	bugün çarşamba. 3 gün önce hangi gündü?
 2	bugün çarşamba. yarın hangi gün olacak?
@@ -1523,6 +1559,7 @@
 2	burak 39 çıkartma aldı. sonra 18 çıkartma daha aldı. burak toplam kaç çıkartma aldı?
 2	burak 80 yumurta topladı. bunların 78 tanesini elif'e verdi. burak'ın elinde kaç yumurta kaldı?
 2	buzu güneşte bırakırsak ne olur?
+2	bütün bir ekmek kaç yarımdan oluşur?
 2	bütün kediler miyavlar. pamuk bir kedidir. hangisi doğrudur?
 2	büyük bir üçgen ile küçük bir üçgenin köşe sayıları için ne söyleyebiliriz?
 2	büyüklerimizle konuşurken nasıl bir dil kullanırız?
@@ -1546,6 +1583,7 @@
 2	defne 29 çakıl taşı topladı. bunların 9 tanesini öykü'ye verdi. defne'nin elinde kaç çakıl taşı kaldı?
 2	defne'nin 25 bilyesi vardı. arkadaşı ona 12 bilye daha verdi. defne'nin şimdi kaç bilyesi var?
 2	defterimizin yarısı boş kaldı. yeni ders yılında ne yapabiliriz?
+2	dengeli beslenmek için öğünlerimizde ne olmalıdır?
 2	deniz 21 boncuk aldı. sonra 10 boncuk daha aldı. deniz toplam kaç boncuk aldı?
 2	deprem anında sınıftaysak ne yapmalıyız?
 2	deprem anında yapılacak hareketleri doğru sıraya koy.
@@ -1580,12 +1618,14 @@
 2	efe 30 boncuk aldı. sonra 20 boncuk daha aldı. efe toplam kaç boncuk aldı?
 2	ekmeği çok seviyorsun. “do you like bread?” sorusuna ne dersin?
 2	ekran karşısında uzun süre oturmak yerine ne yapmak sağlığımıza iyi gelir?
+2	ekrana çok uzun süre bakmak neye yol açabilir?
 2	elektrik tasarrufu için hangisini yapmalıyız?
 2	elif 41 düğme aldı. sonra 33 düğme daha aldı. elif toplam kaç düğme aldı?
 2	elif 50 kestane topladı. bunların 16 tanesini defne'ye verdi. elif'in elinde kaç kestane kaldı?
 2	elif 53 yumurta topladı. bunların 12 tanesini duru'ya verdi. elif'in elinde kaç yumurta kaldı?
 2	elif 96 sayfa, melis 69 sayfa kitap okudu. elif, melis'ten kaç sayfa fazla okudu?
 2	elif çok uykusu geldiği için esniyor. elif nasıl hissediyor?
+2	elif'in 2 tane 10 liralık ve 1 tane 5 liralık banknotu var. elif'in toplam kaç lirası var?
 2	elif'in kumbarasında 3 tane 10 tl ve 1 tane 5 tl var. elif'in toplam kaç tl'si var?
 2	elif'in okuldan sonraki planını uygun sıraya koy.
 2	elif, can ve defne yarıştı. can birinci olmadı. defne can'dan sonra geldi. kim birinci oldu?
@@ -1616,6 +1656,7 @@
 2	gökyüzünde rüzgârla uçan oyuncak hangisi?
 2	gözlemini anlatırken hangi cümle daha açık ve anlaşılırdır?
 2	gözlerimizi korumak için ne yapmalıyız?
+2	gün içinde yeterince su içmek bize nasıl yardım eder?
 2	gündüz açılır, gece kapanır; odaları aydınlatır. nedir?
 2	gündüz bizi aydınlatan ve kendi ışığını üreten gök cismi hangisidir?
 2	güneş akşamları hangi yönde batar?
@@ -1640,6 +1681,7 @@
 2	hangi cümlede “çay” kelimesi bir akarsuyu anlatır?
 2	hangi cümlenin sonuna soru işareti (?) konmalıdır?
 2	hangi cümlenin sonuna soru işareti konmalıdır?
+2	hangi cümlenin sonuna soru işareti konur?
 2	hangi cümlenin sonuna “?” işareti gelmelidir?
 2	hangi durumda 112 aranmaz?
 2	hangi harf dikey bir çizgiyle iki eş parçaya ayrılabilir?
@@ -1653,6 +1695,7 @@
 2	hangi kelime 2 hecelidir?
 2	hangi kelime 3 hecelidir?
 2	hangi kelime 4 hecelidir?
+2	hangi kelime alfabetik sırada en önce gelir?
 2	hangi kelime büyük harfle başlamalıdır?
 2	hangi kelime diğerlerinden farklıdır?
 2	hangi kelime doğru yazılmıştır?
@@ -1687,6 +1730,7 @@
 2	hangisi bir kitabı tanıtan uygun bir cümledir?
 2	hangisi bir sınıf eşyasıdır?
 2	hangisi bir çocuk hakkıdır?
+2	hangisi büyümemize ve gelişmemize yardım eden bir alışkanlıktır?
 2	hangisi dengeli beslenmeye örnektir?
 2	hangisi deprem çantasına konmaz?
 2	hangisi diğerlerinden farklıdır?
@@ -1706,6 +1750,7 @@
 2	hangisi “okul eşyaları” grubuna girer?
 2	hangisinin kütlesi yaklaşık 1 kilogramdır?
 2	hangisinin uzunluğunu santimetre ile ölçmek daha uygundur?
+2	hangisinin ölçümünde kilogram kullanırız?
 2	harfi alfabede kendisinden hemen sonra gelen harfle eşleştir.
 2	harfleri doğru sıraya koyunca hangi hayvan olur? d – k – i̇ – e
 2	harfleri düzenle: l, e, m, a, k. hangi okul eşyası çıkar?
@@ -1722,6 +1767,7 @@
 2	hayvanı, vücudunu örten yapıyla eşleştir.
 2	her nesneyi ait olduğu grupla eşleştir.
 2	her tabakta 2 kurabiye var. 4 tabakta toplam kaç kurabiye var?
+2	her yıl 10 kasım'da ne yaparız?
 2	hikâyedeki olayları sıraya koy.
 2	how many crayons? 🖍️🖍️🖍️🖍️🖍️🖍️🖍️🖍️
 2	how many pencils? ✏️✏️✏️✏️✏️
@@ -1729,9 +1775,11 @@
 2	i̇bn-i sina en çok hangi alandaki çalışmalarıyla tanınır?
 2	i̇ki basamaklı bir sayının onlar basamağında 4 var. birler basamağındaki rakam, onlar basamağındaki rakamdan 3 fazla. bu sayı kaçtır?
 2	i̇ngilizce kelimeleri türkçe anlamlarıyla eşleştir.
+2	i̇ngilizce kelimeyi türkçesiyle eşleştir.
 2	i̇ngilizce yönergeyi türkçesiyle eşleştir.
 2	i̇nternette oyun oynarken tanımadığın biri seninle buluşmak isterse ne yaparsın?
 2	i̇nternette tanımadığın biri ev adresini sordu. ne yaparsın?
+2	i̇nternette tanımadığın biri ev adresini sordu. ne yapmalısın?
 2	i̇pek 27 deniz kabuğu topladı. bunların 12 tanesini asya'ya verdi. i̇pek'in elinde kaç deniz kabuğu kaldı?
 2	i̇pek 35 boncuk aldı. sonra 9 boncuk daha aldı. i̇pek toplam kaç boncuk aldı?
 2	i̇pek 65 deniz kabuğu topladı. bunların 7 tanesini melis'e verdi. i̇pek'in elinde kaç deniz kabuğu kaldı?
@@ -1746,6 +1794,7 @@
 2	karşıdan karşıya nereden geçmeliyiz?
 2	kaç tane çeyrek bir bütün eder?
 2	kek yapmanın adımlarını sıraya koy.
+2	kelebeğin yaşam döngüsünü sıraya koy.
 2	kelimeleri alfabe sırasına diz.
 2	kelimeleri alfabetik sıraya (sözlük sırasına) koy.
 2	kelimeleri alfabetik sıraya diz.
@@ -1795,6 +1844,7 @@
 2	kütüphanede 36 hikâye kitabı ve 47 bilim kitabı var. toplam kaç kitap var?
 2	küçük mustafa'nın babası onun hangi okula gitmesini istemişti?
 2	kırmızı ile sarıyı karıştırınca hangi renk olur?
+2	kırmızı kenarlı üçgen levhada iki çocuk resmi varsa sürücülere ne anlatır?
 2	kırmızı kenarlı, üçgen şeklindeki trafik levhaları sürücülere genellikle ne anlatır?
 2	kırmızı çerçeveli üçgen trafik levhaları sürücülere ne anlatır?
 2	kırmızı, mavi ve yeşil üç kutu var. top mavi kutuda değil, yeşil kutuda da değil. top hangi kutuda?
@@ -1809,6 +1859,8 @@
 2	leyla, 50 lira ile 28 liralık bir dondurma aldı. kaç lira para üstü almalı?
 2	mahallenin yöneticisine ne denir?
 2	markette kasada sıra var. ne yaparız?
+2	masada 12 kitap var. “how many books?” sorusunun doğru cevabı hangisidir?
+2	mavi zemin üzerinde beyaz büyük “p” harfi bulunan trafik levhası neyi gösterir?
 2	mehmet'in 3 elması var. pazardan 2 elma daha aldı. sonra 1 tanesini kardeşine verdi. mehmet'in kaç elması kaldı?
 2	mehmet'in 75 lirası vardı. 65 liralık bir uçurtma aldı. kaç lirası kaldı?
 2	mehmet, 100 lira ile 9 liralık bir çıkartma aldı. kaç lira para üstü almalı?
@@ -1845,6 +1897,9 @@
 2	nil, 20 lira ile 17 liralık bir simit aldı. kaç lira para üstü almalı?
 2	nobel kimya ödülü'nü kazanan türk bilim insanı kimdir?
 2	oku: arda'nın dedesi bahçede domates yetiştiriyor. arda her akşam fidelere su veriyor. yaz gelince kırmızı domatesleri birlikte topluyorlar. arda her akşam ne yapıyor?
+2	oku: arılar çiçekten çiçeğe uçar. çiçeklerden topladıkları özle bal yapar. bu metne en uygun başlık hangisidir?
+2	oku: gece boyunca yağmur yağdı. sabah ayşe bahçeye çıktığında gökyüzünde rengârenk bir gökkuşağı gördü. ayşe gökkuşağını ne zaman gördü?
+2	oku: sonbahar geldi. leylekler sıcak ülkelere göç etti. sincap kış için ceviz ve fındık sakladı. metne göre sincap kış için ne yaptı?
 2	oku: zehra, 10 kasım sabahı okula erken geldi. sınıfça bir atatürk köşesi hazırladılar. zehra köşeye, atatürk'ün çocuklarla çekilmiş bir fotoğrafını astı. zehra atatürk köşesine ne astı?
 2	oku: “ali, dedesiyle göle gitti. sabah erkenden göl kenarına vardılar. ali sabırla bekledi ama hiç balık tutamadı. dedesi gülümsedi: ‘balık yok ama güzel bir gün geçirdik.’ dedi.” metne göre hangisi doğrudur?
 2	oku: “atatürk çocukları çok severdi. 23 nisan 1920'de türkiye büyük millet meclisi açıldı. atatürk bu günü çocuklara armağan etti. bu yüzden 23 nisan'ı ulusal egemenlik ve çocuk bayramı olarak kutlarız.” 23 nisan'ı neden çocuk bayramı olarak kutlarız?
@@ -1938,6 +1993,7 @@
 2	otomobilde yolculuk yaparken ne yapmalıyız?
 2	oylamada en çok oyu alan aday için ne olur?
 2	oylamada her öğrenci kaç oy kullanır?
+2	oyun hesabının şifresiyle ilgili hangisi doğrudur?
 2	oyun oynarken seni üzen bir mesaj aldın. ne yaparsın?
 2	oyun zarı hangi geometrik cisme benzer?
 2	oyuncakları eşleştir.
@@ -1995,6 +2051,7 @@
 2	sınıfta en sevilen meyveler sayıldı: elma 8, muz 5, çilek 11. en çok hangi meyve sevilmiş?
 2	sınıfta hava durumunu sunarken nasıl konuşursun?
 2	sınıftaki yazı tahtasının uzunluğu yaklaşık ne kadardır?
+2	sınıftaki yazı tahtasının uzunluğunu ölçmek için hangi birimi kullanırız?
 2	tabak ve vazoların üzerine yapılan renkli süslemelere ne denir?
 2	tarihî bir yeri gezerken nasıl davranmalıyız?
 2	tarlada buğday yetiştiren kişiye ne denir?
@@ -2023,6 +2080,7 @@
 2	yarışmayı kaybeden arkadaşına ne dersin?
 2	yaya geçidi levhası neyi gösterir?
 2	yayalar için kırmızı ışık yanıyorsa ne yapmalıyız?
+2	yağmur yağar, güneş açar; gökyüzünde yay gibi yedi renkle parlarım. ben neyim?
 2	yağmurdan sonra güneş açınca gökyüzünde renkli bir yay görebiliriz. buna ne denir?
 2	yağmurun oluşmasını sıraya koy.
 2	yemeğe başlarken “afiyet olsun!” demek için hangisini kullanırız?
@@ -2075,7 +2133,9 @@
 2	öykü 99 sayfa, leyla 87 sayfa kitap okudu. öykü, leyla'dan kaç sayfa fazla okudu?
 2	öykü'nün 100 lirası vardı. 96 liralık bir kitap aldı. kaç lirası kaldı?
 2	öğretmen dışarı çıkmana izin veriyor. “can i go outside?” sorusuna öğretmenin cevabı hangisidir?
+2	öğretmeninden dışarı çıkmak için i̇ngilizce nasıl izin istersin?
 2	öğretmenine anlamadığın bir konuyu nasıl sorarsın?
+2	öğretmenler günü her yıl hangi tarihte kutlanır?
 2	ünlü dünya haritasını çizen türk denizci kimdir?
 2	ünlü türk mimarı kimdir?
 2	üzerinde “dur” yazan kırmızı levhayı gören sürücü ne yapmalıdır?
@@ -2304,6 +2364,7 @@
 2	“tekerleme” kelimesi nasıl hecelenir?
 2	“there ___ a cat on the sofa.” boşluğa ne gelir?
 2	“there ___ two beds in my room.” boşluğa ne gelir?
+2	“this is ___ pencil.” cümlesi “bu benim kalemim.” anlamına gelsin. boşluğa ne gelir?
 2	“this is my brother. ___ is tall.” boşluğa ne gelir?
 2	“this is my grandfather.” cümlesinde kim tanıtılıyor?
 2	“toprak” kelimesi kaç hecelidir?
@@ -2323,6 +2384,7 @@
 2	“yakın” kelimesinin zıt anlamlısı hangisi?
 2	“yanlış” kelimesinin zıt anlamlısı hangisi?
 2	“yanıt” kelimesinin eş anlamlısı hangisidir?
+2	“yaprak” kelimesinin çoğulu hangisidir?
 2	“yarım” kelimesinin zıt anlamlısı hangisi?
 2	“yarın kar yağacak mı” cümlesinin sonuna hangi işaret gelir?
 2	“yavaş” kelimesinin zıt anlamlısı hangisi?
@@ -2343,6 +2405,7 @@
 2	“zengin” kelimesinin eş anlamlısı hangisi?
 2	“çorap” i̇ngilizcede hangisi?
 2	“örnek” kelimesinin eş anlamlısı hangisi?
+2	“öğretmen soru sordu, zeynep hemen yanıt verdi.” bu cümledeki “yanıt” kelimesinin eş anlamlısı hangisidir?
 2	“şapka” i̇ngilizcede hangisi?
 2	☔ “what's the weather like?” hangisi doğru cevaptır?
 2	⚪ i̇ngilizcede hangisi?
@@ -2588,6 +2651,7 @@
 3	223 + 490 işleminin sonucu kaçtır?
 3	23 nisan neden "ulusal egemenlik" bayramı olarak kutlanır?
 3	24 cevizin 1/3'ünü zeynep yedi. zeynep kaç ceviz yedi?
+3	24 kasım'ın öğretmenler günü olarak kutlanmasının nedeni nedir?
 3	24 ÷ 4 = ?
 3	240 dakika kaç saattir?
 3	240 saniye kaç dakikadır?
@@ -2609,6 +2673,7 @@
 3	3 metre 22 santimetre kaç santimetredir?
 3	3 metre 3 santimetre kaç santimetredir?
 3	3 metre 40 santimetre kaç santimetredir?
+3	3 metre kaç santimetredir?
 3	3 saat kaç dakikadır?
 3	3 yüzlük, 4 onluk ve 2 birlik bloktan oluşan sayı kaçtır?
 3	3 × 10 = ?
@@ -2790,11 +2855,13 @@
 3	ailemizin geçmişini öğrenmek için hangisinden yararlanabiliriz?
 3	akrabalık adlarını eşleştir.
 3	akrep 3'te, yelkovan 12'de ise saat kaçtır?
+3	akşam karanlığında yolda yürürken sürücülerin bizi kolayca görmesi için ne giymeliyiz?
 3	ali 62 çıkartma aldı. bunların 52 tanesini ada'ya verdi, sonra 27 çıkartma daha aldı. şimdi elinde kaç çıkartma var?
 3	ali matematikte zorlanıyor. gelişmek için ne yapması en uygundur?
 3	ali saat 14.30'da parka gitti ve 1 saat 45 dakika oynadı. ali oyunu saat kaçta bitirdi?
 3	ali, 280 sayfalık bir kitabın 47 sayfasını okudu. kitabı bitirmek için kaç sayfa daha okumalı?
 3	ali, 417 sayfalık bir kitabın 208 sayfasını okudu. kitabı bitirmek için kaç sayfa daha okumalı?
+3	ali, bora ve cem koşu yarışı yaptı. bora birinci olmadı. cem sonuncu oldu. yarışı kim kazandı?
 3	ali, ece ve su koşu yarışı yaptı. ece birinci olmadı. su, ece'den sonra geldi. yarışı kim kazandı?
 3	ali: "this is my father's father." ali kimi tanıtıyor?
 3	alışveriş arabasını önümüze doğru sürmek hangi kuvvete örnektir?
@@ -2809,6 +2876,7 @@
 3	arılar insan yaşamı için neden önemlidir?
 3	asya, 200 lira ile 50 liralık bir dondurma ve 88 liralık bir kitap aldı. kaç lira para üstü almalı?
 3	atatürk hangi tarihte hayatını kaybetmiştir?
+3	atatürk hangi tarihte, hangi şehirde hayatını kaybetmiştir?
 3	atatürk hangi yıl doğmuştur?
 3	atatürk hangi şehirde doğmuştur?
 3	atatürk'ü her yıl 10 kasım'da anarız. atatürk hangi yıl hayatını kaybetti?
@@ -2829,6 +2897,7 @@
 3	ayları yıl içindeki sırasına göre diz.
 3	ayna simetrisinde 'sol eldeki' yüzük, aynadaki görüntüde hangi eldedir?
 3	aynı bitkiden iki saksı var. biri sulanıyor, diğeri sulanmıyor. bu deneyde neyin etkisi inceleniyor?
+3	aynı büyüklükteki iki çikolatadan birinin 1/2'si, diğerinin 1/4'ü veriliyor. hangisi daha büyük parçadır?
 3	aynı gün içindeki saatleri sabahtan akşama doğru sırala.
 3	ayşe her gün 15 sayfa kitap okuyor. bir haftada kaç sayfa okur?
 3	ayşe merdivenin 5. basamağında duruyor. can, ondan 3 basamak yukarıda. can kaçıncı basamakta?
@@ -2839,6 +2908,7 @@
 3	ağaçlar insanlar için neden önemlidir?
 3	aşağıdaki kelimelerden hangisinin yazımı yanlıştır?
 3	aşağıdaki sayılardan hangisi çifttir?
+3	aşağıdakilerden hangisi yaklaşık 1 saniyede biter?
 3	aşıların bulunması insan yaşamını nasıl etkiledi?
 3	babamızın annesine ne ad verilir?
 3	bahçede 3 çeşit kuş, 4 çeşit böcek ve 5 çeşit bitki gözlendi. bahçede toplam kaç çeşit canlı gözlendi?
@@ -2896,7 +2966,9 @@
 3	bir fidan dikme şenliğinde ilk gün 210, ikinci gün 194 fidan dikildi. toplam kaç fidan dikildi?
 3	bir fidan dikme şenliğinde ilk gün 805, ikinci gün 70 fidan dikildi. toplam kaç fidan dikildi?
 3	bir fidan dikme şenliğinde ilk gün 819, ikinci gün 137 fidan dikildi. toplam kaç fidan dikildi?
+3	bir film saat 15.00'te başladı ve 1 saat 30 dakika sürdü. film saat kaçta bitti?
 3	bir fosilin oluşma aşamalarını sırala.
+3	bir fosilin oluşma aşamalarını sıraya koy.
 3	bir göldeki balıkların azalması o göldeki diğer canlıları nasıl etkileyebilir?
 3	bir ip 5 metredir. bu ipten 2 metre 40 santimetre kesildi. geriye kaç santimetre ip kaldı?
 3	bir karenin kaç köşesi vardır?
@@ -2938,8 +3010,10 @@
 3	bir pasta 6 eş dilime bölündü ve 1 dilimi yendi. yenen kısmı gösteren kesir hangisidir?
 3	bir pastayı 4 eş parçaya böldük. parçalardan biri pastanın kaçta kaçıdır?
 3	bir pizza 4 eş parçaya bölündü. bir parça pizzanın kaçta kaçıdır?
+3	bir pizza 8 eş dilime bölündü. ali 3 dilim yedi. ali pizzanın kaçta kaçını yedi?
 3	bir pizzayı 4 eş parçaya böldük. bir parçası bütünün kaçta kaçıdır?
 3	bir sanatçının hayatı hakkında bilgi toplamak için hangisi en uygun kaynaktır?
+3	bir sayının yarısı 9'dur. bu sayı kaçtır?
 3	bir ses kaynağından uzaklaştıkça ses nasıl duyulur?
 3	bir simit 15 lira, bir ayran 10 liradır. elif 2 simit ve 1 ayran alırsa kaç lira öder?
 3	bir sulak alanın kurutulup üzerine bina yapılması hangi sonuca yol açar?
@@ -2952,6 +3026,7 @@
 3	bir sınıfta 6 sıra var ve her sırada 3 öğrenci oturuyor. sınıfta kaç öğrenci var?
 3	bir tek sayı ile bir çift sayının toplamı nasıl bir sayıdır?
 3	bir tek sayı ile bir çift sayıyı toplarsak sonuç her zaman nasıl bir sayı olur?
+3	bir torbada 1 kilogram un, diğerinde 500 gram un var. i̇ki torbada toplam kaç gram un vardır?
 3	bir tren 284 yolcuyla yola çıktı. i̇lk durakta 35 yolcu indi. trende kaç yolcu kaldı?
 3	bir tren 692 yolcuyla yola çıktı. i̇lk durakta 217 yolcu indi. trende kaç yolcu kaldı?
 3	bir tren 773 yolcuyla yola çıktı. i̇lk durakta 221 yolcu indi. trende kaç yolcu kaldı?
@@ -3025,6 +3100,7 @@
 3	cümleleri anlamlı bir hikâye oluşturacak şekilde sırala.
 3	cümleleri olayların oluş sırasına göre diz.
 3	cümleleri olayların oluş sırasına göre sırala.
+3	defne 50 liralık banknotla 32 liralık bir kitap aldı. kaç lira para üstü almalıdır?
 3	defne her gün 12 sayfa kitap okuyor. 6 günde kaç sayfa okur?
 3	defne resim yapmakta çok başarılı ama yüzmeyi yeni öğreniyor. defne'nin güçlü olduğu alan hangisidir?
 3	defne'nin boyu 1 metre 32 santimetredir. defne'nin boyu kaç santimetredir?
@@ -3036,12 +3112,14 @@
 3	denizlere atılan plastik atıklar canlılara nasıl zarar verir?
 3	deprem sonrası binadan çıkınca nereye gidilmelidir?
 3	deprem sırasında içerideysek ne yapmalıyız?
+3	deprem sırasında sınıftaysan ne yapmalısın?
 3	deprem çantasında hangisi bulunmalıdır?
 3	ders 40 dakika, teneffüs 10 dakika sürüyor. 2 ders ve aralarındaki 1 teneffüs toplam kaç dakika sürer?
 3	dersin türkçesini i̇ngilizcesiyle eşleştir.
 3	derste söz almak isteyen öğrenci ne yapmalıdır?
 3	develerin çölde yaşamaya uygun bir özelliği hangisidir?
 3	deyimi anlamıyla eşleştir.
+3	dijital saat 14:30'u gösteriyor. bu, öğleden sonra saat kaçtır?
 3	dijital saatte 08.30 yazıyor. bu saat nasıl okunur?
 3	dik açıdan küçük olan açıya ne denir?
 3	dikey bir simetri doğrusunun solunda 5 boyalı kare var. şekil simetrik tamamlanınca toplam kaç boyalı kare olur?
@@ -3108,6 +3186,7 @@
 3	fazla su verilen bitkinin kökleri neden zarar görür?
 3	film saat 14.30'da başladı ve 45 dakika sürdü. film saat kaçta bitti?
 3	fişi prizden çıkarırken nasıl tutmalıyız?
+3	fosil nedir?
 3	fosiller bize en çok ne hakkında bilgi verir?
 3	fosiller en çok nerede bulunur?
 3	fosilleri inceleyen bilim insanına ne ad verilir?
@@ -3151,6 +3230,7 @@
 3	hangi cümlede yazım yanlışı vardır?
 3	hangi cümlede zıt anlamlı iki kelime birlikte kullanılmıştır?
 3	hangi cümlede “yaz” kelimesi bir mevsimi anlatır?
+3	hangi cümlede “yüz” kelimesi bir sayıyı anlatır?
 3	hangi cümlenin sonuna soru işareti konmalıdır?
 3	hangi cümlenin sonuna ünlem işareti (!) konmalıdır?
 3	hangi geometrik cismin hiç köşesi yoktur?
@@ -3166,8 +3246,10 @@
 3	hangi kelime ek almamıştır?
 3	hangi kelime her zaman büyük harfle başlar?
 3	hangi kelime yanlış yazılmıştır?
+3	hangi kelime özel isim olduğu için her zaman büyük harfle başlar?
 3	hangi kelimenin içinde bir böcek adı saklıdır?
 3	hangi kelimenin yazımı doğrudur?
+3	hangi kişisel eşyamızı başkalarıyla paylaşmamalıyız?
 3	hangi madde mıknatıs tarafından çekilir?
 3	hangi madde suda batar?
 3	hangi millî bayramımız ekim ayında kutlanır?
@@ -3206,6 +3288,7 @@
 3	hangisi bilim insanına yakışmayan bir davranıştır?
 3	hangisi bilimsel bir gelişmenin günlük yaşama etkisine örnektir?
 3	hangisi bir bilim insanının özelliğidir?
+3	hangisi bir ders (school subject) adıdır?
 3	hangisi bir doğal güzelliktir?
 3	hangisi bir göl yaşam alanında yaşayan canlılardan biri değildir?
 3	hangisi bir hayvan değildir?
@@ -3240,6 +3323,7 @@
 3	hangisi her çocuğun sahip olduğu bir haktır?
 3	hangisi katı bir maddedir?
 3	hangisi kayaçların özelliklerinden biri değildir?
+3	hangisi kayaçtan yapılmış bir üründür?
 3	hangisi kendi besinini kendisi üretir?
 3	hangisi küre şeklindedir?
 3	hangisi litreyle ölçülmeye en uygundur?
@@ -3247,12 +3331,14 @@
 3	hangisi pil ile çalışan bir araçtır?
 3	hangisi sallanma hareketine örnektir?
 3	hangisi sağlığımızı korumak için yapılması gereken bir davranıştır?
+3	hangisi sağlığımızı korumaya yönelik bir davranıştır?
 3	hangisi suyun insan yaşamındaki önemine örnektir?
 3	hangisi sıvı bir maddedir?
 3	hangisi tarım ürünüdür?
 3	hangisi tek sayıdır?
 3	hangisi teknolojinin olumlu bir etkisidir?
 3	hangisi teknolojinin yanlış kullanımının bir sonucudur?
+3	hangisi topraktan çıkarılan bir madendir?
 3	hangisi tüm mesleklerin ortak özelliğidir?
 3	hangisi yaklaşık 1 saniye sürer?
 3	hangisi yalnızca mikroskopla görülebilen bir canlıdır?
@@ -3298,6 +3384,7 @@
 3	i̇ngilizce ifadeyi türkçesiyle eşleştir.
 3	i̇ngilizce kelimeleri türkçe anlamlarıyla eşleştir.
 3	i̇ngilizce kelimeyi türkçesiyle eşleştir.
+3	i̇ngilizce mevsim adlarını türkçe karşılıklarıyla eşleştir.
 3	i̇nternette tanımadığın biri senden ev adresini ve okulunun adını istiyor. ne yapmalısın?
 3	i̇pek, 200 lira ile 35 liralık bir dondurma ve 73 liralık bir uçurtma aldı. kaç lira para üstü almalı?
 3	i̇stanbul'daki süleymaniye camii'nin mimarı kimdir?
@@ -3359,6 +3446,7 @@
 3	kurtuluş savaşı'nda antep'i düşmana karşı savunan halk kahramanlarımızdan biri kimdir?
 3	kurtuluş savaşı'nda halkın askerlere yiyecek ve çorap göndermesi neyi gösterir?
 3	kurtuluş savaşı'nda kağnısıyla cepheye cephane taşıyan kahraman kadınlardan biri kimdir?
+3	kurşun kalemin içindeki yumuşak, gri renkli madde hangi mineralden yapılır?
 3	kutup ayısı nasıl bir yaşam alanında yaşar?
 3	kuzey, 200 lira ile 34 liralık bir kalem ve 93 liralık bir yapboz aldı. kaç lira para üstü almalı?
 3	kuzey, 200 lira ile 91 liralık bir şapka ve 22 liralık bir simit aldı. kaç lira para üstü almalı?
@@ -3502,8 +3590,11 @@
 3	oku: "zeynep and her dad are at a restaurant. the waiter asks, "what do you want?" zeynep says, "can i have some tomato soup and bread, please?" her dad wants fish and salad." zeynep ne istiyor?
 3	oku: "zeynep and her dad are at a restaurant. the waiter asks, "what do you want?" zeynep says, "can i have some tomato soup and bread, please?" her dad wants fish and salad." zeynep siparişini nasıl veriyor?
 3	oku: "zeynep and her dad are at a restaurant. the waiter asks, "what do you want?" zeynep says, "can i have some tomato soup and bread, please?" her dad wants fish and salad." zeynep ve babası neredeler?
+3	oku: ağaçlar havayı temizler, bize gölge verir ve pek çok canlıya yuva olur. bu yüzden ağaçları korumalıyız. metnin ana fikri hangisidir?
 3	oku: ece'nin sınıfı, okul bahçesine kuş yuvaları astı. kış gelince yuvalara yem koymaya başladılar. bir sabah serçelerin yuvalardan birine yerleştiğini gördüler. bu metnin konusu nedir?
+3	oku: kaplumbağalar çok uzun yaşayabilen canlılardır. sert kabukları onları korur. bazı deniz kaplumbağaları yumurtlamak için doğdukları kumsala geri döner. metne göre kaplumbağaları ne korur?
 3	oku: kuzey, dedesinden kurtuluş savaşı'nda cepheye cephane taşıyan kadınları dinledi. bu kadınlar kağnılarla günlerce yol yürümüştü. kuzey, onlara saygısını göstermek için okulda bir pano hazırladı. kuzey neden pano hazırladı?
+3	oku: ormanda yürüyüş yapan can, yerde rüzgârla ağaçtan düşmüş bir kuş yuvası buldu. yuvaya dokunmadan hemen orman görevlisine haber verdi. can'ın bu davranışı onun hangi özelliğini gösterir?
 3	oku: “dedem çocukken köylerine bir okul yapılmış. o güne kadar köyde hiç okul yokmuş. dedem ilk gün öyle heyecanlanmış ki herkesten önce okula gitmiş. bu yüzden ona ‘erkenci’ demişler.” dedeye neden “erkenci” denmiş?
 3	oku: “emir, kütüphaneden ödünç aldığı kitabın üzerine meyve suyu döktü. önce ne yapacağını bilemedi. sonra kütüphaneye gidip olanları dürüstçe anlattı. görevli, dürüstlüğü için ona teşekkür etti ve kitabı birlikte kuruladılar.” metnin ana fikri nedir?
 3	oku: “göç zamanı gelince leylekler toplanır. leylekler yükselen sıcak hava akımlarını kullanarak kanat çırpmadan uzun süre süzülebilir. böylece fazla yorulmadan uzak ülkelere ulaşırlar. i̇lkbaharda yuvalarına geri dönerler.” leylekler fazla yorulmadan nasıl uzun yol alır?
@@ -3543,6 +3634,7 @@
 3	robot kodu: 'doğrudan başla, 2 sağa, 1 yukarı.' dikey simetri doğrusuna göre simetrik yolun kodu hangisidir?
 3	saat 08.45'ten 30 dakika sonra saat kaç olur?
 3	saat 10.20'de başlayan bir film 45 dakika sürdü. film saat kaçta bitti?
+3	saat 5.00'i gösteriyor. “what time is it?” sorusunun cevabı hangisidir?
 3	saat tam 8.00'de akrep 8'i gösterir. 3 saat sonra akrep hangi sayıyı gösterir?
 3	saat tam üç. i̇ngilizce nasıl söylenir?
 3	saatin yelkovanı nasıl bir hareket yapar?
@@ -3587,6 +3679,7 @@
 3	sınıfınızdaki işitme engelli bir arkadaşınıza nasıl yardımcı olabilirsiniz?
 3	tabletle ödev araştıran emir'in teknolojiyi bilinçli kullanması için hangisi en uygundur?
 3	takvimde 3 kasım salı günüdür. aynı ayın 10 kasım günü hangi gündür?
+3	tanımadığın biri okul çıkışında seni arabasıyla eve bırakmayı teklif etti. ne yaparsın?
 3	tanımadığın biri sana şeker verip seni arabasına çağırıyor. ne yapmalısın?
 3	tarihî bir camiyi ya da köprüyü gezerken ne yapmalıyız?
 3	tarihî mekânları neden korumalıyız?
@@ -3606,6 +3699,7 @@
 3	toprak çoğunlukla nasıl oluşur?
 3	topraktaki solucanlar toprağa nasıl yardım eder?
 3	toprağa su döktüğümüzde suyun hızla emildiğini görürüz. bu neyi gösterir?
+3	toprağın altında saklanırım, sarı sarı parlarım. değerli takılar benden yapılır. ben neyim?
 3	toprağın içinde hangisi bulunmaz?
 3	toprağın verimli olması neden önemlidir?
 3	trafik kurallarına herkes uyarsa ne olur?
@@ -3699,6 +3793,7 @@
 3	öykü, 200 lira ile 99 liralık bir kitap ve 17 liralık bir simit aldı. kaç lira para üstü almalı?
 3	öğleden sonra saat 3'ü 20 geçiyor. 24 saat düzenine göre dijital saatte nasıl yazılır?
 3	öğretmen "open your books, please." diyor. ne yapmalısın?
+3	öğretmen “open your books.” dedi. ne yapmalısın?
 3	öğünleri eşleştir.
 3	ülkemizde bir doğal afet olduğunda farklı şehirlerden yardım gönderilmesi neye örnektir?
 3	şapkalı mantar hangi canlı grubundadır?
@@ -3802,8 +3897,10 @@
 3	“koyun” kelimesi kaç hecelidir?
 3	“koşmak” i̇ngilizcede hangisi?
 3	“koşu” kelimesi kaç hecelidir?
+3	“kulak vermek” deyimi ne anlama gelir?
 3	“kulak” kelimesi kaç hecelidir?
 3	“kumbara” kelimesi kaç hecelidir?
+3	“kurak” kelimesinin zıt anlamlısı hangisidir?
 3	“kurt” i̇ngilizcede hangisi?
 3	“kurşun kalem” i̇ngilizcede hangisi?
 3	“kuvvetli” kelimesinin eş anlamlısı hangisi?
@@ -4213,6 +4310,8 @@
 4	3 600 + 700 işlemini zihinden yap. sonuç kaçtır?
 4	3 812 + 2 195 toplamını en yakın yüzlüğe yuvarlayarak tahmin et.
 4	3 815 + 2 190 toplamını, sayıları en yakın yüzlüğe yuvarlayarak tahmin et. tahminin kaçtır?
+4	3 908, 3 089, 3 890 ve 3 809 sayılarını küçükten büyüğe doğru sırala.
+4	3 912 − 1 087 farkını, sayıları en yakın yüzlüğe yuvarlayarak tahmin et. tahminin kaçtır?
 4	3 hafta 4 gün kaç gündür?
 4	3 l su, her biri 250 ml alan bardaklara dolduruluyor. kaç bardak dolar?
 4	3 m 25 cm kaç santimetredir?
@@ -4278,6 +4377,7 @@
 4	4902 + 4255 işleminin sonucu kaçtır?
 4	498 + 307 işleminin sonucunu, sayıları en yakın yüzlüğe yuvarlayarak tahmin edersek kaç buluruz?
 4	5 002 − 1 748 işleminin sonucu kaçtır?
+4	5 300 + 800 işlemini zihinden yap. sonuç kaçtır?
 4	5 870 − 2 130 farkını en yakın yüzlüğe yuvarlayarak tahmin et.
 4	5 gün 7 saat kaç saattir?
 4	5 kilometre 632 metre kaç metredir?
@@ -4460,6 +4560,7 @@
 4	ayşe 4 980 − 2 010 işlemini tahminle yaklaşık 3 000 buldu. gerçek sonuçla tahmini arasındaki fark kaçtır?
 4	ayşe kovaya kum, çakıl ve deniz kabukları koyup karıştırdı. kovadakiler için hangisi söylenebilir?
 4	ayşe'nin ailesi hafta sonu kapadokya'ya gitti. sabah erkenden kalkıp gökyüzündeki rengârenk balonları izlediler. sonra peri bacalarının arasında yürüyüş yaptılar. öğlen bir çömlek atölyesine uğradılar. ayşe orada kendi elleriyle küçük bir kase yaptı. eve dönerken kaseyi kucağından hiç bırakmadı. ayşe'nin ailesi öğlen nereye uğradı?
+4	ayşe'nin kumbarasında 1 200 tl vardı. 350 tl daha biriktirdi, sonra 480 tl'ye bisiklet kaskı aldı. kumbarasında kaç tl kaldı?
 4	aşağıdaki besinlerden hangisi c vitamini bakımından zengindir?
 4	aşağıdaki kelimelerden hangisi eş seslidir (yazılışı aynı, anlamı farklı)?
 4	aşağıdaki toplamlardan hangisinin sonucu 5 000'e en yakındır?
@@ -4533,6 +4634,7 @@
 4	bir kenarı 6 birim olan kare kaç birim kareden oluşur?
 4	bir kenarı 7 birim olan kare kaç birim kareden oluşur?
 4	bir kenarı 8 birim olan kare kaç birim kareden oluşur?
+4	bir kitabın sayfaları 1'den başlayarak numaralandırılmış. 1'den 20'ye kadar olan sayfa numaralarını yazmak için toplam kaç rakam kullanılır?
 4	bir kitap 1 920 sayfadır. mert ilk hafta 685, ikinci hafta 742 sayfa okudu. kaç sayfa kaldı?
 4	bir kitap 120 sayfa. deniz her gün 15 sayfa okursa kitabı kaç günde bitirir?
 4	bir kitap 120 sayfadır. elif her gün 15 sayfa okursa kitabı kaç günde bitirir?
@@ -4554,6 +4656,7 @@
 4	bir kütüphanede 2087 kitap vardı. kütüphaneye 2517 yeni kitap geldi. kütüphanede kaç kitap oldu?
 4	bir kütüphanede 3 250 roman ve 1 875 hikâye kitabı var. hikâye kitapları romanlardan kaç tane azdır?
 4	bir kütüphanede 3210 kitap vardı. kütüphaneye 3083 yeni kitap geldi. kütüphanede kaç kitap oldu?
+4	bir kütüphanede 4 050 kitap vardı. bunların 1 275 tanesi öğrencilere ödünç verildi. kütüphanede kaç kitap kaldı?
 4	bir kırtasiyede 276 kalem vardı. bunların 103 tanesi satıldı, sonra 153 kalem daha geldi. kırtasiyede şimdi kaç kalem var?
 4	bir kırtasiyede 3383 defter vardı. bir ayda 1811 defter satıldı. kırtasiyede kaç defter kaldı?
 4	bir kırtasiyede 413 defter vardı. bunların 318 tanesi satıldı, sonra 127 defter daha geldi. kırtasiyede şimdi kaç defter var?
@@ -4586,6 +4689,8 @@
 4	bir salyangoz 5 metrelik bir duvara tırmanıyor. her gündüz 3 metre çıkıyor, her gece 2 metre aşağı kayıyor. salyangoz kaçıncı gün duvarın tepesine ulaşır?
 4	bir sayı düşündüm. bu sayıya 125 ekledim, sonra 50 çıkardım ve 300 buldum. düşündüğüm sayı kaçtır?
 4	bir sayıdan 247 çıkarınca 518 kalıyor. bu sayı kaçtır?
+4	bir sayıya 1 450 eklenince 3 200 elde ediliyor. bu sayı kaçtır?
+4	bir sinema salonuna cumartesi günü 1 286, pazar günü 1 547 kişi geldi. i̇ki günde salona toplam kaç kişi geldi?
 4	bir sinema salonunda 24 sıra ve her sırada 135 koltuk var. salonda kaç koltuk vardır?
 4	bir sünger sıkılıp bırakılınca eski hâline döner. bu durum için hangisi doğrudur?
 4	bir sütun grafiğinde öğrencilerin sevdiği sporlar: futbol 12, basketbol 8, voleybol 10, yüzme 6. grafiğe göre hangi yorum doğrudur?
@@ -4679,12 +4784,14 @@
 4	defne, emir ve zeynep'in birer evcil hayvanı var: kedi, köpek ve kuş. zeynep'in hayvanı uçabiliyor. emir'in hayvanı havlamıyor. defne'nin hayvanı hangisidir?
 4	demir tozu ile kum karışımını ayırmak için en uygun yöntem hangisidir?
 4	deney yönergesini anlamadın. öğretmenine ne dersin?
+4	dengeli beslenen bir kişi hangisini yapar?
 4	dengeli beslenme ne demektir?
 4	dengeli beslenmek için ne yapmalıyız?
 4	deniz kaplumbağası yavruları kumdan çıkınca denize gitmek yerine sahil ışıklarına yöneliyor. bunun sebebi nedir?
 4	deniz suyundan tuz elde edilmesinde hangi ayırma yöntemi kullanılır?
 4	denizdeki suyun buharlaşmasından başlayarak suyun döngüsünü sırala.
 4	deprem anında okulda ne yapmalıyız?
+4	deprem çantasında hangisinin bulunması gerekmez?
 4	ders çalışırken nasıl bir aydınlatma uygundur?
 4	devre elemanlarını görevleriyle eşleştir.
 4	devre elemanlarının hangisi devreyi açıp kapatmaya yarar?
@@ -4717,6 +4824,7 @@
 4	ece, kaan'dan kısadır. kaan, mert'ten kısadır. ece, duru'dan uzundur. çocukları kısadan uzuna doğru sırala.
 4	efe, 200 lira ile 2 tane 45 liralık boya kalemi seti ve 3 tane 22 liralık kalem aldı. kaç lira para üstü almalı?
 4	ekmek israfını önlemek için hangisi yapılabilir?
+4	ekmek, makarna ve pirinç en çok hangi besin içeriğini barındırır?
 4	ekmeğin sofraya gelene kadarki yolculuğunu sırala.
 4	elektrik kablolarının içinde en çok hangi maden kullanılır?
 4	elektrik kullanırken hangisi güvenli bir davranıştır?
@@ -4825,6 +4933,7 @@
 4	hangi sayı diğerlerinden farklı? 841, 851, 437, 471 (sayıların 3'ün katı olup olmamalarına bak.)
 4	hangi sayı diğerlerinden farklı? 855, 570, 666, 139 (sayıların 3'ün katı olup olmamalarına bak.)
 4	hangi sözcüğün yazımı yanlıştır?
+4	hangi toplamın sonucu 3 000'e en yakındır?
 4	hangi öğün daha dengelidir?
 4	hangi ürün hem eğitim hem iletişim alanında kullanılabilir?
 4	hangisi 2/3 kesrine denktir?
@@ -4847,6 +4956,7 @@
 4	hangisi bir öğrencinin ailesine karşı sorumluluğudur?
 4	hangisi bir öğrencinin sorumluluğudur?
 4	hangisi bir üretim faaliyetidir?
+4	hangisi c vitamini bakımından zengin bir besindir?
 4	hangisi daha büyüktür?
 4	hangisi dengeli beslenme için doğru bir davranıştır?
 4	hangisi dengeli bir kahvaltıya örnektir?
@@ -4870,6 +4980,7 @@
 4	hangisi hayal ürünüdür?
 4	hangisi her çocuğun sahip olduğu bir haktır?
 4	hangisi iletişim alanında kullanılan teknolojik bir üründür?
+4	hangisi insanlar tarafından yapılmış (beşerî) bir unsurdur?
 4	hangisi insanın çevreye olumlu etkisine örnektir?
 4	hangisi israftır?
 4	hangisi kayaçların ham madde olarak kullanımına örnektir?
@@ -4975,6 +5086,7 @@
 4	kompost (organik gübre) yapmak için hangi atıklar kullanılır?
 4	komşu ülkeleri türkiye'ye göre bulundukları yönle eşleştir.
 4	kroki ile harita arasındaki fark hangisidir?
+4	kroki için hangisi doğrudur?
 4	kroki çizerken nereden bakılmış gibi çizilir?
 4	kulaklıkla çok yüksek sesle uzun süre müzik dinlemek neye yol açabilir?
 4	kullanılmış piller nereye atılmalıdır?
@@ -5113,8 +5225,10 @@
 4	oku ve cevapla: "yağmurdan sonra elif pencereden dışarı baktı. gökyüzünde rengârenk bir gökkuşağı belirmişti. elif hemen kardeşini çağırdı. i̇kisi birlikte renkleri saymaya başladılar. kardeşi, 'keşke her gün yağmur yağsa!' dedi." elif gökyüzünde ne gördü?
 4	oku ve cevapla: "yağmurdan sonra elif pencereden dışarı baktı. gökyüzünde rengârenk bir gökkuşağı belirmişti. elif hemen kardeşini çağırdı. i̇kisi birlikte renkleri saymaya başladılar. kardeşi, 'keşke her gün yağmur yağsa!' dedi." hikâyedeki kişiler kimlerdir?
 4	oku ve cevapla: "yağmurdan sonra elif pencereden dışarı baktı. gökyüzünde rengârenk bir gökkuşağı belirmişti. elif hemen kardeşini çağırdı. i̇kisi birlikte renkleri saymaya başladılar. kardeşi, 'keşke her gün yağmur yağsa!' dedi." kardeşinin son sözü hangi duyguyu yansıtır?
+4	oku: bakkaldan alışveriş yapan kerem, eve gelince para üstünün fazla verildiğini fark etti. hemen bakkala dönüp fazla parayı geri verdi. kerem'in davranışı hangi erdemi gösterir?
 4	oku: defne'nin anneannesi her yaz tarhana yapar. unu, domatesi, biberi ve yoğurdu karıştırıp dinlendirir, sonra güneşte kurutur. defne bu yıl ona yardım etti ve tarifi defterine yazdı. “bu tarifi ben de torunlarıma öğreteceğim.” dedi. defne tarifi neden defterine yazdı?
 4	oku: kurtuluş savaşı yıllarında i̇nebolu'dan ankara'ya cephane taşınırdı. yollar karla kaplı, hava dondurucu soğuktu. kadınlar, çocuklar ve yaşlılar kağnılarla günlerce yürüdü. mermiler ıslanmasın diye kendi örtülerini sandıkların üzerine örttüler. bu metnin ana fikri nedir?
+4	oku: yağmurlu bir günde elif, otobüs durağında şemsiyesi olmayan yaşlı bir kadın gördü. şemsiyesini onunla paylaştı ve birlikte otobüsü beklediler. otobüs gelince kadın, elif'e gülümseyerek teşekkür etti. bu metnin ana fikri hangisidir?
 4	oku: “arılar kovanlarına döndüklerinde özel bir dans yapar. bu dansla diğer arılara çiçeklerin hangi yönde ve ne kadar uzakta olduğunu anlatırlar. böylece kovandaki arkadaşları yiyeceği kolayca bulur.” arılar dansla diğer arılara ne anlatır?
 4	oku: “duru'nun mahallesindeki eski çeşme yıllardır kuruydu. duru ve arkadaşları muhtara bir mektup yazdı. muhtar belediyeyle konuştu ve çeşme onarıldı. şimdi çeşmeden yine pırıl pırıl su akıyor.” bu metnin ana fikri hangisidir?
 4	oku: “halide edib, millî mücadele yıllarında i̇stanbul'daki mitinglerde halka seslendi. daha sonra anadolu'ya geçerek orduda görev aldı. yazdığı kitaplarda o yılların zorluklarını anlattı.” metne göre halide edib anadolu'ya geçince ne yaptı?
@@ -5126,6 +5240,7 @@
 4	okul çantaları çok ağır geliyor. bu ihtiyaca yönelik özgün bir fikir hangisidir?
 4	okulda öğrencilerin fikirlerini dile getirdiği, temsilcilerin seçildiği yapıya ne ad verilir?
 4	okuldaki zil butonuna basınca zil çalıyor. butonun devredeki görevi nedir?
+4	okulunun yerini tarif ederken hangisi en açık bilgiyi verir?
 4	olayları hâl değişimleriyle eşleştir.
 4	olayları oluş sırasına göre (eskiden yeniye) sırala.
 4	olayları oluş sırasına göre dizmeye ne ad verilir?
@@ -5133,10 +5248,14 @@
 4	otoyol kenarlarına dikilen ağaçlar ve yapılan ses duvarları ne işe yarar?
 4	paketli bir besin alırken ilk olarak neyi kontrol etmeliyiz?
 4	paketli bir besini almadan önce bozulup bozulmadığını anlamak için ambalajında neye bakarız?
+4	paketli bir besinin tüketilebilir olup olmadığını anlamak için ambalajında neye bakmalıyız?
 4	parçaları birleştirerek birleşik kelimeleri oluştur.
 4	payı 5 olan bir kesrin basit kesir olması için paydası en az kaç olmalıdır?
+4	pazar alışverişini anlatan cümlelerden hangisinde virgül doğru kullanılmıştır?
 4	pil ile ampulü birbirine bağlamak için hangisi kullanılmalıdır?
 4	pizza ve makarna hangi ülkenin mutfağıyla özdeşleşmiştir?
+4	rakamları birbirinden farklı, dört basamaklı en küçük doğal sayı kaçtır?
+4	read: “my robot can dance, but it can't sing.” metne göre robot ne yapamaz?
 4	resimli grafikte ☀️ simgesi 5 kez, 🌧️ simgesi 2 kez çizilmiş. bu grafik neyi gösterir?
 4	rüzgârlı havada şemsiyeler sık sık ters dönüyor. bu problemi çözmek için hangisi bir mühendislik yaklaşımıdır?
 4	saat 9.00'u i̇ngilizce nasıl söyleriz?
@@ -5159,6 +5278,7 @@
 4	ses kirliliğinin insan sağlığına etkilerinden biri hangisidir?
 4	sesi büyüterek çok kişiye duyurmaya yarayan araç hangisidir?
 4	sigara dumanı vücudumuzun en çok hangi organına zarar verir?
+4	sigara dumanının olduğu ortamda bulunmak sağlığımızı nasıl etkiler?
 4	sigara içen bir yakınına nasıl yardımcı olabilirsin?
 4	sigara içilen bir ortamda bulunan ama sigara içmeyen kişi için hangisi doğrudur?
 4	sigara içilen kapalı bir ortamda bulunmak neden zararlıdır?
@@ -5219,6 +5339,7 @@
 4	türkiye'nin kaç kara komşusu vardır?
 4	uzunluk ölçme birimlerini küçükten büyüğe sırala.
 4	vücudumuz enerji ihtiyacını öncelikle hangi besin içeriğinden karşılar?
+4	vücudumuzun büyümesinde ve kas yapımında görev alan; et, yumurta ve kuru baklagillerde bol bulunan besin içeriği hangisidir?
 4	vücudumuzun büyümesini ve yaraların onarılmasını en çok hangi besin öğesi sağlar?
 4	vücudumuzun temel enerji kaynağı olan besin öğesi hangisidir?
 4	where is istanbul? it's in …
@@ -5237,6 +5358,7 @@
 4	yer kabuğunu oluşturan, bir veya daha fazla maddeden oluşan katı kütlelere ne ad verilir?
 4	yer kabuğunun kara kısmı en çok neyden oluşur?
 4	yer kabuğunun okyanusların altında kalan kısmı için hangisi doğrudur?
+4	yetenek bildiren fiilleri türkçeleriyle eşleştir.
 4	yetersiz ışıkta uzun süre kitap okumak hangi soruna yol açabilir?
 4	yiyecek ve içecekleri eşleştir.
 4	yumurta, et ve balık en çok hangi besin içeriğinden zengindir?
@@ -5245,6 +5367,7 @@
 4	yün ipliklerle tezgâhta dokunan, desenleri kuşaktan kuşağa aktarılan geleneksel el sanatımız hangisidir?
 4	yılın oluşmasını sağlayan hareket hangisidir?
 4	zaman birimlerini en kısadan en uzuna doğru sırala: gün, saniye, hafta, dakika, saat.
+4	zeynep bir hafta boyunca hava durumunu gözlemledi: 3 gün güneşli, 2 gün yağmurlu, 2 gün bulutlu. bu hafta en çok hangi hava durumu görüldü?
 4	zeynep hangi alanda yetenekli olduğunu keşfetmek istiyor. ne yapmalıdır?
 4	zeynep her gün 35 dakika kitap okuyor. bir haftada toplam kaç dakika kitap okur?
 4	zeynep yere dökülen toplu iğneleri kolayca toplamak için bir araç tasarlayacak. hangi malzemeyi kullanmalıdır?
@@ -5351,10 +5474,12 @@
 4	“bisiklet” i̇ngilizcede hangisi?
 4	“biçim” kelimesinin eş anlamlısı hangisi?
 4	“boyun” i̇ngilizcede hangisi?
+4	“bu senin topun mu?” sorusunun i̇ngilizcesi hangisidir?
 4	“bıçak” i̇ngilizcede hangisi?
 4	“can you swim?” sorusuna olumlu cevap hangisidir?
 4	“can your brother ride a bike?” sorusuna olumsuz cevap hangisidir?
 4	“cold” ne demek?
+4	“cömert” kelimesinin zıt anlamlısı hangisidir?
 4	“deniz” i̇ngilizcede hangisi?
 4	“dentist” ne demek?
 4	“ders” i̇ngilizcede hangisi?
@@ -5389,6 +5514,7 @@
 4	“güçlü” kelimesinin eş anlamlısı hangisi?
 4	“haklı” kelimesinin zıt anlamlısı hangisi?
 4	“harita” i̇ngilizcede hangisi?
+4	“has she got a cat?” sorusuna olumlu cevap hangisidir?
 4	“hatırlamak” kelimesinin zıt anlamlısı hangisi?
 4	“haziran” i̇ngilizcede hangisi?
 4	“he has got a red hat.” cümlesinde ne anlatılıyor?
@@ -5412,6 +5538,7 @@
 4	“knee” ne demek?
 4	“kolay” kelimesinin zıt anlamlısı hangisi?
 4	“kol” i̇ngilizcede hangisi?
+4	“komşumuz ali bey her zaman güler yüzlü ve hoşgörülüdür.” bu cümledeki “hoşgörülü” kelimesi ne anlama gelir?
 4	“kulak asmamak” deyiminin anlamı nedir?
 4	“kulak vermek” deyiminin anlamı hangisidir?
 4	“kuyruk” kelimesi kaç hecelidir?
@@ -5419,6 +5546,7 @@
 4	“kuşku” kelimesinin eş anlamlısı hangisi?
 4	“kış” kelimesinin zıt anlamlısı hangisi?
 4	“long” ne demek?
+4	“mahalledeki herkes ona güvenirdi, çünkü o çok dürüst bir insandı.” bu cümledeki “dürüst” kelimesinin eş anlamlısı hangisidir?
 4	“masa” kelimesi kaç hecelidir?
 4	“medeniyet” kelimesinin eş anlamlısı hangisi?
 4	“misafir” kelimesinin eş anlamlısı hangisi?
@@ -5546,6 +5674,7 @@
 5	19,9 + 16,7 = ?
 5	192 liralık bir top için %25 indirim yapılıyor. i̇ndirimli fiyat kaç liradır?
 5	1928'de kabul edilen harf i̇nkılabı ile hangi alfabe kullanılmaya başlandı?
+5	2 1/4 tam sayılı kesrinin bileşik kesir olarak yazılışı hangisidir?
 5	2 955 845 sayısında 9 rakamının basamak değeri kaçtır?
 5	2 tam 1/3 kesrinin bileşik kesir olarak yazılışı hangisidir?
 5	2/11 + 3/11 + 5/11 = ?
@@ -5587,8 +5716,10 @@
 5	3 × 5 + 8 × 6 = ?
 5	3,45 sayısındaki 4 rakamı hangi basamaktadır?
 5	3/4 − 1/4 = ?
+5	3/4'ü 15 olan sayı kaçtır?
 5	3/5 kesrine denk olan kesir hangisidir?
 5	3/5 − 1/5 = ?
+5	3/5, 3/8 ve 3/4 kesirlerinden en büyüğü hangisidir?
 5	3/9 − 1/9 = ?
 5	30 − 5 × 4 = ?
 5	300'ün %90'ı kaçtır?
@@ -5658,6 +5789,7 @@
 5	5-a sınıfındaki öğrencilere en sevdikleri meyve soruldu. sonuçlar: elma 8, muz 5, çilek 9, portakal 3. toplam kaç veri toplanmıştır?
 5	5/12 − 3/12 = ?
 5	5/6 − 3/6 = ?
+5	5/6, 1/6, 7/6 ve 3/6 kesirlerini küçükten büyüğe doğru sırala.
 5	5/7 + 1/7 = ?
 5	512'nin %25'i kaçtır?
 5	53 sayısının i̇ngilizcesi hangisi?
@@ -5758,6 +5890,7 @@
 5	ankete katılan 30 öğrenciden 12'si futbolu, 8'i basketbolu, geri kalanı voleybolu seçti. voleybolu kaç öğrenci seçti?
 5	annesi 36, can 8 yaşındadır. kaç yıl sonra annesinin yaşı can'ın yaşının 3 katı olur?
 5	antalya ve muğla'da turizmin çok gelişmiş olmasının en önemli nedeni nedir?
+5	anıtkabir gezisiyle ilgili cümlelerden hangisinde yazım yanlışı vardır?
 5	arılar çiçekten çiçeğe uçarak polen taşır. bu sayede bitkiler tohum ve meyve oluşturabilir. elma, kiraz ve çilek gibi pek çok meyvenin oluşmasında arıların büyük payı vardır. arılar ayrıca bal ve balmumu üretir. bilim insanları, arıların azalmasının tarımı olumsuz etkileyeceğini söylüyor. bu metnin konusu nedir?
 5	asya, 1000 lira ile 140 liralık bir şapka ve 3 tane 156 liralık top aldı. kaç lira para üstü almalı?
 5	asya, 1000 lira ile 290 liralık bir top, 4 tane 49 liralık dondurma ve 3 tane 84 liralık yapboz aldı. kaç lira para üstü almalı?
@@ -5780,6 +5913,7 @@
 5	ay'ın yüzeyiyle ilgili hangisi doğrudur?
 5	ay, dünya'nın hangi tür gök cismidir?
 5	aydınger kâğıdının arkasındaki bir cisim bulanık görünüyor. aydınger kâğıdı ışığı geçirme bakımından nasıl bir maddedir?
+5	aynı büyüklükteki iki pizzadan ali birinin 2/8'ini, can diğerinin 1/4'ünü yedi. hangisi doğrudur?
 5	aynı dinamometreye asılan iki cisimden biri yayı daha çok uzatıyor. bu cisim için ne söylenebilir?
 5	aynı dinamometreye önce 2 n, sonra 4 n ağırlığında bir cisim asılıyor. dinamometrenin yayı için hangisi doğrudur?
 5	aynı dinamometreye önce a, sonra b cismi asılıyor. b asıldığında yay daha çok uzuyor. hangisi söylenebilir?
@@ -5790,6 +5924,7 @@
 5	ayşe, emir'den büyüktür. emir de zeynep'ten büyüktür. en küçük kimdir?
 5	açıları türleriyle eşleştir.
 5	açıları ölçülerine göre küçükten büyüğe sırala.
+5	ağırlık ile ilgili hangisi doğrudur?
 5	ağırlık için aşağıdakilerden hangisi doğrudur?
 5	aşağıdaki bitkilerden hangisi çiçeksiz bir bitkidir?
 5	aşağıdaki canlılardan hangisinin nesli tamamen tükenmiştir?
@@ -5844,6 +5979,7 @@
 5	bilinen en eski yazılı antlaşmalardan kadeş antlaşması'nı hititler hangi devletle imzalamıştır?
 5	bir aile ya da kişinin belirli bir süredeki gelir ve giderlerini gösteren plana ne ad verilir?
 5	bir ailenin aylık geliri 40 000 tl, giderleri 34 500 tl'dir. bu aile ay sonunda kaç tl biriktirir?
+5	bir akarsu üzerine baraj yapılması hangi duruma örnektir?
 5	bir akarsu üzerine baraj yapılmasının olumlu sonuçlarından biri hangisidir?
 5	bir altıgenin kaç köşesi vardır?
 5	bir arkadaşına internette sürekli kırıcı mesajlar gönderilmesine ne ad verilir?
@@ -5862,8 +5998,10 @@
 5	bir devre şemasına bakarak deney kuran emir'in dikkat etmesi gereken en önemli şey hangisidir?
 5	bir devreye aynı yönde, art arda yeni bir pil eklenirse ampulün parlaklığı nasıl değişir?
 5	bir dikdörtgen 5 sıra ve her sırada 7 birim kare olacak biçimde birim karelerle tamamen kaplanmıştır. dikdörtgenin alanı kaç birim karedir?
+5	bir dinamometrede her bölme 2 newtonu gösteriyor. asılan cisim göstergeyi 7. bölmeye kadar indirdi. cismin ağırlığı kaç newtondur?
 5	bir dinamometrede her bölme 5 n'u gösteriyor. bir cisim asıldığında yay 6 bölme uzuyor. cismin ağırlığı kaç newtondur?
 5	bir dinamometrenin en fazla 10 n ölçebildiği yazıyor. bu dinamometreyle ağırlığı 30 n olan bir cismi ölçmeye çalışmak neden doğru değildir?
+5	bir duvar saati her saat başında, o saat kaçsa o kadar kez çalıyor (saat 3'te 3 kez). saat 1'den saat 5'e kadar (ikisi de dâhil) toplam kaç kez çalar?
 5	bir duvar saati her saat başında, saat kaçsa o kadar kez çalıyor (saat 1'de 1 kez, saat 2'de 2 kez…). saat 1.00'den 4.00'e kadar (ikisi de dâhil) toplam kaç kez çalar?
 5	bir dörtgenin kaç köşegeni vardır?
 5	bir düzlemde kesişen iki doğru kesişme noktasının çevresinde kaç açı oluşturur?
@@ -5873,6 +6011,7 @@
 5	bir elektrik devresinde elektrik enerjisini sağlayan eleman hangisidir?
 5	bir grubun üyelerinin rollerini yerine getirmesinin gruba etkisi hangisidir?
 5	bir ilde tarım arazilerinin üzerine çok sayıda bina yapılmasının sonucu hangisidir?
+5	bir ilin denize kıyısı olması, hangi illere komşu olduğu ve önemli yollar üzerinde bulunması, o ilin hangi özelliğini anlatır?
 5	bir ilin ekonomik faaliyetlerini özetleyen bir sunum hazırlayan öğrenci hangi bilgileri bir araya getirmelidir?
 5	bir ilin komşu illerine, denizlere ya da önemli yollara göre bulunduğu yere ne denir?
 5	bir ilin “karadeniz kıyısında, samsun'un batısında” bulunduğunu söylemek hangi konum türüne örnektir?
@@ -5935,6 +6074,7 @@
 5	bir sınıftaki 24 öğrencinin 3/8'i gözlüklüdür. kaç öğrenci gözlüklüdür?
 5	bir sınıftaki 24 öğrencinin 3/8'i satranç kulübüne gidiyor. kaç öğrenci satranç kulübüne gidiyor?
 5	bir sınıftaki 25 öğrencinin beşte biri (1/5) yüzme biliyor. bu öğrencilerin sayısı kaçtır?
+5	bir sınıftaki 28 öğrencinin 3/7'si gözlüklüdür. sınıfta kaç gözlüklü öğrenci vardır?
 5	bir sınıftaki 28 öğrencinin 3/7'si kızdır. bu sınıfta kaç erkek öğrenci vardır?
 5	bir sınıftaki 30 öğrencinin 2/5'i gözlük takıyor. bu sınıfta kaç öğrenci gözlük takıyor?
 5	bir sırada elif baştan 7., sondan 5. sıradadır. bu sırada toplam kaç kişi vardır?
@@ -5962,6 +6102,7 @@
 5	bir üçgenin iç açılarının ölçüleri toplamı kaç derecedir?
 5	bir ısı yalıtımı modeli yapan zeynep, iki özdeş kavanoza aynı sıcaklıkta su koyuyor. birini yün kumaşla sarıyor, diğerini açık bırakıyor. 20 dakika sonra hangi sonuç beklenir?
 5	bir şifrede her harf, türk alfabesinde kendisinden sonra gelen harfle değiştirilmiş (a→b, ç→d, i̇→j …). “djdfl” şifresi hangi kelimeyi gizliyor?
+5	bir şiiri oluşturan satırların her birine ne ad verilir?
 5	birbirine dik iki doğru kesişiyor. oluşan açılardan her biri kaç derecedir?
 5	birim kesirleri küçükten büyüğe sırala.
 5	bisiklete binerken kask, dizlik ve dirseklik takmanın amacı nedir?
@@ -6048,6 +6189,7 @@
 5	cümleleri olayların akışına göre sıralayarak bir paragraf oluştur.
 5	defne pencereden dışarı baktığında ağaçların dallarının beyaza büründüğünü gördü. sokakta çocuklar kızaklarıyla kayıyordu. annesi ona kalın montunu, bereli şapkasını ve eldivenlerini verdi. defne bahçeye çıkınca ayaklarının altındaki karın gıcırdadığını duydu. bu metne göre olay hangi mevsimde geçmektedir?
 5	defne şöyle diyor: “i love music, but i don't like dancing.” hangisi doğrudur?
+5	defne, emir ve ali'nin yaşları farklıdır. defne emir'den büyük, ali de defne'den büyüktür. en küçük kimdir?
 5	delikleri aynı hizada olan üç kartonun arkasındaki mumun alevi görülüyor. kartonlardan biri biraz kaydırılınca alev görünmüyor. bu deney neyi gösterir?
 5	deniz, 500 lira ile 2 tane 80 liralık top, 2 tane 82 liralık şapka ve 2 tane 20 liralık simit aldı. kaç lira para üstü almalı?
 5	deprem sırasında bina içindeysek hangi davranışı yapmalıyız?
@@ -6064,6 +6206,7 @@
 5	dinamometre ne ölçmek için kullanılır?
 5	dinamometrede hangi parça uzayarak kuvveti ölçmemizi sağlar?
 5	dinamometrenin içinde, kuvvet uygulandığında uzayan hangi parça bulunur?
+5	dinamometrenin içindeki hangi parça uzayarak kuvvetin büyüklüğünü gösterir?
 5	dinamometrenin çalışma ilkesi aşağıdakilerden hangisine dayanır?
 5	dişlerini fırçalarken musluğu kapatan zeynep hangi davranışı göstermektedir?
 5	doğa gezisinde hangi kural “çöplerini yanında götürmelisin.” anlamına gelir?
@@ -6075,6 +6218,7 @@
 5	dönme ve dolanma hareketleriyle ilgili hangisi doğrudur?
 5	dört dizeden oluşan şiir bölümüne ne ad verilir?
 5	dünden önceki gün pazartesiydi. yarından sonraki gün hangi gündür?
+5	dünya'dan ay'a giden bir astronotun kütlesi ve ağırlığı nasıl değişir?
 5	dünya'dan ay'ın hep aynı yüzünü görmemizin nedeni nedir?
 5	dünya'nın kendi ekseni etrafında dönmesi sonucunda ne oluşur?
 5	dünya, güneş'in etrafındaki bir turunu yaklaşık ne kadar sürede tamamlar?
@@ -6161,6 +6305,7 @@
 5	hangi cümlede kesme işareti doğru kullanılmıştır?
 5	hangi cümlede kesme işareti yanlış kullanılmıştır?
 5	hangi cümlede kişileştirme sanatı vardır?
+5	hangi cümlede kişileştirme vardır?
 5	hangi cümlede kişileştirme yapılmıştır?
 5	hangi cümlede kısaltma doğru kullanılmıştır?
 5	hangi cümlede mecaz anlamlı bir söz vardır?
@@ -6188,6 +6333,7 @@
 5	hangi kelime 4 hecelidir?
 5	hangi kelime 5 hecelidir?
 5	hangi kelimenin yazımı yanlıştır?
+5	hangi kesir 2/3'e denktir?
 5	hangi kesir en büyüktür?
 5	hangi sayı diğerlerinden farklı? 12, 21, 9, 29 (sayıların 3'ün katı olup olmamalarına bak.)
 5	hangi sayı diğerlerinden farklı? 16, 88, 50, 84 (sayıların 4'ün katı olup olmamalarına bak.)
@@ -6217,6 +6363,7 @@
 5	hangisi beşerî (insan yapımı) bir çevre ögesidir?
 5	hangisi bir atığın yeniden kullanımına örnektir?
 5	hangisi bir ekonomik faaliyet değildir?
+5	hangisi bir giysidir?
 5	hangisi bir hobi değildir?
 5	hangisi bir ilin beşerî (insan yapımı) çevresinde zamanla meydana gelen değişime örnektir?
 5	hangisi bir kuştur (bird)?
@@ -6237,6 +6384,7 @@
 5	hangisi ordu ilinin göreceli konumunu anlatır?
 5	hangisi plastik atık kutusuna atılmalıdır?
 5	hangisi sayılamayan (uncountable) bir isimdir?
+5	hangisi sürtünme kuvvetini azaltmaya yönelik bir uygulamadır?
 5	hangisi sürtünmeyi artırmaya yönelik bir uygulamadır?
 5	hangisi sürtünmeyi azaltmaya yönelik bir uygulamadır?
 5	hangisi teknolojinin sağlık alanındaki olumlu etkilerinden biridir?
@@ -6244,6 +6392,7 @@
 5	hangisi tüm çocukların sahip olduğu temel haklardan biridir?
 5	hangisi türkiye ile kara sınırı olan ülkelerden biri değildir?
 5	hangisi türkiye'nin doğusunda yer alan kara komşularımızdan biridir?
+5	hangisi türkiye'nin kara sınırı olan komşularından biridir?
 5	hangisi yenilenebilir bir enerji kaynağıdır?
 5	hangisi “bağımsız” kelimesinin zıt anlamlısıdır?
 5	hangisi “sıfır atık” anlayışına uygun bir davranıştır?
@@ -6345,6 +6494,7 @@
 5	kış gelince kimi kuşlar sıcak ülkelere göç eder. yolculuklarında binlerce kilometre uçarlar. yönlerini bulmak için güneş'ten, yıldızlardan ve yer şekillerinden yararlanırlar. leylekler, türkiye üzerinden geçen göç yollarını kullanır. i̇lkbaharda ise aynı kuşlar yuvalarına geri döner. bu metne en uygun başlık hangisidir?
 5	kışın buzlu yollara kum dökülmesinin amacı nedir?
 5	kışın karlı ve buzlu yollarda araç lastiklerine zincir takılmasının amacı nedir?
+5	kışın karlı yollarda araç lastiklerine zincir takılmasının amacı nedir?
 5	lastik ve karton kullanarak basit bir dinamometre modeli yapan elif, kartonun üzerine çizgiler çiziyor. bu çizgiler ne işe yarar?
 5	leyla, 1000 lira ile 3 tane 58 liralık boya kalemi seti, 35 liralık bir kalem ve 4 tane 53 liralık oyuncak araba aldı. kaç lira para üstü almalı?
 5	leyla, 1000 lira ile 3 tane 88 liralık kitap, 4 tane 24 liralık meyve suyu ve 4 tane 45 liralık defter aldı. kaç lira para üstü almalı?
@@ -6424,6 +6574,8 @@
 5	nüfusu en kalabalık coğrafi bölgemiz hangisidir?
 5	odanın bir köşesine sıkılan parfümün kokusunun kısa sürede bütün odaya yayılması neyi gösterir?
 5	oku: 1928 yılında yeni türk harfleri kabul edildi. atatürk, yeni harfleri halka tanıtmak için birçok şehri gezdi. parklarda, meydanlarda kara tahtanın başına geçerek harfleri bizzat öğretti. bu çalışmaları nedeniyle atatürk'e “başöğretmen” unvanı verildi. metne göre atatürk'e neden “başöğretmen” unvanı verilmiştir?
+5	oku: kasım ayının soğuk bir sabahında selin ve sınıf arkadaşları öğretmenleriyle anıtkabir'i ziyaret etti. selin, müzedeki eşyaların önünde uzun süre durdu ve gördüklerini defterine not etti. bu metinde hikâyenin “yer” unsuru hangisidir?
+5	oku: mustafa, küçük yaşlarından beri öğrenmeye çok meraklıydı. askerî ortaokulda matematik derslerindeki başarısı nedeniyle öğretmeni ona “kemal” adını verdi. metne göre mustafa'ya “kemal” adı neden verilmiştir?
 5	oku: sömestr tatilinin ilk sabahı barış, köydeki dedesinin evine vardı. ahırdaki yeni doğmuş buzağı için annesinin sütü yetmiyordu. barış her gün buzağıyı biberonla besledi. tatilin sonunda buzağı, barış'ı görünce koşarak yanına geliyordu. bu metindeki olaylar nerede geçmektedir?
 5	oku: “atatürk okumaya çok düşkündü. zor yıllarda bile yanında kitap taşır, fırsat buldukça okurdu. okuduğu kitapların kenarlarına notlar alır, önemli gördüğü satırların altını çizerdi.” bu metinde atatürk'ün hangi özelliği vurgulanmaktadır?
 5	oku: “atatürk, 1881 yılında selanik'te doğdu. i̇lk öğrenimine mahalle mektebinde başladı, ardından şemsi efendi okulu'na geçti. askerî eğitimine ise selanik askerî rüştiyesi'nde başladı.” metne göre atatürk askerî eğitimine hangi okulda başladı?
@@ -6480,12 +6632,14 @@
 5	sabah kahvaltısı günün en önemli öğünlerinden biridir. kahvaltı yapan çocuklar derslere daha kolay odaklanır. peynir, yumurta ve zeytin gibi besinler vücuda enerji verir. kahvaltıyı atlayan kişiler öğle saatlerinde çabuk yorulabilir. bu yüzden her güne dengeli bir kahvaltıyla başlamak gerekir. aşağıdakilerden hangisi bu metinde söylenmemiştir?
 5	saf su için hangisi doğrudur?
 5	satın aldığı ayakkabı kusurlu çıkan ve satıcıyla anlaşamayan bir tüketici hangi kuruma başvurabilir?
+5	sayı doğrusunda 0 ile 1 arası 5 eş parçaya bölünmüştür. 0'dan sağa doğru 3. çizgi hangi kesri gösterir?
 5	sayı doğrusunda 0 ile 1 arası 5 eş parçaya bölünmüştür. 0'dan sonraki 4. çentik hangi kesri gösterir?
 5	sayı doğrusunda 0 ile 1 arası 5 eş parçaya bölünmüştür. a noktası 0'dan sonraki 3. çizgidedir. a noktası hangi kesri gösterir?
 5	sayıları büyükten küçüğe doğru sırala.
 5	sayıları küçükten büyüğe doğru sırala.
 5	sağlık sorunu yaşayan bir kişi hangi kuruma başvurmalıdır?
 5	sel afetinin etkilerini azaltmak için hangisi yapılmalıdır?
+5	sel afetinin zararlarını azaltmak için hangisi yapılmalıdır?
 5	sel riskini azaltmak için hangisi yapılmalıdır?
 5	sen gülersen ben de gülerim, sen el sallarsan ben de sallarım. ama sağ elini kaldırınca ben solumu kaldırmış gibi görünürüm. ben neyim?
 5	soğuk bir bardağın dış yüzeyinde oluşan su damlacıkları hangi olayla oluşur?
@@ -6531,6 +6685,7 @@
 5	türkiye'nin batıdaki kara sınırı komşuları hangileridir?
 5	türkiye'nin en kalabalık şehri i̇stanbul hangi coğrafi bölgededir?
 5	türkiye'nin en kısa kara sınırı hangi ülkeyledir?
+5	türkiye'nin en uzun kara sınırı hangi ülke iledir?
 5	türkiye'nin en uzun kara sınırı hangi ülkeyledir?
 5	türkiye'nin kara sınırı en uzun olan komşusu hangisidir?
 5	türkiye'nin kara sınırı komşularından hangisi kafkasya'da yer alır?
@@ -6646,6 +6801,7 @@
 5	“atatürk şöyle demiştir ( ) “hayatta en hakiki mürşit ilimdir.” ayraçla gösterilen yere hangi noktalama işareti gelmelidir?
 5	“atatürk, eğitime büyük önem verirdi.” cümlesindeki “önem” kelimesinin eş anlamlısı hangisidir?
 5	“atatürk, millî mücadele yıllarında gece gündüz çalıştı.” cümlesindeki “gece gündüz” ifadesinin anlamı nedir?
+5	“atatürk, yeni kurulan cumhuriyet'in temellerini sağlamlaştırmak için büyük bir azimle çalıştı.” bu cümlede “azim” ne anlama gelir?
 5	“atatürk, yurdun dört bir yanını dolaşarak halkın sorunlarını dinledi.” cümlesinde “dört bir yan” ne anlama gelir?
 5	“ayakları geri geri gitmek” deyimi hangi durumu anlatır?
 5	“ayna” i̇ngilizcede hangisi?
@@ -6739,12 +6895,14 @@
 5	“hanımeli” kelimesi kaç hecelidir?
 5	“happy birthday!” ne zaman söylenir?
 5	“harita” i̇ngilizcede hangisi?
+5	“hava çok soğuktu, ___ kalın giyindik.” boşluğa hangisi gelmelidir?
 5	“haziran” i̇ngilizcede hangisi?
 5	“heavy” ne demek?
 5	“heyecan, sevinç, merak, hayranlık” kelimeleri hangi grupta sınıflandırılabilir?
 5	“hospital” ne demek?
 5	“hot” ne demek?
 5	“how often do you play basketball?” sorusuna uygun cevap hangisidir?
+5	“i ___ brush my teeth before bed.” cümlesi “yatmadan önce dişlerimi her zaman fırçalarım.” anlamına gelsin. boşluğa ne gelir?
 5	“i always brush my teeth before bed.” cümlesindeki “always” ne anlama gelir?
 5	“i am from spain. i am ……” boşluğa hangisi gelir?
 5	“i go to school by bus.” cümlesinin türkçesi hangisidir?
@@ -6840,6 +6998,7 @@
 5	“sessiz” i̇ngilizcede hangisi?
 5	“seventy-five” rakamla kaçtır?
 5	“sevinmek” kelimesinin zıt anlamlısı hangisi?
+5	“she has got long, curly hair.” cümlesi ne anlatır?
 5	“she is sleeping.” cümlesinin türkçesi hangisidir?
 5	“she …… her homework every evening.” boşluğa hangisi gelir?
 5	“sivrisinekler” kelimesi kaç hecelidir?
@@ -6895,6 +7054,7 @@
 5	“what are you going to do on holiday?” sorusuna uygun cevap hangisidir?
 5	“what do you do at festivals?” sorusuna uygun cevap hangisidir?
 5	“what is your grandfather doing?” sorusuna uygun cevap hangisidir?
+5	“what time do you get up?” sorusunun uygun cevabı hangisidir?
 5	“what time is the art lesson?” sorusuna uygun cevap hangisidir?
 5	“what time is your science class?” “it's at ten fifteen.” fen dersi saat kaçtadır?
 5	“what's the matter?” sorusu ne anlama gelir?
@@ -6960,6 +7120,8 @@
 6	(−8) + 20 = ?
 6	(−9) − (−19) = ?
 6	0,35 ondalık gösteriminin kesir olarak yazılışı hangisidir?
+6	0,375 sayısındaki 7 rakamının basamak değeri kaçtır?
+6	0,55; 0,09; 0,505 ve 0,5 sayılarını küçükten büyüğe doğru sırala.
 6	0,8 ondalık gösterimi nasıl okunur?
 6	0,9 × 4 = ?
 6	1 dm kaç santimetredir?
@@ -7041,6 +7203,7 @@
 6	24 ve 32 sayılarının ebob'u kaçtır?
 6	24 ve 40 sayılarının ekok'u kaçtır?
 6	24 öğrenci, her grupta eşit sayıda öğrenci olacak biçimde gruplara ayrılacak. her grupta en az 2, en çok 12 öğrenci olacaksa kaç farklı gruplama yapılabilir?
+6	240 tl'lik bir montta %25 indirim yapılıyor. montun indirimli fiyatı kaç tl'dir?
 6	25 ve 35 sayılarının ebob'u kaçtır?
 6	27 metre ve 72 metre uzunluğundaki iki ip, hiç artmayacak şekilde eşit uzunlukta parçalara bölünecek. parçalar en fazla kaç metre olabilir?
 6	28 ve 36 sayılarının ekok'u kaçtır?
@@ -7070,6 +7233,7 @@
 6	3/8 kesrinin ondalık gösterimi hangisidir?
 6	3/9 × 3/4 işleminin sonucu en sade biçimde hangisidir?
 6	30 kişilik bir sınıfta 18 öğrenci futbolu, 15 öğrenci basketbolu seviyor. her öğrenci bu sporlardan en az birini sevdiğine göre kaç öğrenci ikisini de seviyor?
+6	30 kişilik bir sınıfın %40'ı kızdır. sınıfta kaç erkek öğrenci vardır?
 6	30 sayısının i̇ngilizcesi hangisi?
 6	300 liralık bir çanta için %30 indirim yapılıyor. i̇ndirimli fiyat kaç liradır?
 6	34, 74 ve 48 sayılarının aritmetik ortalaması kaçtır?
@@ -7094,6 +7258,7 @@
 6	4 − (−1) = ?
 6	4'e, 6'ya ve 10'a tam bölünebilen en küçük pozitif doğal sayı kaçtır?
 6	4,1 × 0,5 = ?
+6	4,2 kilometre kaç metredir?
 6	4,2 × 7 = ?
 6	4,368 sayısında 6 rakamının basamak değeri hangisidir?
 6	4,375 sayısındaki 7 rakamının basamak değeri kaçtır?
@@ -7164,6 +7329,7 @@
 6	6⁵ kaçtır?
 6	7 metre ve 14 metre uzunluğundaki iki ip, hiç artmayacak şekilde eşit uzunlukta parçalara bölünecek. parçalar en fazla kaç metre olabilir?
 6	7 × 7 çarpımının üslü gösterimi hangisidir?
+6	7 ÷ 4 bölme işleminin sonucu hangi kesre eşittir?
 6	7 ÷ 8 bölme işleminin sonucu kesir olarak nasıl yazılır?
 6	7,3 × 6 = ?
 6	7,7 × 0,6 = ?
@@ -7224,7 +7390,9 @@
 6	ali, 500 lira ile 3 tane 43 liralık boya kalemi seti, 3 tane 2 liralık çıkartma ve 4 tane 21 liralık defter aldı. kaç lira para üstü almalı?
 6	ali, bora, cem ve deniz bir koşuda ilk dört sırayı aldı. ali bora'dan önce, cem de ali'den önce yarışı bitirdi. deniz sonuncu oldu. yarışı birinci kim bitirdi?
 6	ali, mehmet'ten uzundur. mehmet de zeynep'ten uzundur. üçünün en kısası kimdir?
+6	anadolu yarımadasının bulunduğu ve türkiye topraklarının büyük bölümünü içine alan kıta hangisidir?
 6	anadolu'nun üç tarafının denizlerle çevrili olması onu hangi yer şekline örnek yapar?
+6	ardışık üç doğal sayının toplamı 48'dir. bu sayıların en büyüğü kaçtır?
 6	ardışık üç doğal sayının toplamı 51'dir. bu sayıların en büyüğü kaçtır?
 6	arkadaşının sunumunu eleştiren ali'nin hangi sözü uygun bir eleştiridir?
 6	asal çarpanlarına ayrılmış hâli 2 × 3 × 3 × 7 olan sayı kaçtır?
@@ -7248,6 +7416,7 @@
 6	açı kavramlarını ölçüleriyle eşleştir.
 6	açıları ölçülerine göre en küçükten en büyüğe doğru sırala.
 6	aşağıdaki cümlelerin hangisinde büyük harflerin kullanımı yanlıştır?
+6	aşağıdaki cümlelerin hangisinde “de” bağlacı yanlış yazılmıştır?
 6	aşağıdaki hayvanlardan hangisi gelişimi sırasında başkalaşım geçirmez?
 6	aşağıdaki sözcüklerden hangisinin yazımı doğrudur?
 6	aşağıdaki ülkelerden hangisi türk devletleri teşkilatı'nın üyesidir?
@@ -7301,6 +7470,7 @@
 6	bir bisikletli 300 metrelik yolu 60 saniyede alıyor. bisikletlinin sürati kaç m/s'dir?
 6	bir buluşun sahibine, buluşunu belirli bir süre yalnızca kendisinin üretip satabilmesi için verilen belgeye ne ad verilir?
 6	bir bölgede turizmin gelişmesi o bölgedeki meslekleri nasıl etkiler?
+6	bir canlının tek başına bölünerek kendisine benzeyen yeni canlılar oluşturmasına ne ad verilir?
 6	bir cisme doğuya doğru 50 n, batıya doğru 35 n kuvvet uygulanıyor. bileşke kuvvet nedir?
 6	bir cisme etki eden kuvvetlerin bileşkesi sıfırsa bu kuvvetlere ne ad verilir?
 6	bir cisme sağa doğru 30 n ve 20 n, sola doğru 60 n büyüklüğünde kuvvetler uygulanıyor. bileşke kuvvet için hangisi doğrudur?
@@ -7344,6 +7514,7 @@
 6	bir koşu parkuru 2,4 km'dir. zeynep bu parkuru 3 tur koştu. zeynep kaç metre koştu?
 6	bir koşucu 400 m'lik pisti 80 saniyede koşuyor. koşucunun sürati kaç m/s'dir?
 6	bir koşuda defne, ali'nin hemen önünde bitirdi. ali, can'dan önce bitirdi. mehmet ise defne'den önce bitirdi. koşucuları birinciden sonuncuya doğru sırala.
+6	bir kumaşın 2,5 metresi 300 tl'dir. bu kumaşın 1 metresi kaç tl'dir?
 6	bir kurşun kalemin uzunluğunu ölçmek için en uygun birim hangisidir?
 6	bir kutuda n tane kalem vardır. “n − 6” ifadesi neyi anlatır?
 6	bir kutuya aynı doğrultuda ve aynı yönde 12 n ve 8 n büyüklüğünde iki kuvvet uygulanıyor. bileşke kuvvet kaç n'dur?
@@ -7371,6 +7542,8 @@
 6	bir paralelkenarın köşegenleri o noktasında kesişiyor. köşegenlerden biri 14 cm ise o noktası bu köşegenin bir ucuna kaç cm uzaklıktadır?
 6	bir paranın tura gelme olasılığını gözlemle tahmin etmek için hangi veri en güvenilirdir?
 6	bir parça buz sürekli ısıtılıyor. suyun geçirdiği hâlleri oluş sırasına göre sırala.
+6	bir pastanın 3/8'i yendi. yenen kısmı gösteren 3/8 kesrinin ondalık gösterimi hangisidir?
+6	bir saat her gün 2 dakika geri kalıyor. pazartesi 12.00'de doğru ayarlandı. perşembe günü tam 12.00 olduğunda bu saat kaçı gösterir?
 6	bir sayının %20'si 15 ise bu sayının tamamı kaçtır?
 6	bir sayının 2 katının 18 fazlası 36'dır. bu sayı kaçtır?
 6	bir sayının 2 katının 19 fazlası 27'dir. bu sayı kaçtır?
@@ -7491,6 +7664,7 @@
 6	büyük selçuklu devleti'nin kurucuları olarak bilinen kardeşler kimlerdir?
 6	büyük selçuklu devleti'nin kuruluşunu sağlayan 1040 tarihli savaş hangisidir?
 6	büyük selçuklu veziri nizamülmülk'ün eğitim alanında açtığı ünlü okullar hangileridir?
+6	can 150 cm, ali 145 cm boyundadır. hangisi doğrudur?
 6	can beş sınavdan 42, 78, 81, 56 ve 53 puan aldı. can'ın puan ortalaması kaçtır?
 6	can bir raptiyeyi 50 kez attı; 30 kez sivri ucu yukarı geldi. sivri ucun yukarı gelme olasılığının tahmini hangisidir?
 6	can her birinde 6 boncuk bulunan 7 paket aldı. bunların 17 tanesini arkadaşlarına dağıttı. elinde kaç boncuk kaldı?
@@ -7522,6 +7696,7 @@
 6	diğer iç salgı bezlerinin çalışmasını denetlediği için “ana bez” olarak bilinen bez hangisidir?
 6	doğu anadolu'da kışların uzun ve sert geçmesi hangi ekonomik faaliyeti olumsuz etkiler?
 6	doğu karadeniz kıyılarında çay tarımının yaygın olmasının temel nedeni nedir?
+6	doğu karadeniz'de çay tarımının yaygın olmasının temel nedeni nedir?
 6	duran bir cisme dengelenmemiş kuvvetler etki ederse ne olur?
 6	duran bir kutuya doğuya doğru 30 n, batıya doğru 30 n büyüklüğünde iki kuvvet uygulanıyor. kutu için hangisi doğrudur?
 6	duran bir topa ayakla vurulduğunda top harekete geçiyor. bu durum neyi gösterir?
@@ -7612,6 +7787,7 @@
 6	hangi cümlede kişileştirme sanatı vardır?
 6	hangi cümlede kısaltma doğru kullanılmıştır?
 6	hangi cümlede kısaltma doğru yazılmıştır?
+6	hangi cümlede neden-sonuç ilişkisi vardır?
 6	hangi cümlede noktalı virgül doğru kullanılmıştır?
 6	hangi cümlede sayı doğru yazılmıştır?
 6	hangi cümlede sebep–sonuç ilişkisi vardır?
@@ -7664,6 +7840,7 @@
 6	hangisi bir doğal afettir?
 6	hangisi bir fosil yakıttır?
 6	hangisi bir iletişim teknolojisidir?
+6	hangisi bir kişilik sıfatıdır?
 6	hangisi bir metne yönelik yapıcı bir eleştiridir?
 6	hangisi bir müzik aletidir?
 6	hangisi bir sürat birimidir?
@@ -7713,6 +7890,7 @@
 6	i̇ngilizce kelimeleri türkçe anlamlarıyla eşleştir.
 6	i̇nsan kalbi kaç odacıktan oluşur?
 6	i̇nsanda erkek ve dişi üreme hücrelerinin birleşmesine ne ad verilir?
+6	i̇nsülin ve glukagon hormonlarını salgılayarak kan şekerini dengede tutan bez hangisidir?
 6	i̇nternet ve sosyal medyanın kültürel etkileşime etkisi hangisidir?
 6	i̇nternette bulduğu bir fotoğrafı okul dergisinde kullanmak isteyen öğrenci ne yapmalıdır?
 6	i̇skeletimizdeki kemikleri birbirine bağlayan ve hareket etmemizi sağlayan yapılara ne ad verilir?
@@ -7752,6 +7930,7 @@
 6	korsan (izinsiz çoğaltılmış) kitap satın almanın zararı hangisidir?
 6	kulağımız işitmenin yanında hangi göreve de yardımcı olur?
 6	kurbağanın gelişiminde yumurtadan çıkan ve suda solungaçlarla soluk alan evreye ne ad verilir?
+6	kurbağanın gelişiminde yumurtadan çıkan, suda yaşayan ve solungaçla solunum yapan evresine ne ad verilir?
 6	kurşun kalemin ucunda bulunan ve elektriği ileten madde hangisidir?
 6	kutadgu bilig adlı eserin yazarı kimdir?
 6	kuzey, 162 sayfalık bir kitabın altıda beşini (5/6) okudu. okuması gereken kaç sayfa kaldı?
@@ -7844,6 +8023,8 @@
 6	nil, 1000 lira ile 2 tane 32 liralık kalem, 3 tane 65 liralık boya kalemi seti ve 15 liralık bir meyve suyu aldı. kaç lira para üstü almalı?
 6	oku: 1921 yazında sakarya nehri kıyısında başlayan savaş, tam yirmi iki gün yirmi iki gece sürdü. askerler yorgundu, yiyecekleri azdı; ancak halkın gönderdiği her çuval un, her çift çorap cephede umut demekti. kazanılan zafer, milletin kendine olan güvenini yeniden canlandırdı. bu metinden hangisi çıkarılamaz?
 6	oku: kumsala bırakılan deniz kaplumbağası yumurtaları kumun sıcaklığıyla gelişir. yavrular yumurtadan çıkınca ay ışığının denizdeki yansımasına doğru ilerler. kıyıdaki parlak ışıklar onları şaşırtır ve yanlış yöne gitmelerine neden olur. metne göre yuvalama döneminde kumsal ışıklarının azaltılmasının nedeni nedir?
+6	oku: kurtuluş savaşı yıllarında anadolu'nun dört bir yanından insanlar cepheye yardım taşıdı. kadınlar kağnılarla cephane taşıdı, köylüler ellerindeki son erzakı orduya gönderdi. bu metinde asıl anlatılmak istenen nedir?
+6	oku: sabahın erken saatlerinde yola çıkan ayşe nine, kağnısındaki cephane sandıkları ıslanmasın diye üzerlerini kendi örtüsüyle kapattı. yağmur durmadan yağıyordu ama o yürümeye devam etti. akşam, cephaneyi eksiksiz teslim ettiğinde yorgun ama mutluydu. bu metne göre ayşe nine için hangisi söylenemez?
 6	oku: “arılar çiçekten çiçeğe konarken polen taşır. bu sayede birçok bitki tohum ve meyve oluşturabilir. yediğimiz pek çok meyve ve sebze, arıların bu çalışmasına bağlıdır. bu nedenle arıların azalması yalnızca bal üretimini değil, sofralarımızı da etkiler.” bu metni en iyi özetleyen cümle hangisidir?
 6	oku: “babaannem, kendi büyükannesinin millî mücadele yıllarında köydeki kadınlarla birlikte cephedeki askerler için çorap ördüğünü anlatırdı. kadınlar akşamları bir evde toplanır, lamba ışığında gece yarısına kadar örerlermiş. ördükleri çoraplar kağnılarla cepheye gönderilirmiş.” bu metinden hangi sonuca ulaşılabilir?
 6	oku: “mahallemizdeki eski kütüphane yıllardır kapalıydı. bir grup gönüllü binayı temizleyip boyadı. komşular evlerindeki kitapları bağışladı. şimdi kütüphane her hafta sonu çocuklarla dolup taşıyor.” metnin ana düşüncesi hangisidir?
@@ -7890,6 +8071,7 @@
 6	paralel iki doğruyu kesen bir doğrunun oluşturduğu açılardan biri 65°'dir. bu açının iç ters açısı kaç derecedir?
 6	patates yumrusundaki gözlerden yeni patates bitkilerinin gelişmesi hangi üreme şeklidir?
 6	patent sisteminin bilim ve teknolojinin gelişmesine katkısı hangisidir?
+6	pazardan alınan sebzeleri sıralayan cümlelerden hangisinde iki nokta (:) doğru kullanılmıştır?
 6	polenlerin dişi organın tepeciğine taşınmasına ne ad verilir?
 6	puanlar şöyle: ali 78, ece 91, can 85, defne 69. öğrencileri en yüksek puandan en düşüğe doğru sırala.
 6	renklere ayrılan ışık ikinci bir prizmadan geçirilerek yeniden birleştirilirse hangi renk elde edilir?
@@ -7918,6 +8100,7 @@
 6	sesin yayılma hızını ortamlara göre en hızlıdan en yavaşa doğru sırala.
 6	she ___ her homework every evening.
 6	sindirilen besinlerin büyük kısmı sindirim sisteminin hangi bölümünde kana geçer?
+6	sinir sisteminin sağlığı için hangisi yapılmalıdır?
 6	sinir sisteminin sağlığı için hangisi önemlidir?
 6	soluk alırken (nefes alırken) diyafram kası ne yapar?
 6	soluk alırken akciğerlere giren havadaki hangi gaz kana geçer?
@@ -7998,6 +8181,7 @@
 6	türk devletlerini önemli özellikleriyle eşleştir.
 6	türk dünyasındaki ülkelerin dil, müzik, edebiyat gibi alanlarda kültürel iş birliği için kurduğu kuruluş hangisidir?
 6	türk dünyasının kültür ve sanat alanındaki iş birliğini amaçlayan uluslararası kuruluş hangisidir?
+6	türk dünyasıyla kültürel iş birliğini güçlendirmek amacıyla kurulan uluslararası kuruluş hangisidir?
 6	türk dünyasıyla yapılan kültürel iş birliklerinin bir sonucu hangisidir?
 6	türk kadınları milletvekili seçme ve seçilme hakkını hangi yıl elde etmiştir?
 6	türkiye toprakları hangi kıtalar üzerinde yer alır?
@@ -8017,6 +8201,7 @@
 6	türkiye'nin matematik konumuyla ilgili hangisi doğrudur?
 6	türkiye'nin yüz ölçümü en büyük gölü hangisidir?
 6	türkiye'nin üç tarafının denizlerle çevrili olması hangi ekonomik faaliyeti kolaylaştırır?
+6	türkiye'nin üç tarafının denizlerle çevrili olması hangi sonucu doğurur?
 6	ulaşım ifadelerini türkçeleriyle eşleştir.
 6	umut dört sınavdan 73, 75, 82 ve 98 puan aldı. umut'un puan ortalaması kaçtır?
 6	umut, 132 sayfalık bir kitabın üçte birini (1/3) okudu. okuması gereken kaç sayfa kaldı?
@@ -8031,6 +8216,7 @@
 6	vatandaşların kamu kurumlarındaki birçok işlemi internet üzerinden yapabildiği sistemin adı nedir?
 6	veri: 2, 3, 3, 5, 7. zeynep “bu verinin tepe değeri 7'dir.” diyor. bu yorum için hangisi doğrudur?
 6	veri: 3, 5, 7, 8, 12. ali “bu verinin ortancası 7'dir.” diyor. ali'nin yorumu doğru mu?
+6	vücudumuzda dengenin sağlanmasından ve hareketlerin düzenlenmesinden sorumlu beyin bölümü hangisidir?
 6	vücudumuzun dengesini sağlayan ve hareketlerin uyumlu olmasına yardım eden beyin bölümü hangisidir?
 6	x = 1 iken 7x + 1x ifadesinin değeri kaçtır?
 6	x = 10 iken 3(x + 10) ifadesinin değeri kaçtır?
@@ -8092,6 +8278,7 @@
 6	yüzeyindeki demir oksit nedeniyle “kızıl gezegen” olarak bilinen gezegen hangisidir?
 6	yüzeyleri yaptıkları yansıma türüyle eşleştir.
 6	yüzyıllarca tıp eğitiminde temel kaynak olarak okutulan “el-kanun fi't-tıb” adlı eserin yazarı kimdir?
+6	yüzölçümü bakımından dünyanın en geniş okyanusu hangisidir?
 6	zeynep 360 sayfalık bir kitabın 2/5'ini okudu. okuması gereken kaç sayfa kaldı?
 6	zeynep sınıf başkanlığına aday olmuştur. zeynep hangi hakkını kullanmaktadır?
 6	zıt anlamlı kelimeleri eşleştir.
@@ -8104,7 +8291,9 @@
 6	çevreyi korumayla ilgili kelimeleri türkçeleriyle eşleştir.
 6	çinliler çin seddi'ni öncelikle hangi amaçla inşa etmiştir?
 6	çiçekli bir bitkide üreme olaylarını oluş sırasına göre diz.
+6	çiçekli bitkilerde polenlerin dişi organın tepeciğine taşınmasına ne ad verilir?
 6	çiçeğin kısımlarını görevleriyle eşleştir.
+6	çoğu tohumun çimlenmesi için hangisi gerekli değildir?
 6	çukurova'da pamuk tarımının yaygın olması hangi doğal kaynakla ilgilidir?
 6	örüntüde ? yerine hangi sayı gelmeli? 1, 4, 10, 22, ?
 6	örüntüde ? yerine hangi sayı gelmeli? 1, 5, 13, 29, ?
@@ -8203,6 +8392,7 @@
 6	“bir sayının 3 katının 5 fazlası” ifadesi, sayı x ile gösterilirse nasıl yazılır?
 6	“bu biyografide liderin yalnızca başarıları anlatılmış; yaşadığı zorluklara ve bunları nasıl aştığına hiç yer verilmemiş.” bu eleştirinin dayandığı temel gerekçe nedir?
 6	“bu kitap, tarihteki liderlerin hayatlarını sade bir dille anlatıyor; ancak bazı bölümler gereğinden uzun tutulmuş.” bu cümlede yazar kitabı nasıl değerlendirmiştir?
+6	“bu topraklar için canını seve seve feda eden kahramanları unutmayacağız.” bu cümlede “feda etmek” ne anlama gelir?
 6	“bu yolculuk bana farklı kültürlere saygı duymayı öğretti.” cümlesi bir gezi yazısının hangi bölümünde yer almaya en uygundur?
 6	“burnu havada olmak” deyiminin anlamı nedir?
 6	“bütün kediler memelidir. pamuk bir kedidir.” bu iki bilgiye göre hangisi kesinlikle doğrudur?
@@ -8239,6 +8429,7 @@
 6	“ece takes notes in every lesson and reads them again at home.” ece hakkında hangisi söylenebilir?
 6	“eighty-one” rakamla kaçtır?
 6	“eighty-six” rakamla kaçtır?
+6	“elif ___ got green eyes.” boşluğa hangisi gelmelidir?
 6	“erken” i̇ngilizcede hangisi?
 6	“erken” kelimesinin zıt anlamlısı hangisi?
 6	“esaret” sözcüğünün zıt anlamlısı hangisidir?
@@ -8422,6 +8613,7 @@
 6	“when it's cloudy, i feel ___.” cümlesinde boşluğa hangisi bir duygu olarak uygun gelir?
 6	“where were you last weekend?” sorusuna uygun cevap hangisidir?
 6	“which is the biggest planet in our solar system?” sorusunun cevabı hangisidir?
+6	“whose bag is this?” sorusuna uygun cevap hangisidir?
 6	“whose glasses are these? – they're ___.”
 6	“why were you late? – because the ferry was late.” konuşan kişi neden geç kalmış?
 6	“win” ne demek?
@@ -8560,6 +8752,7 @@
 7	acil durumda yangını söndürmek için kim gelir?
 7	ailene akşam için bir öneride bulunmak istiyorsun. hangisi doğru bir öneridir?
 7	akciğerlerde oksijen ve karbondioksit alışverişinin gerçekleştiği küçük hava keseciklerine ne denir?
+7	akciğerlerden gelen oksijence zengin kanı kalbe taşıyan damar hangisidir?
 7	akrabalık kelimelerini türkçe anlamlarıyla eşleştir.
 7	akıllı şehir uygulamalarında trafik ışıklarının araç yoğunluğuna göre kendini ayarlaması hangi sonuca yol açar?
 7	alanı 147 cm² olan bir dairenin yarıçapı kaç cm'dir? (π = 3 alınız.)
@@ -8574,6 +8767,7 @@
 7	ali'nin annesinin üç çocuğu var. birinin adı nisan, diğerinin adı mayıs. üçüncü çocuğun adı nedir?
 7	ali'nin bilye sayısı x, can'ınki ali'ninkinden 8 fazla, ece'ninki ise ali'ninkinin 2 katıdır. üçünün toplam 56 bilyesi varsa ali'nin kaç bilyesi vardır?
 7	ali'nin ilk üç sınav notu 80, 75 ve 90'dır. dört sınavın ortalamasının 85 olması için dördüncü sınavdan kaç alması gerekir?
+7	ali, berk, cem ve deniz yan yana dört sandalyede oturuyor. ali en soldadır. deniz, cem'in hemen sağındadır. berk en sağda değildir. soldan sağa oturma sırası hangisidir?
 7	ali, cem'den uzun; cem, deniz'den uzun; deniz, banu'dan uzundur. çocukları en uzundan en kısaya doğru sırala.
 7	altın levha deneyiyle atomun büyük kısmının boşluk olduğunu ve merkezde çekirdek bulunduğunu gösteren bilim insanı kimdir?
 7	anayasamıza göre devletin resmî dili, bayrağı, millî marşı ve başkenti ile ilgili hangisi doğrudur?
@@ -8599,6 +8793,7 @@
 7	atıkların kaynağında ayrıştırılması ve geri dönüştürülmesini amaçlayan, ülkemizde okullarda da uygulanan çevre projesinin adı nedir?
 7	aynı cins elektrik yüküyle yüklü iki cisim birbirine yaklaştırılırsa ne olur?
 7	aynı gruptaki elementler için hangisi doğrudur?
+7	aynı güçte akan 4 musluk bir havuzu 6 saatte dolduruyor. bu musluklardan 3 tanesi aynı havuzu kaç saatte doldurur?
 7	aynı kutuyu ali yerden 2 m, can ise yerden 4 m yüksekliğe sabit hızla kaldırıyor. yapılan işlerle ilgili hangisi doğrudur?
 7	aynı kütleli iki koşucudan defne 6 m/s, zeynep 4 m/s süratle koşuyor. hangisi doğrudur?
 7	aynı miktar şeker aynı miktar suya konuyor. çözünmenin en hızlıdan en yavaşa doğru olduğu durumu sırala.
@@ -8698,6 +8893,7 @@
 7	aşağıdakilerden hangisi demokrasinin uygulanmasında karşılaşılan sorunlardan biridir?
 7	aşağıdakilerden hangisi diğerlerinden farklı bir değere sahiptir?
 7	aşağıdakilerden hangisi dolaşım sistemi sağlığını olumsuz etkiler?
+7	aşağıdakilerden hangisi doğru orantılı bir durumdur?
 7	aşağıdakilerden hangisi ekonomik gelişmişliği artırmaya katkı sağlar?
 7	aşağıdakilerden hangisi el sanatları grubunda yer almaz?
 7	aşağıdakilerden hangisi etkili iletişimde “ben dili” kullanımına örnektir?
@@ -8746,6 +8942,7 @@
 7	besin zincirindeki oklar neyi gösterir?
 7	besin zincirini üreticiden başlayarak doğru sıraya koy.
 7	besin zincirlerinin enerji kaynağı nedir?
+7	besinlerin kimyasal sindiriminin tamamlandığı ve besinlerin kana en çok geçtiği (emildiği) organ hangisidir?
 7	besinlerin sindirim kanalında izlediği yolu sırala.
 7	beyaz ışık bir cam prizmadan geçirildiğinde ne gözlenir?
 7	bileşiklerle ilgili hangisi doğrudur?
@@ -8821,12 +9018,14 @@
 7	bir haber sitesinde “şok! bu besini yiyen herkes bir haftada uzuyor!” başlıklı bir haber görüyorsun. bu habere nasıl yaklaşmalısın?
 7	bir haber videosunda spiker “ormanlık alanlarda ateş yakmak yasaktır.” derken ekranın altında aynı bilgi yazılı olarak kayıyor. bu yazılı bant hangi izleyiciler için özellikle faydalıdır?
 7	bir habere göre “bisiklet kullananların sayısı geçen yıla göre %100 arttı.” bu artışın önemli olup olmadığını anlamak için en çok hangi bilgi gerekir?
+7	bir haritada 2 cm, gerçekte 50 km'ye karşılık geliyor. bu haritada aralarındaki uzaklık 7 cm olan iki şehir arasındaki gerçek uzaklık kaç km'dir?
 7	bir hediye kutusunun dış yüzeyi tamamen ambalaj kâğıdıyla kaplanacak. gereken kâğıt miktarını bulmak için hangisi hesaplanmalıdır?
 7	bir kafe, haftalık satış verilerine göre en çok satan içeceği belirleyip stokunu artırmak istiyor. hangi merkezi eğilim ölçüsünü kullanmalıdır?
 7	bir kamu spotunda şöyle deniyor: “ünlü milli voleybolcumuz da her gün kitap okuyor. sen de okumaya şimdi başla!” bu spotta hangi ikna tekniği kullanılmıştır?
 7	bir kavanoz domates salçasının hayat döngüsünü doğru sıraya koy.
 7	bir kaykaycı rampadan aşağı kayarken hızlanıyor ve tekerlekleri ısınıyor. bu durum için hangisi doğrudur?
 7	bir kaykaycı rampanın tepesinde 600 j çekim potansiyel enerjisine sahiptir. rampanın sonunda kinetik enerjisi 450 j olduğuna göre sürtünme nedeniyle kaç j enerji ısıya dönüşmüştür?
+7	bir kek tarifinde 3 su bardağı una 2 yumurta kullanılıyor. 12 su bardağı un için kaç yumurta gerekir?
 7	bir kenarı 13 cm ve yüksekliği 12 cm olan eşkenar dörtgenin alanı kaç cm²'dir?
 7	bir kenarın orta noktasını pergel ve cetvelle bulmak için hangi inşa yapılır?
 7	bir kentte dört günün sabah sıcaklıkları -4 °c, -2,5 °c, 1,5 °c ve 3 °c'dir. bu sıcaklıkların ortalaması kaç °c'dir?
@@ -8877,6 +9076,7 @@
 7	bir salyangoz 10 metrelik bir duvara tırmanıyor. gündüz 3 m çıkıyor, gece 2 m kayıyor. duvarın tepesine kaçıncı gün ulaşır?
 7	bir sanat sitesinde bir videonun altında “bu videoda çini ustası, desenin kâğıttan karoya nasıl aktarıldığını adım adım gösteriyor.” yazıyor. bu açıklama izleyiciye en çok hangi konuda yardımcı olur?
 7	bir sayı dizisinde her terim, kendinden önceki terimin −2 ile çarpımıdır. i̇lk terim 3 ise beşinci terim kaçtır?
+7	bir sayının 2/5'i 24 ise bu sayının 3/4'ü kaçtır?
 7	bir sesli mesajda arkadaşın “telefonumun şarjı bitmek üzere, buluşma yerine on dakika geç geleceğim, beni bekleyin.” diyor. bu mesajdan hangisi çıkarılamaz?
 7	bir spor salonuna üyelik ücreti 50 tl, her ders 25 tl'dir. toplam 400 tl ödeyen emir kaç derse katılmıştır?
 7	bir su deposu 2 m, 1,5 m ve 1 m boyutlarındadır. dakikada 50 litre su akıtan bir musluk boş depoyu kaç dakikada doldurur?
@@ -8895,6 +9095,7 @@
 7	bir sınıfta 16 kız ve 20 erkek öğrenci vardır. kız öğrenci sayısının erkek öğrenci sayısına oranı kaçtır?
 7	bir sınıfta 30 öğrenci var. 18 öğrenci satranç, 15 öğrenci yüzme kursuna gidiyor. 7 öğrenci ise her iki kursa da gidiyor. hiçbir kursa gitmeyen kaç öğrenci vardır?
 7	bir sınıfta kız öğrenci sayısının erkek öğrenci sayısına oranı 4/5'tir. sınıf mevcudu 36 olduğuna göre sınıfta kaç kız öğrenci vardır?
+7	bir sınıftaki kız öğrenci sayısının erkek öğrenci sayısına oranı 4/5'tir. sınıfta 36 öğrenci varsa kaç kız öğrenci vardır?
 7	bir sınıftaki öğrencilerden rastgele seçilen birinin gözlüklü olma olasılığı 2/7'dir. sınıfta 10 gözlüklü öğrenci varsa gözlüksüz kaç öğrenci vardır?
 7	bir sınıftan rastgele bir öğrenci seçiliyor. aşağıdaki olay çiftlerinden hangisi ayrık olaylardır?
 7	bir tabloda x = 2 için y = 18, x = 5 için y = 45, x = 7 için y = 63 veriliyor. x ile y doğru orantılı olduğuna göre x = 11 için y kaçtır?
@@ -8984,6 +9185,7 @@
 7	buzdolabını ocak veya fırın gibi ısı kaynaklarının yanına koymak neden doğru değildir?
 7	böbreklerde kanı süzen en küçük yapı ve görev birimine ne denir?
 7	böbrekleri çalışmayan hastaların kanı hangi yöntemle temizlenir?
+7	böbreklerin temel görevi nedir?
 7	böbreğin yapısında bulunan bölümler hangi seçenekte doğru verilmiştir?
 7	büyük kan dolaşımında kanın izlediği yolu sırala.
 7	cam çubuk ipek kumaşa sürtüldüğünde cam pozitif yükle yüklenir. i̇pek kumaş için hangisi doğrudur?
@@ -9036,6 +9238,7 @@
 7	dolaşım sistemi sağlığı için hangisi yararlı bir alışkanlıktır?
 7	doğa kelimelerini türkçe anlamlarıyla eşleştir.
 7	doğru orantılı iki çokluk ile ilgili hangisi her zaman doğrudur?
+7	doğru orantılı iki çokluk koordinat düzleminde gösterildiğinde grafik nasıl bir görünüme sahip olur?
 7	doğru orantılı iki çokluğun grafiği için hangisi doğrudur?
 7	durgun elektrikten günlük hayatta yararlanılan bir alan hangisidir?
 7	durumu, iki çokluk arasındaki ilişkiyle eşleştir.
@@ -9123,7 +9326,9 @@
 7	haftanın günlerinden kaçının adında “a” harfi geçer?
 7	ham petrolün bileşenlerine ayrılması ve alkol–su karışımının ayrılması hangi özellik farkına dayanır?
 7	hangi ayın adında “ü” harfi vardır?
+7	hangi cümlede benzetme sanatı vardır?
 7	hangi cümlede iki nokta (:) doğru kullanılmıştır?
+7	hangi cümlede yazım yanlışı vardır?
 7	hangi cümlede yazımı yanlış bir sözcük vardır?
 7	hangi cümlede “de” bağlaç olarak kullanılmıştır?
 7	hangi durumda iki çokluk arasında doğru orantı vardır?
@@ -9137,6 +9342,7 @@
 7	hangi örnekte fizik bilimi açısından iş yapılmış olur?
 7	hangi üçgende her köşeden çizilen kenarortay, açıortay ve yükseklik çakışır?
 7	hangisi diğerlerinden farklıdır?
+7	hangisi düzenli (regular) bir fiilin geçmiş zaman hâlidir?
 7	hangisi küreselleşmenin bir sonucudur?
 7	hareket hâlindeki bir bisikletin kinetik enerjisi hangi iki niceliğe bağlıdır?
 7	hava durumuna göre yarın yağmur yağma olasılığı 0,3'tür. yarın yağmur yağmama olasılığı kaçtır?
@@ -9165,6 +9371,7 @@
 7	ii. mahmut döneminde ilk resmî gazete takvim-i vekayi'nin çıkarılması (1831) hangi amaca yöneliktir?
 7	iii. murat döneminde i̇stanbul'da bir gözlemevi (rasathane) kuran osmanlı astronomu kimdir?
 7	iii. selim döneminde avrupa tarzında kurulan yeni ordunun adı nedir?
+7	iii. selim döneminde avrupa'daki gelişmeleri yakından takip etmek amacıyla hangi yenilik yapılmıştır?
 7	in our class, we use tablets twice a week. today, we are working in groups. my group is making a short video about recycling. our teacher, ms. kaya, is walking around and helping us. we usually upload our videos to the class website on fridays. grubun videosu hangi konu hakkındadır?
 7	in our class, we use tablets twice a week. today, we are working in groups. my group is making a short video about recycling. our teacher, ms. kaya, is walking around and helping us. we usually upload our videos to the class website on fridays. metinden hangisi çıkarılabilir?
 7	in our class, we use tablets twice a week. today, we are working in groups. my group is making a short video about recycling. our teacher, ms. kaya, is walking around and helping us. we usually upload our videos to the class website on fridays. ms. kaya şu anda ne yapıyor?
@@ -9192,6 +9399,7 @@
 7	i̇nsanın duygu, düşünce ve davranışlarını inceleyen bilim dalı hangisidir?
 7	i̇nternette yaptığımız paylaşımların, aramaların ve beğenilerin geride bıraktığı izlere ne denir?
 7	i̇stanbul hangi osmanlı padişahı tarafından fethedilmiştir?
+7	i̇stanbul'u 1453 yılında fetheden osmanlı padişahı kimdir?
 7	i̇stiklal marşı, 12 mart 1921'de türkiye büyük millet meclisi tarafından millî marş olarak kabul edildi. şiirin yazarı mehmet akif ersoy'dur. marş on kıtadan oluşur; ancak törenlerde yalnızca ilk iki kıtası okunur. şiirde bağımsızlık, inanç ve vatan sevgisi temaları öne çıkar. bu metin hangi soruya cevap vermez?
 7	i̇stiklal marşı, 12 mart 1921'de türkiye büyük millet meclisi tarafından millî marş olarak kabul edildi. şiirin yazarı mehmet akif ersoy'dur. marş on kıtadan oluşur; ancak törenlerde yalnızca ilk iki kıtası okunur. şiirde bağımsızlık, inanç ve vatan sevgisi temaları öne çıkar. bu metne göre törenlerde i̇stiklal marşı'nın kaç kıtası okunur?
 7	i̇stiklal marşı, 12 mart 1921'de türkiye büyük millet meclisi tarafından millî marş olarak kabul edildi. şiirin yazarı mehmet akif ersoy'dur. marş on kıtadan oluşur; ancak törenlerde yalnızca ilk iki kıtası okunur. şiirde bağımsızlık, inanç ve vatan sevgisi temaları öne çıkar. bu metnin anahtar kelimeleri en doğru şekilde hangisinde verilmiştir?
@@ -9211,6 +9419,7 @@
 7	kalın kenarlı merceğe paralel gelen ışık ışınları için hangisi doğrudur?
 7	kamu hizmeti binalarını türkçe anlamlarıyla eşleştir.
 7	kan bağışı neden önemlidir?
+7	kan bağışıyla ilgili hangisi doğrudur?
 7	kan grupları uyumuna göre “genel alıcı” olarak bilinen kan grubu hangisidir?
 7	kan grupları uyumuna göre “genel verici” olarak bilinen kan grubu hangisidir?
 7	kan ile doku hücreleri arasında madde alışverişinin gerçekleştiği damarlar hangileridir?
@@ -9309,6 +9518,7 @@
 7	milli mücadele yıllarında anadolu'nun dört bir yanındaki kadınlar cepheye cephane taşıdı. kağnılarla günlerce süren yolculuklarda yağmura, çamura aldırmadılar. kimi zaman kağnının tekerleği çamura saplandığında sırtlarındaki battaniyeyi cephane sandıklarının üstüne örttüler; kendileri ıslanmayı göze aldılar ama mermilerin ıslanmasına izin vermediler. metne göre kadınlar cephaneyi hangi araçla taşımıştır?
 7	millî bayramlarda evlere bayrak asılması hangi duygunun ifadesidir?
 7	milyarlarca yıldız ile gaz ve tozun kütle çekimiyle bir arada bulunduğu büyük sistemlere ne denir?
+7	mimar sinan'ın “ustalık eserim” dediği cami hangisidir?
 7	mimar sinan'ın “ustalık eserim” dediği selimiye camii hangi şehirdedir?
 7	mimar sinan, osmanlı'nın en ünlü mimarlarından biridir. uzun meslek hayatında camiler, köprüler, hamamlar ve medreseler gibi pek çok yapı inşa etmiştir. i̇stanbul'daki şehzade camii'ni çıraklık, süleymaniye camii'ni kalfalık, edirne'deki selimiye camii'ni ise ustalık eseri olarak nitelendirmiştir. bu metne göre mimar sinan'ın “kalfalık eseri” olarak nitelendirdiği yapı hangisidir?
 7	mimar sinan, osmanlı'nın en ünlü mimarlarından biridir. uzun meslek hayatında camiler, köprüler, hamamlar ve medreseler gibi pek çok yapı inşa etmiştir. i̇stanbul'daki şehzade camii'ni çıraklık, süleymaniye camii'ni kalfalık, edirne'deki selimiye camii'ni ise ustalık eseri olarak nitelendirmiştir. bu metnin en uygun özeti hangisidir?
@@ -9330,6 +9540,8 @@
 7	oku: 1915 yılında çanakkale boğazı'nı geçmeye çalışan düşman donanması, 18 mart'ta ağır kayıplar verdi. bu başarıda nusret mayın gemisi'nin yaklaşık on gün önce gizlice döktüğü mayınların büyük payı vardı. küçük bir geminin cesur mürettebatı, savaşın gidişatını değiştirmişti. bugün nusret'in bir benzeri, çanakkale'de müze gemi olarak ziyaret edilebilmektedir. bu metinde aşağıdakilerden hangisine değinilmemiştir?
 7	oku: bal arıları, buldukları besin kaynağının yerini kovandaki diğer arılara dans ederek anlatır. kaynak yakındaysa daireler çizerek döner; uzaktaysa sekiz şeklinde, karnını titreterek dans eder. dansın yönü kaynağın güneşe göre konumunu, süresi ise uzaklığını gösterir. metne göre bir arının sekiz şeklinde dans etmesi neyi gösterir?
 7	oku: bir ağaç dikmek, yalnızca bugüne değil, yıllar sonra o ağacın gölgesinde dinlenecek insanlara da bir armağan bırakmaktır. bugün yaptığımız küçük iyilikler, gelecekte büyük farklar yaratır. bu metnin ana düşüncesi nedir?
+7	oku: seyit onbaşı, top mermisini kaldıran vinç bozulunca o ağır mermiyi sırtlayarak topa taşıdı. bu olay, zor şartlarda gösterilen olağanüstü gücün ve kararlılığın simgesi oldu. bu metinde vurgulanan düşünce hangisidir?
+7	oku: çanakkale savaşları 1915-1916 yıllarında hem denizde hem karada yapıldı. 18 mart 1915'te i̇tilaf donanması boğazı geçmeye çalıştı ancak başarılı olamadı. bu nedenle 18 mart her yıl çanakkale deniz zaferi olarak anılmaktadır. metne göre 18 mart'ın her yıl anılmasının nedeni nedir?
 7	oku: “dedemin sandığında, kendi dedesinin cepheden yazdığı sararmış bir mektup saklıdır. mektupta kurşun kalemle yazılmış birkaç kısa satır vardır: ‘burada hepimiz birbirimize kardeş gibiyiz. siz de köyde birbirinize destek olun, tarlayı boş bırakmayın.’ dedem bu mektubu her okuduğunda sesi titrer.” bu metinden aşağıdakilerden hangisi çıkarılabilir?
 7	oku: “güneş panelleri, güneş ışığını doğrudan elektrik enerjisine dönüştürür. paneller çatılara veya geniş arazilere kurulabilir. yakıt gerektirmedikleri ve çalışırken havayı kirletmedikleri için temiz enerji kaynakları arasında yer alır.” bu metnin anahtar kelimeleri hangi seçenekte birlikte verilmiştir?
 7	oku: “hatice hanım, emekli olduktan sonra bir resim kursuna yazıldı. i̇lk aylarda fırçayı tutmakta zorlansa da her gün en az bir saat çalıştı. bu yıl açtığı ilk sergide on iki tablosu yer aldı. hatice hanım, öğrenmenin yaşının olmadığını söylüyor.” bu metne göre aşağıdakilerden hangisi doğrudur?
@@ -9351,6 +9563,8 @@
 7	organı boşaltımdaki göreviyle eşleştir.
 7	orta dikme ile kenarortay arasındaki fark hangisidir?
 7	osmanlı bilim ve kültür insanlarını eserleriyle eşleştir.
+7	osmanlı devleti'nde ilk türk matbaası hangi dönemde, kim tarafından kurulmuştur?
+7	osmanlı devleti'nde toprakların vergi gelirlerinin, asker yetiştirmeleri karşılığında sipahilere verilmesi sistemine ne ad verilir?
 7	osmanlı devleti'nin 18. yüzyıldan itibaren yenilik yapma ihtiyacı duymasının temel nedeni nedir?
 7	osmanlı devleti'nin anadolu'dan getirdiği türkmen aileleri rumeli'de yeni fethedilen bölgelere yerleştirmesi hangi politikadır?
 7	osmanlı devleti'nin bir “cihan devleti” hâline gelmesinde aşağıdakilerden hangisinin payı yoktur?
@@ -9383,6 +9597,7 @@
 7	rusya ile ukrayna arasındaki savaş sırasında, tahıl sevkiyatını sağlamaya yönelik karadeniz tahıl girişimi bm ve türkiye'nin arabuluculuğuyla i̇stanbul'da imzalandı. bu gelişme türkiye'nin hangi rolünü öne çıkarır?
 7	saat 3:30'u gösterirken akrep ile yelkovan arasındaki küçük açı kaç derecedir?
 7	sabah sıcaklığı −4 °c olan bir kentte öğlene kadar sıcaklık 9 °c artıyor, akşama kadar ise 7 °c düşüyor. akşam sıcaklık kaç °c olur?
+7	sabit hızla giden bir araç 3 saatte 240 km yol alıyor. aynı hızla 5 saatte kaç km yol alır?
 7	saf maddeler hangi iki gruba ayrılır?
 7	safra salgılayan ve yağların küçük damlacıklara ayrılmasını sağlayan yardımcı sindirim organı hangisidir?
 7	satın aldığı ayıplı bir ürün için satıcıyla anlaşamayan bir tüketici hangi kuruma başvurabilir?
@@ -9407,6 +9622,8 @@
 7	soluk alırken havanın akciğerlere kadar izlediği yolu sırala.
 7	soluk borusunun kıkırdak halkalardan oluşmasının yararı nedir?
 7	solunum sistemi sağlığı için aşağıdakilerden hangisi yapılmalıdır?
+7	solunum sisteminde gaz alışverişinin gerçekleştiği yapılar hangileridir?
+7	solunum sisteminin sağlığı için hangisi doğrudur?
 7	sosyal bilim dallarını inceledikleri konularla eşleştir.
 7	sosyal medyada bir arkadaşının paylaşımına katılmıyorsun. etkili iletişim açısından en doğru davranış hangisidir?
 7	sosyal medyada doğruluğu kontrol edilmemiş haberlerin hızla yayılması demokrasi için neden bir sorundur?
@@ -9517,6 +9734,7 @@
 7	x = 4 için 5x − 3 ifadesinin değerini bulan algoritmanın adımlarını sırala.
 7	x > -2 eşitsizliğinin sayı doğrusundaki gösterimi için hangisi doğrudur?
 7	x ile y doğru orantılıdır. x = 6 iken y = 15 ise y = 35 iken x kaçtır?
+7	x/12 = 5/4 orantısında x kaçtır?
 7	x/3 + 4 = 10 denkleminin çözümü olan x değeri kaçtır?
 7	yabancı bir arkadaşa yazılan e-postada hangisi doğrudur?
 7	yakındaki küçük bir yazıya ince kenarlı mercekle bakıldığında görüntü nasıl olur?
@@ -9542,6 +9760,7 @@
 7	yavuz sultan selim'in mısır seferi (1516-1517) sonucunda halifelik osmanlılara geçti. bu gelişme osmanlı devleti'ne en çok hangi alanda güç kazandırmıştır?
 7	yazılı bir tartışmada görüşünü desteklemek için aşağıdakilerden hangisini yapmak en uygundur?
 7	yağların kimyasal sindirimi hangi organda gerçekleşir?
+7	yağların sindirimini kolaylaştıran safra sıvısını üreten organ hangisidir?
 7	yeniçeri ocağı hangi padişah döneminde ve hangi yılda kaldırılmıştır?
 7	yer altındaki sıcak su ve buhardan elde edilen yenilenebilir enerji türü hangisidir?
 7	yesterday afternoon, our neighbourhood was very busy. the street cleaners were working on our street. mrs. demir was buying bread at the bakery. some children were playing football in the park. suddenly, a cat climbed a tall tree and couldn't come down. a firefighter came and saved it. everybody clapped. i̇nsanların alkışlaması neyi gösterir?
@@ -9619,6 +9838,7 @@
 7	“araştırmalara göre düzenli kitap okuyan öğrencilerin yüzde sekseni yazılı anlatımda daha başarılı oluyor.” bu cümlede hangi ikna tekniğine başvurulmuştur?
 7	“arkadaşım çok yorgunmuş, bu yüzden erken uyuyormuş.” cümlesindeki ek fiiller hangi görevlerde kullanılmıştır?
 7	“askerin yüreği bir aslan gibi cesurdu.” cümlesinde hangi söz sanatı vardır?
+7	“askerler siperlerde gece gündüz nöbet tuttu.” bu cümlede “siper” ne anlama gelir?
 7	“askerler vatanı korumak için canını dişine taktı.” cümlesindeki deyimin anlamı nedir?
 7	“askerler, vatanları için canlarını hiçe sayarak savaştı.” cümlesindeki “canını hiçe saymak” deyiminin anlamı nedir?
 7	“at 8 p.m. yesterday, i ---- my homework.” boşluğa hangisi gelmelidir?
@@ -9695,6 +9915,7 @@
 7	“i ---- in ankara for six years.” boşluğa hangisi gelmelidir?
 7	“i ---- with you. online lessons are useful.” karşısındakinin fikrine katıldığını belirtmek için boşluğa hangisi gelir?
 7	“i can't open this file.” – “don't worry, i ---- you.” boşluğa hangisi gelmelidir?
+7	“i have a sore throat.” diyen bir arkadaşına hangi tavsiyeyi verirsin?
 7	“i have a terrible cold.” diyen arkadaşına hangi öneride bulunursun?
 7	“i think people ---- on mars one day.”
 7	“if plants ---- water, they die.”
@@ -9800,6 +10021,7 @@
 7	“usta şöyle dedi ( ) “sabır, sanatın anahtarıdır.” ” ayraçla gösterilen yere hangi noktalama işareti gelmelidir?
 7	“usta, çırağının hatalarını kırıcı olmadan, ---- bir dille düzeltirdi.” boşluğa anlamca en uygun sözcük hangisidir?
 7	“uzmanlar, düzenli kitap okuyan öğrencilerin söz varlığının daha zengin olduğunu belirtiyor.” cümlesinde okuru ikna etmek için hangi yola başvurulmuştur?
+7	“uzmanlar, günde sekiz saat uyuyan öğrencilerin derslerde daha başarılı olduğunu belirtiyor.” bu cümlede hangi ikna tekniği kullanılmıştır?
 7	“vatan sevgisi pek çok biçimde gösterilebilir. örneğin derslerine çalışan bir öğrenci, alın teri döken bir çiftçi ya da gece nöbet tutan bir hemşire de vatanına hizmet eder.” bu metinde hangi yol kullanılmıştır?
 7	“we ---- a delicious cake for my grandfather's birthday.” (make)
 7	“we ---- each other ---- ten years.” (birbirimizi on yıldır tanıyoruz.)
@@ -9812,12 +10034,14 @@
 7	“yarışma” kelimesinin i̇ngilizcesi hangisidir?
 7	“yağmur yağarsa maç ertelenir.” maç ertelenmediğine göre hangisi kesinlikle doğrudur?
 7	“yeni bir beceri öğrenirken ilk denemelerde başarısız olmak çok ----.” cümledeki boşluğa en uygun sözcük hangisidir?
+7	“yesterday i ___ ill, so i stayed at home.” boşluğa hangisi gelmelidir?
 7	“you ---- use your phone during the exam, but you ---- bring a water bottle.” boşluklara sırasıyla hangisi gelir?
 7	“you can ---- your project file to the class website.” boşluğa hangisi gelmelidir?
 7	“you can borrow books for free from the ----.”
 7	“you have been to rome, ---- ?”
 7	“you like science, ---- ?” boşluğa hangi soru eki gelmelidir?
 7	“you saw your cousins at the weekend, ---- ?”
+7	“you visited the doctor yesterday, ___?” boşluğa hangisi gelmelidir?
 7	“you were tired yesterday, ---- ?”
 7	“you were waiting at the post office, ---- ?”
 7	“you will come to the science fair, ---- ?”
@@ -9873,6 +10097,7 @@
 8	1'den 50'ye kadar numaralandırılmış kartlardan biri çekiliyor. kartın numarasının 7'nin katı olma olasılığı kaçtır?
 8	1'den 9'a kadar sayılar 3×3'lük bir sihirli kareye yerleştiriliyor; her satır, sütun ve köşegenin toplamı eşittir. bu toplam kaçtır?
 8	1'den büyük ve 12'den küçük doğal sayılardan kaç tanesi 12 ile aralarında asaldır?
+8	10 ağustos 1920'de imzalanan sevr antlaşması karşısında tbmm'nin tutumu ne olmuştur?
 8	10 cm × 15 cm boyutundaki bir fotoğraf, kısa kenarı 30 cm olacak şekilde benzer olarak büyütülüyor. uzun kenarı kaç cm olur?
 8	10 m uzunluğundaki bir merdiven dik bir duvara dayanmıştır. merdivenin alt ucu duvardan 6 m uzaktadır. merdivenin üst ucu yerden kaç m yüksekliktedir?
 8	100 sayısının kaç tane pozitif tam sayı çarpanı vardır?
@@ -9935,6 +10160,7 @@
 8	3×3'lük bir kare ızgarada (9 küçük kare) her boyuttaki karelerin toplam sayısı kaçtır?
 8	3ˣ⁺¹ = 81 olduğuna göre x kaçtır?
 8	3√2 + 5√2 işleminin sonucu hangisidir?
+8	3√2 ifadesinde katsayı kök içine alınırsa hangi ifade elde edilir?
 8	3√5 ifadesinde katsayı kök içine alınırsa hangisi elde edilir?
 8	4 < √x < 5 koşulunu sağlayan en büyük x doğal sayısı kaçtır?
 8	4 − x ≥ 2x − 11 eşitsizliğini sağlayan en büyük doğal sayı kaçtır?
@@ -10049,8 +10275,10 @@
 8	apsisi 4, ordinatı −2 olan noktanın sıralı ikilisi hangisidir?
 8	ar-ge kısaltması neyi ifade eder?
 8	aralarında asal iki doğal sayının ekok'u için hangisi her zaman doğrudur?
+8	araç tamirhanelerinde otomobilleri kaldıran hidrolik sistemler hangi ilkeye dayanır?
 8	araçları, elektrik enerjisinin esas olarak dönüştüğü enerji türüyle eşleştir.
 8	ardışık iki doğal sayı için hangisi her zaman doğrudur?
+8	ardışık iki tek doğal sayının çarpımı 143'tür. bu iki sayının toplamı kaçtır?
 8	ardışık üç doğal sayının toplamı 96'dır. bu sayıların en büyüğü kaçtır?
 8	arkadaşlık üzerine kompozisyon yazan bir öğrenci, yazısını zenginleştirmek için hangi atasözünü kullanabilir?
 8	arkadaşın seni sinemaya davet etti ve sen gitmek istiyorsun ama saati soracaksın. hangisini söylersin?
@@ -10111,10 +10339,12 @@
 8	aynı cins elektrik yüküyle yüklü iki cisim birbirine yaklaştırılırsa ne olur?
 8	aynı cins sıvıların farklı kütleleri aynı ısıtıcıyla 5'er dakika ısıtılıp sıcaklık artışları ölçülüyor. bu deneyde bağımsız değişken hangisidir?
 8	aynı derinlikte bulunan iki noktadan biri saf suyun, diğeri tuzlu suyun içindedir. bu noktalardaki sıvı basınçları için hangisi doğrudur?
+8	aynı derinlikte, saf suda ve tuzlu suda ölçülen sıvı basınçları için hangisi doğrudur?
 8	aynı derinlikteki noktalarda farklı sıvıların basıncının ölçüldüğü bir deneyde bağımsız değişken hangisidir?
 8	aynı mesaja göre ece ve arkadaşı nerede buluşacak? “i'll meet you at the bus stop at 5.”
 8	aynı metne göre arda boş zamanında genellikle ne yapar? “in my free time i usually play the guitar.”
 8	aynı tabloya göre ali hangi gün süpürge yapar? monday: ali (dishes), tuesday: ayşe (dishes), wednesday: ali (vacuuming).
+8	aynı tuğla, yere farklı yüzeyleri üzerine konuluyor. tuğlanın yere uyguladığı basınç ne zaman en büyük olur?
 8	aynı ısıtıcıyla 1 l ve 2 l su 20 °c'den 80 °c'ye kadar ısıtılıyor. hangisi doğrudur?
 8	ayşe, bora'dan önce geldi. cem, ayşe'den önce geldi. bora, deniz'den önce geldi. kişileri geliş sırasına göre (ilk gelenden başlayarak) sırala.
 8	ayşe, bora, cem ve duru; ankara, i̇zmir, bursa ve trabzon'dan farklı birer şehre gidecektir. ayşe i̇zmir'e gitmeyecek, bora ankara'ya, cem trabzon'a gidecektir. duru hangi şehre gidecektir?
@@ -10139,6 +10369,7 @@
 8	aşağıdaki cümlelerden hangisi bir paragrafın ana düşüncesi olmaya en uygundur?
 8	aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi vardır?
 8	aşağıdaki cümlelerin hangisinde fiilimsi vardır?
+8	aşağıdaki cümlelerin hangisinde kesme işaretinin kullanımı yanlıştır?
 8	aşağıdaki cümlelerin hangisinde kişisel yorum yoktur?
 8	aşağıdaki cümlelerin hangisinde koşul (şart) anlamı vardır?
 8	aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?
@@ -10238,6 +10469,7 @@
 8	b(−4, 3) noktası 2 birim sola ve 5 birim aşağı ötelenirse görüntüsü hangi nokta olur?
 8	balkan antantı'nın imzalanmasında etkili olan gelişme hangisidir?
 8	balkan savaşları'nın osmanlı devleti açısından sonuçlarından biri hangisidir?
+8	barajların alt kısımlarının üst kısımlarına göre daha kalın yapılmasının nedeni nedir?
 8	barajların duvarları neden alt kısımda daha kalın yapılır?
 8	basit makineler aşağıdakilerden hangisinden kazanç sağlamaz?
 8	basit makineleri sağladıkları özellikle eşleştir.
@@ -10292,6 +10524,7 @@
 8	bir buluşun sahibine, buluşunu belirli bir süre boyunca üretme ve satma hakkını veren belgeye ne ad verilir?
 8	bir bölgenin iklimini belirlemek için aşağıdaki verilerden hangisi en uygundur?
 8	bir bütünün parçalarının bütün içindeki payını göstermek için en uygun grafik hangisidir?
+8	bir cam kırıldı. ayşe: “ben kırmadım.” burak: “camı ceren kırdı.” ceren: “burak yalan söylüyor.” camı tek kişi kırdı ve üçünden yalnızca biri doğru söylüyor. camı kim kırdı?
 8	bir cam çubuk ipek kumaşa sürtüldüğünde cam çubuk pozitif yükle yüklenir. bunun nedeni hangisidir?
 8	bir canlının genetik olarak birebir aynısının elde edilmesine ne ad verilir?
 8	bir canlının gözlenebilen dış görünüşüne (ör. çiçek rengi) ne ad verilir?
@@ -10334,6 +10567,7 @@
 8	bir kartpostala yazılabilecek en uygun cümle hangisidir?
 8	bir kasadaki elmalar 6'şar 6'şar veya 8'er 8'er sayıldığında her seferinde 2 elma artmaktadır. kasadaki elma sayısı 50'den fazla, 80'den az olduğuna göre kasada kaç elma vardır?
 8	bir kavanozdaki bakteri sayısı her dakika iki katına çıkıyor ve kavanoz 60. dakikada tamamen doluyor. kavanoz kaçıncı dakikada yarıya kadar doludur?
+8	bir kenar uzunluğu √45 cm olan karenin alanı kaç santimetrekaredir?
 8	bir kenarı (2a + 3) cm olan eşkenar üçgenin çevresinden, bir kenarı (a + 5) cm olan karenin çevresi çıkarılıyor. sonuç hangisidir?
 8	bir kenarı 12 cm olan abcd karesinde e noktası [ab] kenarının orta noktasıdır. |ec| kaç cm'dir?
 8	bir kenarı 4 cm olan karenin köşegen uzunluğunun karesi kaçtır?
@@ -10341,6 +10575,7 @@
 8	bir kentin aylık yağış miktarları (mm): ocak 110, nisan 60, temmuz 10, ekim 70. ocak ayındaki yağış, temmuz ayındakinin kaç katıdır?
 8	bir kitabı ikinci kez okuduğumuzda ilk okumada fark etmediğimiz ayrıntıları görürüz. çünkü artık olayların sonunu biliriz ve dikkatimizi kişilerin davranışlarına, yazarın seçtiği sözcüklere verebiliriz. bu paragrafta asıl olarak ne anlatılmaktadır?
 8	bir kitabın sayfaları 1'den başlayarak numaralandırılmış ve bunun için toplam 192 rakam kullanılmıştır. kitap kaç sayfadır?
+8	bir kitapçı pazartesi 40, salı 55, çarşamba 35, perşembe 70 kitap sattı. bu veriler daire grafiğinde gösterilirse perşembe gününe ait daire diliminin merkez açısı kaç derece olur?
 8	bir konferansta not alan öğrenci için hangisi en doğru yöntemdir?
 8	bir koşu yarışında ikinci sıradaki yarışçıyı geçersen kaçıncı olursun?
 8	bir kumbarada yalnızca 5 tl'lik ve 1 tl'lik madeni paralar vardır. toplam 20 madeni para ve 64 tl olduğuna göre kaç tane 5 tl'lik para vardır?
@@ -10431,6 +10666,7 @@
 8	bitki hücrelerinde fotosentez hangi organelde gerçekleşir?
 8	bitkilerde fotosentez ve solunum için hangisi doğrudur?
 8	biyoteknoloji için hangisi doğrudur?
+8	bmm'ye karşı çıkan ayaklanmaları önlemek amacıyla 1920'de çıkarılan kanun hangisidir?
 8	bmm'ye karşı çıkan ayaklanmaları önlemek amacıyla çıkarılan kanun hangisidir?
 8	boyu 24 cm olan bir mum her saat 3 cm kısalmaktadır (y = 24 − 3x). 5 saat sonra mumun boyu kaç cm olur?
 8	boyutları 120 cm ve 90 cm olan dikdörtgen bir pano, hiç boşluk kalmadan birbirinin aynısı olan en büyük kare kartonlarla kaplanacaktır. kaç karton gerekir?
@@ -10607,6 +10843,7 @@
 8	hangi cümlede hem isim-fiil hem sıfat-fiil vardır?
 8	hangi cümlede isim-fiil kullanılmıştır?
 8	hangi cümlede karşılaştırma vardır?
+8	hangi cümlede karşıtlık (tezat) sanatı vardır?
 8	hangi cümlede kesme işareti yanlış kullanılmıştır?
 8	hangi cümlede konuşturma sanatı kullanılmıştır?
 8	hangi cümlede nesne vardır?
@@ -10660,6 +10897,7 @@
 8	hangisi bağlı bir cümledir?
 8	hangisi bilgilendirici bir metnin başlığı olmaya en uygundur?
 8	hangisi bir modifikasyon örneğidir?
+8	hangisi bir mutfak aracıdır (kitchen utensil)?
 8	hangisi bir mutfak aracıdır?
 8	hangisi bir tarifte kullanılan emir cümlesidir?
 8	hangisi bir şeyi çok sevdiğini anlatır?
@@ -10682,6 +10920,7 @@
 8	hangisi terakkiperver cumhuriyet fırkası'nın kurucularından biridir?
 8	hangisi yapıca olumsuz, anlamca olumlu bir cümledir?
 8	hangisi yapısına göre basit bir cümledir?
+8	hangisi yüklemine göre isim cümlesidir?
 8	hangisi ünlem cümlesidir?
 8	hangisinde kısaltmaya getirilen ek doğru yazılmıştır?
 8	hareketli makarayla yük 1 m yükselirken ipin 2 m çekilmesi gerekir. bu durum neyi gösterir?
@@ -10781,6 +11020,7 @@
 8	kantinde yalnızca sağlıklı yiyecekler satılmasına karar verildi. bazı öğrenciler buna itiraz etse de bence bu karar hepimizin yararına. meyve ve sütün, paketli yiyeceklerden daha besleyici olduğu herkesçe bilinir. yazarın kantin kararına bakışı için hangisi söylenebilir?
 8	kapağında yaşlı bir kadının köy evinin önünde yün eğirdiği bir resim bulunan, adı “ninemin masalları” olan bir kitabın konusu en çok hangisi olabilir?
 8	kar ayakkabıları ve kayaklar neden geniş tabanlı yapılır?
+8	kar ayakkabılarının tabanlarının geniş yapılmasının amacı nedir?
 8	karbon döngüsünde atmosferdeki karbondioksiti azaltan temel olay hangisidir?
 8	kardeşim telefonla oyun oynarken saatlerin nasıl geçtiğini fark etmiyor. ödevlerini yetiştiremiyor ve geç saatte uyuyor. bu soruna yönelik en uygun ve uygulanabilir çözüm hangisidir?
 8	kare dik piramidin kaç yüzü vardır?
@@ -10789,6 +11029,7 @@
 8	kartpostala başlarken hangisi kullanılır?
 8	kartpostalın sonunda hangisi yazılır?
 8	kasnaklar çapraz bağlanmış bir kayışla birbirine bağlanırsa nasıl dönerler?
+8	katı basıncıyla ilgili hangisi doğrudur?
 8	katıların uyguladığı basınç hangi iki değişkene bağlıdır?
 8	kavramları açıklamalarıyla eşleştir.
 8	kek yapma adımlarını doğru sıraya koy.
@@ -10815,6 +11056,7 @@
 8	koordinat sisteminde (−3, 5) noktası hangi bölgededir?
 8	kuraklığa dayanıklı bitkilerin geliştirilmesi gelecekte hangi soruna çözüm olabilir?
 8	kuru bir havada halı üzerinde yürüdükten sonra metal kapı koluna dokunan kişi hafif bir elektrik çarpması hisseder. bunun nedeni hangisidir?
+8	kutudaki meyve suyunu pipetle çekerek içebilmemiz hangi kavramla açıklanır?
 8	kutup ayılarının derilerinin altında kalın bir yağ tabakası bulunması aşağıdaki kavramlardan hangisine örnektir?
 8	kuvvetin ortada olduğu kaldıraçlar için hangisi her zaman doğrudur?
 8	kuvvetten kazanç sağlayan bir basit makine için hangisi her zaman doğrudur?
@@ -10823,6 +11065,7 @@
 8	kuvâ-yı millîye birliklerinin oluşmasında en etkili olay hangisidir?
 8	kuvâ-yı millîye ile ilgili aşağıdakilerden hangisi doğrudur?
 8	kuvâ-yı millîye için hangisi söylenemez?
+8	kuvâ-yı millîye'nin ortaya çıkmasının temel nedeni hangisidir?
 8	kuzey kutup noktası'nda 21 mart ile 23 eylül arasında hangisi yaşanır?
 8	kuzey yarım küre için aşağıdaki tarihleri yıl içindeki sırasına göre (ocak'tan başlayarak) sırala.
 8	kuzey yarım küre'de yılın en kısa gündüzü hangi tarihte yaşanır?
@@ -10957,6 +11200,7 @@
 8	oksijenli solunum hücrenin hangi organelinde gerçekleşir?
 8	oksijenli solunumda besinler oksijenle parçalandığında hangileri açığa çıkar?
 8	oku: ahtapotların üç kalbi vardır ve kanları mavi renktedir. tehlike anında mürekkep püskürterek saldırganın görüşünü engeller ve kaçarlar. ayrıca derilerindeki özel hücreler sayesinde renk değiştirerek bulundukları ortama uyum sağlarlar. bu metne göre aşağıdakilerden hangisi söylenemez?
+8	oku: pek çok insan başarıyı yalnızca yetenekle açıklar. oysa yapılan gözlemler, düzenli çalışan ve hatalarından ders çıkaran kişilerin, yetenekli olup çalışmayanları zamanla geride bıraktığını gösteriyor. yetenek bir başlangıç noktası olabilir; onu geliştiren ise sabır ve emektir. bu metnin ana düşüncesi hangisidir?
 8	oku: “bir şehrin kütüphaneleri, o şehrin hafızasıdır. raflarda bekleyen her kitap, yüzyıllar önce yaşamış bir insanın düşüncelerini bugüne taşır. kütüphaneye giren bir genç, yalnızca bilgiye değil, geçmişle kurulan bir bağa da ulaşır. bu yüzden kütüphaneleri korumak, ortak belleğimizi korumak demektir.” bu metnin ana düşüncesi aşağıdakilerden hangisidir?
 8	oku: “göç yolları üzerindeki sulak alanlar, kuşlar için birer dinlenme durağıdır. binlerce kilometre uçan leylekler, turnalar ve flamingolar bu alanlarda beslenip güç toplar. sulak alanlar kurutulduğunda kuşlar yollarına devam edecek enerjiyi bulamaz. bu yüzden sulak alanları korumak, kıtalar arasında yolculuk eden canlıları da korumak demektir.” bu metnin ana düşüncesi aşağıdakilerden hangisidir?
 8	oku: “kerem, bilim şenliği için hazırladığı rüzgâr türbini modelini üç kez baştan yaptı. i̇lk denemede kanatlar çok ağırdı; ikincisinde mil yerinden çıktı. üçüncü denemede kanatları plastik şişelerden kesip hafifletti ve mili sağlamlaştırdı. şenlik günü türbin, küçük bir lambayı yakmayı başardı.” bu metinden aşağıdakilerden hangisine ulaşılabilir?
@@ -10990,6 +11234,7 @@
 8	periyodik tabloda metaller, ametaller ve yarı metallerin yerleşimi için hangisi doğrudur?
 8	periyodik tablodaki dikey sütunlara ne ad verilir?
 8	periyodik tablodaki yatay sıralara ne ad verilir?
+8	peynirli sandviç yapma adımlarını sıraya koy.
 8	ph değeri 12 olan bir çözeltiye kırmızı ve mavi turnusol kâğıtları batırılıyor. hangisi gözlenir?
 8	ph değeri 2 olan bir çözelti için hangisi doğrudur?
 8	ph değeri 7 olan bir çözelti hangi özelliktedir?
@@ -11011,6 +11256,7 @@
 8	read: a: good morning, city library. how can i help you? b: hello. i'd like to know your opening hours. a: we're open from 9 a.m. to 6 p.m. on weekdays. b: are you open on sundays? a: no, we're closed on sundays. kütüphane hangi gün kapalıdır?
 8	read: chore chart – monday: ali (dishes), tuesday: ayşe (dishes), wednesday: ali (vacuuming). salı günü bulaşığı kim yıkıyor?
 8	read: hotel a: €50 a night, near the beach. hotel b: €80 a night, in the city centre, free breakfast. kahvaltıyı ücretsiz isteyen biri hangi oteli seçmelidir?
+8	read: to make lemonade, first squeeze three lemons. then, add four glasses of water and two spoons of sugar. stir well and serve with ice. what do you add after squeezing the lemons?
 8	read: “a flood happens when a lot of water covers land that is usually dry. heavy rain is one of the main causes of floods. floods can damage houses, roads and farms.” metne göre selin ana nedenlerinden biri nedir?
 8	read: “a flood happens when a lot of water covers land that is usually dry. heavy rain is one of the main causes of floods. floods can damage houses, roads and farms.” metne göre seller neye zarar verebilir?
 8	read: “a survey shows that 60% of students use the internet for homework, 25% for games and 15% for shopping.” hangisi doğrudur?
@@ -11123,6 +11369,7 @@
 8	siyasi alandaki gelişmeleri oluş sırasına göre diz.
 8	sodyum yumuşak ve suyla şiddetli tepkime veren bir metaldir; klor ise zehirli bir gazdır. bu iki elementin tepkimesiyle yemeklerde kullandığımız sofra tuzu oluşur. bu bilgi neyi gösterir?
 8	solunumun canlılar için önemi hangisidir?
+8	son osmanlı mebusan meclisi'nde kabul edilen ve millî sınırları belirleyen karar hangisidir?
 8	son osmanlı mebusan meclisinin 28 ocak 1920'de kabul ettiği, türk vatanının sınırlarını ve millî hedefleri belirleyen karar hangisidir?
 8	sorumluluklarıyla ilgili kısa bir şiir yazan öğrenci hangi dizeyi yazarsa konudan uzaklaşır?
 8	soyadı kanunu hangi yıl çıkarılmıştır?
@@ -11369,6 +11616,7 @@
 8	“ayağını yorganına göre uzat.” atasözü hangi durumda söylenir?
 8	“ağaç yaşken eğilir.” atasözü neyi anlatır?
 8	“ağlayan bebeği annesi kucağına aldı.” cümlesindeki fiilimsinin türü nedir?
+8	“ağzı kulaklarına varmak” deyimi hangi duyguyu anlatır?
 8	“ağzı kulaklarına varmak” deyiminin anlamı nedir?
 8	“babam pazardan şunları aldı ( ) domates, biber, patlıcan.” ayraç içine hangi noktalama işareti gelmelidir?
 8	“bad” sıfatının üstünlük (superlative) hâli hangisidir?
@@ -11402,6 +11650,7 @@
 8	“can you spend a day without your phone?” sorusuna olumsuz yanıt hangisidir?
 8	“cause” kelimesinin anlamı nedir?
 8	“chop the onions finely. small pieces cook faster.” bu cümleye göre “finely” ne demektir?
+8	“chop the onions.” cümlesindeki “chop” fiilinin anlamı nedir?
 8	“chores” kelimesinin anlamı nedir?
 8	“click on the link to watch the video.” cümlesindeki “link” nedir?
 8	“cömert” sözcüğünün zıt anlamlısı hangisidir?
@@ -11425,6 +11674,7 @@
 8	“don't forget your life jacket!” uyarısı en çok hangi sporda yapılır?
 8	“due to the strong wind, ______.”
 8	“dust the furniture” ne demektir?
+8	“dün akşam annem bize lezzetli bir çorba yaptı.” cümlesinin nesnesi hangisidir?
 8	“dün akşam annem bize lezzetli bir çorba yaptı.” cümlesinin öznesi hangisidir?
 8	“dün akşam kardeşim çok güzel bir resim çizdi.” cümlesinde hangi öge yoktur?
 8	“dünyanın acısı da tatlısı da bir gün biter.” cümlesinde hangi söz sanatı vardır?
@@ -11518,6 +11768,7 @@
 8	“kitaplar bizi hiç gitmediğimiz ülkelere götürür, hiç tanımadığımız insanlarla tanıştırır.” bu cümlede anlatılmak istenen nedir?
 8	“kitaplar raflara dizildi.” cümlesinde hangi öge yoktur?
 8	“koşarak gelen çocuk, kapıyı açmak için zile bastı.” cümlesinde kaç tane fiilimsi vardır?
+8	“koşmak” fiilinden türeyen sözcükleri içeren cümlelerden hangisinde sıfat-fiil vardır?
 8	“kulak vermek” deyiminin anlamı nedir?
 8	“köprü geçen yıl onarıldı.” cümlesinde edilgen çatının anlama katkısı nedir?
 8	“kütüphanemizde 3 bin kitap var ve bu kitapların hepsi okunmaya değer.” cümlesi için hangisi doğrudur?
@@ -11532,6 +11783,7 @@
 8	“maybe some other time.” ifadesi hangi durumda kullanılır?
 8	“mert'in uyarılarına önce ______; ama sonra onun haklı olduğunu anladım.” cümleyi en uygun deyimle tamamlayan seçenek hangisidir?
 8	“milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.” ifadesinin yer aldığı belge hangisidir?
+8	“milletin istiklalini yine milletin azim ve kararı kurtaracaktır.” ifadesi hangi belgede yer alır?
 8	“mix the flour and the water. ______ knead the dough for ten minutes.” boşluğa hangisi gelmelidir?
 8	“mobile phone” ne demektir?
 8	“mount ağrı is ______ mountain in türkiye.”
@@ -11659,6 +11911,7 @@
 8	√0,49 ifadesinin değeri hangisidir?
 8	√0,49 ifadesinin değeri kaçtır?
 8	√0,49 işleminin sonucu kaçtır?
+8	√0,81 + √0,04 işleminin sonucu kaçtır?
 8	√0,81 · √0,04 işleminin sonucu hangisidir?
 8	√1, √2, √3, …, √50 sayılarından kaç tanesi irrasyoneldir?
 8	√1,44 ifadesinin değeri hangisidir?
@@ -11671,12 +11924,15 @@
 8	√180 = a√b olduğuna göre (a ve b doğal sayı, b en küçük) a + b kaçtır?
 8	√196 ifadesinin değeri kaçtır?
 8	√20 + √45 + √80 toplamı hangi iki ardışık doğal sayı arasındadır?
+8	√20 ile çarpıldığında sonucu bir doğal sayı yapan ifade hangisidir?
 8	√27 + √48 − √3 işleminin sonucu hangisidir?
 8	√3 · √12 işleminin sonucu kaçtır?
 8	√45 · √5 işleminin sonucu kaçtır?
 8	√45 · √a bir doğal sayı olduğuna göre a'nın alabileceği en küçük doğal sayı değeri kaçtır?
+8	√48 ifadesinin a√b biçiminde (b en küçük doğal sayı olacak şekilde) yazılışı hangisidir?
 8	√48 ifadesinin a√b biçiminde (b en küçük) yazılışı hangisidir?
 8	√50 + √18 işleminin sonucu hangisidir?
+8	√50 + √18 − √8 işleminin sonucu hangisidir?
 8	√50 hangi iki ardışık doğal sayı arasındadır?
 8	√50 − √18 işleminin sonucu hangisidir?
 8	√60 ÷ √5 işleminin sonucu hangisidir?
@@ -11684,6 +11940,7 @@
 8	√70 sayısı hangi iki ardışık doğal sayı arasındadır?
 8	√72 ifadesinin a√b biçiminde (b en küçük doğal sayı olacak şekilde) yazılışı hangisidir?
 8	√72 ifadesinin a√b biçiminde yazılışı hangisidir?
+8	√75 ÷ √3 işleminin sonucu kaçtır?
 8	√75 − √12 işleminin sonucu hangisidir?
 8	√8 · √2 işleminin sonucu kaçtır?
 8	√90 hangi iki ardışık doğal sayı arasındadır?
@@ -11694,9 +11951,11 @@
 okul_oncesi	+ ve − işaretleri nasıl farklı?
 okul_oncesi	1 sayısının i̇ngilizcesi hangisi?
 okul_oncesi	10 kasım'da atatürk'ü saygıyla anarız. saat 9'u 5 geçe ne yaparız?
+okul_oncesi	10 kasım'da saat 9.05'te ne yaparız?
 okul_oncesi	1️⃣ i̇ngilizcede hangisi?
 okul_oncesi	23 nisan ulusal egemenlik ve ... bayramı. boşluğa hangisi gelir?
 okul_oncesi	23 nisan'da hangi bayramı kutlarız?
+okul_oncesi	24 kasım hangi gündür?
 okul_oncesi	29 ekim'de hangi bayramı kutlarız?
 okul_oncesi	3 sandalye var, 5 çocuk oturacak. 🪑 kaç çocuk ayakta kalır?
 okul_oncesi	3 çocuğa birer elma gerekiyor. 2 elma var. yeter mi?
@@ -11716,6 +11975,7 @@ okul_oncesi	ali'nin 3 balonu, ece'nin 3 balonu var. 🎈 ne deriz?
 okul_oncesi	annemizin annesine ne deriz?
 okul_oncesi	arkadaşımız düşüp dizini incitti. ne yaparız?
 okul_oncesi	arkadaşın konuşuyor. sen ne yaparsın?
+okul_oncesi	arkadaşın sana kalemini ödünç verdi. ne dersin?
 okul_oncesi	arkadaşın yaptığın resmi görünce gülümsedi. arkadaşın ne hissetmiş olabilir?
 okul_oncesi	arkadaşın yemek yerken ne dersin?
 okul_oncesi	arkadaşın ürününü anlatıyor. sen ne yaparsın?
@@ -11750,6 +12010,7 @@ okul_oncesi	bir elmanın ağaçtaki yolculuğunu sıraya koy.
 okul_oncesi	bir elmayı ortadan ikiye kestik. kaç parça oldu?
 okul_oncesi	bir kedi, iki … hangisi doğru?
 okul_oncesi	bir kitabın adı nerede yazar?
+okul_oncesi	bir kitabın kapağında bir ayı ve bir bal kavanozu resmi var. bu kitap büyük olasılıkla neyi anlatır?
 okul_oncesi	bir pizzayı iki eş parçaya böldük. her bir parçaya ne deriz?
 okul_oncesi	bir resimde insanlar şemsiye tutuyor, yerde su birikintisi var. hava nasıl?
 okul_oncesi	bir resimde kardan adam var. resimde hangi mevsim olabilir?
@@ -11761,6 +12022,7 @@ okul_oncesi	bir şeyin sıcak mı soğuk mu olduğunu neyle hissederiz?
 okul_oncesi	biri bize yardım edince ne deriz?
 okul_oncesi	biri hapşırınca ne deriz? 🤧
 okul_oncesi	birlikte kullanılanları eşleştir.
+okul_oncesi	bisiklet tekerleği hangi şekle benzer?
 okul_oncesi	bitkilerin büyümesi için hangisi gerekir?
 okul_oncesi	bitkinin toprağın altında kalan bölümü hangisi?
 okul_oncesi	bloklardan yaptığın kule yıkıldı. ne yaparsın?
@@ -11789,8 +12051,10 @@ okul_oncesi	daire ile üçgenin farkı ne?
 okul_oncesi	deve nerede yaşar?
 okul_oncesi	dinle: defne bahçede kırmızı bir top buldu. topu sahibine, küçük emir'e verdi. defne topu kime verdi?
 okul_oncesi	dinle: defne parka gitti. önce salıncakta sallandı, sonra kum havuzunda kale yaptı. defne kum havuzunda ne yaptı?
+okul_oncesi	dinle: emir'in kedisi pamuk sabah süt içti, sonra güneşte uyudu. pamuk süt içtikten sonra ne yaptı?
 okul_oncesi	dinle: emir'in kırmızı bir bisikleti var. emir her sabah bisikletiyle parka gider. emir'in bisikleti ne renk?
 okul_oncesi	dinle: mert dışarı çıkarken yağmur yağıyordu. botlarını giydi ve şemsiyesini aldı. mert neden şemsiye aldı?
+okul_oncesi	dinle: zeynep parkta kırmızı bir uçurtma uçurdu. rüzgâr esince uçurtma çok yükseldi. zeynep'in uçurtması ne renkti?
 okul_oncesi	dinle: “ali kırmızı bir balon aldı.” balon ne renk?
 okul_oncesi	dinle: “ayı çok acıktı.” şimdi ne yapar?
 okul_oncesi	dinle: “can bahçede bir kedi gördü. kedi turuncu renkliydi. can kediye bir kap su verdi.” kedi ne renkti?
@@ -11818,9 +12082,11 @@ okul_oncesi	dişlerini fırçalarken yaptıklarını sıraya koy.
 okul_oncesi	doğum günü kutlamasını sıraya koy.
 okul_oncesi	dört ayağım var ama hiç yürümem. üstümde yemek yersin. ben neyim?
 okul_oncesi	dört ayağım var ama yürüyemem. yemek yerken tabakları üstüme koyarsın. ben neyim?
+okul_oncesi	dört ayağım var ama yürüyemem. üstümde yemek yersiniz. ben neyim?
 okul_oncesi	dört köşesi ve birbirine eşit dört kenarı olan şekil hangisidir?
 okul_oncesi	ela çok hızlı konuştu, kimse anlamadı. ela ne yapmalı?
 okul_oncesi	elif'in 2, can'ın 4 bilyesi var. eşit olmaları için elif'e kaç bilye gerekir?
+okul_oncesi	ellerimizi ne zaman sabunla yıkamalıyız?
 okul_oncesi	ellerimizi yıkadık. sonra musluğu ne yaparız?
 okul_oncesi	elma, armut ve çilek… bunlar ne?
 okul_oncesi	en hafiften en ağıra sırala.
@@ -11842,6 +12108,7 @@ okul_oncesi	gökyüzündekileri adlarıyla eşleştir.
 okul_oncesi	gölgemizi ne zaman görürüz?
 okul_oncesi	gündüz gökyüzünde parlarım, her yeri ısıtırım. ben neyim?
 okul_oncesi	güneş batıyor, hava kararmaya başlıyor. günün hangi zamanındayız?
+okul_oncesi	güneş doğuyor, horoz ötüyor, kahvaltı hazırlanıyor. bu günün hangi zamanıdır?
 okul_oncesi	güneş gökyüzünde parlıyor. gece mi, gündüz mü?
 okul_oncesi	güneş kardan adamı ısıtınca kar ne olur?
 okul_oncesi	güneş yeni doğuyor, horoz ötüyor, kahvaltıya oturuyoruz. günün hangi zamanı?
@@ -11851,6 +12118,7 @@ okul_oncesi	hamur topunu avucumuzla bastırırsak ne olur?
 okul_oncesi	hangi hayvan kışın uzun bir uykuya dalar?
 okul_oncesi	hangi kelime “dal” ile kafiyelidir?
 okul_oncesi	hangi kelime “kedi” ile uyaklıdır?
+okul_oncesi	hangi kelime “çiçek” ile uyaklıdır?
 okul_oncesi	hangi kelimenin sonu “kedi” kelimesine benziyor?
 okul_oncesi	hangi kelimenin sonu “kuş” kelimesine benziyor?
 okul_oncesi	hangi sayı 1'den hemen sonra gelir?
@@ -11876,6 +12144,7 @@ okul_oncesi	hangi şeklin 4 köşesi var?
 okul_oncesi	hangi şeklin köşesi yoktur?
 okul_oncesi	hangisi a harfi?
 okul_oncesi	hangisi b harfi?
+okul_oncesi	hangisi bardağa dökülebilen bir sıvıdır?
 okul_oncesi	hangisi bir harf değil, rakam?
 okul_oncesi	hangisi bir millî bayramımızdır?
 okul_oncesi	hangisi bir müzik sesi?
@@ -12057,6 +12326,7 @@ okul_oncesi	hangisinin kanadı yok?
 okul_oncesi	hangisinin rengi diğerlerinden farklı?
 okul_oncesi	hangisinin sesi daha kalın?
 okul_oncesi	hangisinin sesi daha kuvvetli?
+okul_oncesi	hangisinin sesi en kuvvetlidir?
 okul_oncesi	hangisinin şekli diğerlerinden farklı?
 okul_oncesi	harfi, o harfle başlayan resimle eşleştir.
 okul_oncesi	hava çok soğuk. ne giyeriz?
@@ -12097,6 +12367,7 @@ okul_oncesi	kapı hangi şekle benzer?
 okul_oncesi	kar en çok hangi mevsimde yağar?
 okul_oncesi	kar hangi mevsimde yağar? ❄️
 okul_oncesi	karanlık renkli, yağmurlu bir resme baktın. resim sana nasıl bir duygu verebilir?
+okul_oncesi	kardan adam yapıyoruz! yapılacakları sıraya koy.
 okul_oncesi	kardan adamın hikâyesini sıraya koy.
 okul_oncesi	kardan yapılırım, burnum havuçtur. güneş çıkınca eririm. ben kimim?
 okul_oncesi	kare ile dikdörtgenin benzer yanı ne?
@@ -12370,17 +12641,21 @@ okul_oncesi	kâğıdı kesmek için ne kullanırız?
 okul_oncesi	kâğıt geminiz suda battı. ne denersin?
 okul_oncesi	kâğıtları birbirine yapıştırmak için ne gerekir?
 okul_oncesi	kâğıttan kuş nasıl yapılır?
+okul_oncesi	küp kulelerini en az küpten en çok küpe doğru diz.
 okul_oncesi	kütükten yapılmış ince bir yolda nasıl yürürüz?
 okul_oncesi	kırmızı boyaya beyaz katarsak hangi renk olur?
 okul_oncesi	kırmızı ile maviyi karıştırırsak hangi renk olur?
 okul_oncesi	kırmızı ile sarıyı karıştırırsak hangi renk olur?
 okul_oncesi	kırmızıyım, yuvarlağım, ağaçta büyürüm. beni ısırınca “kıtır” diye ses çıkarım. ben neyim?
+okul_oncesi	kışın hava çok soğuyunca gölün suyuna ne olur?
 okul_oncesi	lego parçalarıyla ev yapmak için ne yaparız?
+okul_oncesi	limonun ekşi olduğunu hangi organımızla anlarız?
 okul_oncesi	limonun ekşi tadını hangi organımızla alırız?
 okul_oncesi	makası nasıl taşırız?
 okul_oncesi	masada 4 tabak var, 3 çocuk yemek yiyecek. her çocuğa tabak yeter mi?
 okul_oncesi	masalı beğendin. bunu nasıl söylersin?
 okul_oncesi	masalı iyi duymak için neye dikkat ederiz?
+okul_oncesi	merdivenin 5. basamağındasın. bir basamak daha çıkarsan kaçıncı basamakta olursun?
 okul_oncesi	meslek sahibini kullandığı şeyle eşleştir.
 okul_oncesi	mevsimleri sırayla diz. i̇lkbahardan başla.
 okul_oncesi	meyvelerden hangisi “orange”?
@@ -12390,6 +12665,7 @@ okul_oncesi	meyveyi i̇ngilizcesiyle eşleştir.
 okul_oncesi	meyveyi rengiyle eşleştir.
 okul_oncesi	millî bayramlarda evlerimizin penceresine ne asarız?
 okul_oncesi	muzun rengi hangisidir? 🍌
+okul_oncesi	müze gezisinde eserlere nasıl davranırız?
 okul_oncesi	müzede tabela 🚫✋ gösteriyor. ne demek?
 okul_oncesi	müzede tablolara nasıl bakarız?
 okul_oncesi	müzik birden kuvvetlendi. ne yaparız?
@@ -12401,6 +12677,7 @@ okul_oncesi	müzik kuvvetli çalıyor. davula nasıl vururuz?
 okul_oncesi	müzik yavaşladı. tefe nasıl vururuz?
 okul_oncesi	müzik çok hafif çalıyor. zile nasıl dokunuruz? 🔔
 okul_oncesi	müzik önce yavaş, sonra hızlı çaldı. davula nasıl eşlik ederiz?
+okul_oncesi	mıknatıs hangisini kendine çeker?
 okul_oncesi	mıknatıs hangisini çeker?
 okul_oncesi	neden tabağımıza yiyebileceğimiz kadar yemek alırız?
 okul_oncesi	neyle ne yenir ya da içilir? eşleştir.
@@ -12413,6 +12690,7 @@ okul_oncesi	okuldan çıkarken arkadaşlarına ne dersin?
 okul_oncesi	olayları oluş sırasına göre diz.
 okul_oncesi	organı yaptığı işle eşleştir.
 okul_oncesi	ormanda gezerken hangisi doğru?
+okul_oncesi	ormanda yürüyüş yaparken boş su şişemizi ne yaparız?
 okul_oncesi	oyun alanında koşarken ne yaparız?
 okul_oncesi	oyun bittiğinde oyuncakları ne yaparız?
 okul_oncesi	oyun hamurunu iki elimizin arasında yuvarlarsak ne olur?
@@ -12487,12 +12765,14 @@ okul_oncesi	sayıyı i̇ngilizcesiyle eşleştir.
 okul_oncesi	saçımızı neyle tararız?
 okul_oncesi	serçe gibi küçük kuşlar ne yemeyi sever?
 okul_oncesi	sevdiğin hayvanı anlatıyorsun. hangisi uygun?
+okul_oncesi	sonbaharda ağaçların yaprakları sararınca sonra ne olur?
 okul_oncesi	sonbaharda birçok ağacın yaprakları ne olur?
 okul_oncesi	su çok soğuyup donunca ne olur?
 okul_oncesi	susadığımızda en sağlıklı içecek hangisidir?
 okul_oncesi	suya bırakınca hangisi su üstünde kalır?
 okul_oncesi	sınıf krokisinde 🚪 kapı solda, 🪟 pencere sağda. pencere nerede?
 okul_oncesi	sınıfa yeni bir arkadaş geldi. ne yaparız?
+okul_oncesi	sınıfta kitaplık kapının hemen yanında duruyor. kitap almak için nereye gidersin?
 okul_oncesi	sınıfta konuşmak istiyorsun. ne yaparsın?
 okul_oncesi	sınıfta söz almak istersek ne yaparız?
 okul_oncesi	sınıfça müze gezisindeyiz. öğretmenimiz “eserlere dokunmayalım.” dedi. ne yapmalıyız?
@@ -12544,6 +12824,7 @@ okul_oncesi	yağmurda açılırım, seni ıslanmaktan korurum. ben neyim?
 okul_oncesi	yağmurda ıslanmamak için hangisini giyeriz?
 okul_oncesi	yağmurda şemsiyesiz dışarıda kalırsak ne olur?
 okul_oncesi	yağmurdan sonra yerde su birikintisi oluştu. güneş açınca birikintiye ne olur?
+okul_oncesi	yemekte tabağımıza ne kadar yemek almalıyız?
 okul_oncesi	yemekten önce ne yaparız?
 okul_oncesi	yere su döküldü. üstüne basarsak ne olabilir?
 okul_oncesi	yiyeceklerin tadına neyle bakarız?
@@ -12714,6 +12995,7 @@ okul_oncesi	“watermelon” ne demek?
 okul_oncesi	“white” hangisi?
 okul_oncesi	“yellow” hangisi?
 okul_oncesi	“zürafa” kelimesi hangi sesle başlar?
+okul_oncesi	“zürafa” kelimesini söylerken her hecede bir el çırp. kaç kez el çırptın?
 okul_oncesi	⚪ i̇ngilizcede hangisi?
 okul_oncesi	⚫ i̇ngilizcede hangisi?
 okul_oncesi	⚽⚽⚽⚽ yanına ⚽ gelirse kaç tane ⚽ olur?
@@ -12805,6 +13087,7 @@ okul_oncesi	🍪🍪 ve 🍪🍪 kaç eder?
 okul_oncesi	🍪🍪 ve 🍪🍪 — hepsi kaç tane?
 okul_oncesi	🍪🍪🍪 ve 🍪🍪 kaç eder?
 okul_oncesi	🍪🍪🍪 ve 🍪🍪 — hepsi kaç tane?
+okul_oncesi	🍪🍪🍪🍪 tabakta 4 kurabiye vardı. elif 1 tanesini yedi. tabakta kaç kurabiye kaldı?
 okul_oncesi	🍪🍪🍪🍪 ve 🍪 kaç eder?
 okul_oncesi	🍪🍪🍪🍪 ve 🍪 — hepsi kaç tane?
 okul_oncesi	🎁 ve 🎁🎁🎁🎁 kaç eder?
@@ -12856,6 +13139,7 @@ okul_oncesi	🐥🐥🐥 ve 🐥🐥 kaç eder?
 okul_oncesi	🐥🐥🐥 ve 🐥🐥 — hepsi kaç tane?
 okul_oncesi	🐥🐥🐥🐥 yanına 🐥 gelirse kaç tane 🐥 olur?
 okul_oncesi	🐥🐥🐥🐥 yanına 🐥 gelirse toplam kaç tane olur?
+okul_oncesi	🐥🐥🐥🐥🐥 çimenlerde kaç civciv var?
 okul_oncesi	🐦 i̇ngilizcede hangisi?
 okul_oncesi	🐮 i̇neğin i̇ngilizcesi hangisi?
 okul_oncesi	🐱 i̇ngilizcede hangisi?
@@ -12893,6 +13177,7 @@ okul_oncesi	🔴 kırmızının i̇ngilizcesi hangisi?
 okul_oncesi	🔴🔵🔴🔵🔴 … sırada hangi renk var?
 okul_oncesi	🔵 i̇ngilizcede hangisi?
 okul_oncesi	🔺 üçgenin kaç köşesi var?
+okul_oncesi	🚀 roket kalkmaya hazırlanıyor: 5, 4, 3… sırada hangi sayı var?
 okul_oncesi	🚗 yanına 🚗 gelirse kaç tane 🚗 olur?
 okul_oncesi	🚗 yanına 🚗 gelirse toplam kaç tane olur?
 okul_oncesi	🚗 yanına 🚗🚗🚗 gelirse kaç tane 🚗 olur?
@@ -12910,6 +13195,7 @@ okul_oncesi	🚲🚲🚲 yanına 🚲🚲 gelirse toplam kaç tane olur?
 okul_oncesi	🚲🚲🚲🚲 ve 🚲 kaç eder?
 okul_oncesi	🚲🚲🚲🚲 ve 🚲 — hepsi kaç tane?
 okul_oncesi	🟡 i̇ngilizcede hangisi?
+okul_oncesi	🟡🟢🟢🟡🟢🟢🟡 … sırada hangi renk var?
 okul_oncesi	🟢 i̇ngilizcede hangisi?
 okul_oncesi	🟣 i̇ngilizcede hangisi?
 okul_oncesi	🟤 i̇ngilizcede hangisi?
@@ -12918,6 +13204,7 @@ okul_oncesi	🥕 yanına 🥕🥕🥕🥕 gelirse kaç tane 🥕 olur?
 okul_oncesi	🥕 yanına 🥕🥕🥕🥕 gelirse toplam kaç tane olur?
 okul_oncesi	🦁 i̇ngilizcede hangisi?
 okul_oncesi	🦆 i̇ngilizcede hangisi?
+okul_oncesi	🦊 “tilki” kelimesi hangi sesle başlar?
 okul_oncesi	🦋 yanına 🦋🦋🦋🦋 gelirse kaç tane 🦋 olur?
 okul_oncesi	🦋 yanına 🦋🦋🦋🦋 gelirse toplam kaç tane olur?
 okul_oncesi	🧁 yanına 🧁🧁 gelirse kaç tane 🧁 olur?
